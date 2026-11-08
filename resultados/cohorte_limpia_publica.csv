@@ -1,0 +1,1201 @@
+﻿id_anonimo,programa,facultad,estrato,tipo_colegio,puntaje_saber11,creditos,promedio_2025_1,matriculado_2025_2,desertor,estado_pago_2025_2,nota_s4,nota_s8,prom_nota_s4_s8_0a5,acc_s7_s8,alerta_actual,alerta_nueva,puntaje_riesgo,acc_s1,acc_s2,acc_s3,acc_s4,acc_s5,acc_s6,acc_s7,acc_s8
+2b646ad7cb,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,355,18,4.1,1,0,Pagado,100.0,78.0,4.45,9,0,0,0,5,5,7,6,4,9,2,7
+53059e34ca,Ingeniería Industrial,Ingeniería,1,Privado,283,17,3.7,1,0,Pagado,45.0,71.0,2.9,21,1,0,0,11,6,4,8,8,10,10,11
+9aa7110f8b,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,274,15,3.2,1,0,Pagado,65.0,79.0,3.6,12,0,0,0,5,3,9,5,7,6,5,7
+8a2d451162,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,3.9,1,0,Pagado,65.0,65.0,3.25,20,0,0,0,5,16,4,6,12,7,12,8
+ddf2401896,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,315,18,4.5,1,0,Pagado,95.0,88.0,4.575,10,0,0,0,8,9,10,11,11,11,5,5
+5163f6154e,Psicología,Ciencias Sociales y Humanas,3,Privado,209,15,2.0,1,0,Pagado,57.0,24.0,2.025,3,1,1,3,2,3,1,2,2,4,0,3
+e2c7d27bbb,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,18,3.2,1,0,Pagado,56.0,48.0,2.6,14,1,0,0,4,9,7,4,9,8,10,4
+cb32ccb93b,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,18,3.3,1,0,Pagado,72.0,66.0,3.45,9,0,0,0,2,5,8,3,4,4,6,3
+0291eae898,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,248,18,3.0,1,0,Pagado,63.0,83.0,3.65,14,0,0,0,3,3,5,5,3,13,5,9
+377010f9ee,Psicología,Ciencias Sociales y Humanas,4,Oficial,356,17,4.4,1,0,Pagado,100.0,96.0,4.9,16,0,0,0,7,3,5,5,3,3,9,7
+4becbf9aa6,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,265,16,3.3,1,0,Pagado,81.0,70.0,3.775,9,0,0,0,6,5,5,4,3,6,4,5
+c311818f2c,Psicología,Ciencias Sociales y Humanas,6,Privado,283,17,3.0,1,0,Pagado,86.0,85.0,4.275,7,0,0,2,0,1,4,3,5,2,5,2
+b76f1c6314,Ingeniería Informática,Ingeniería,2,Oficial,306,15,3.2,1,0,Pagado,56.0,42.0,2.45,7,1,0,1,2,4,2,5,4,6,4,3
+3338c80e7b,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,231,18,3.9,1,0,Pagado,73.0,85.0,3.95,11,0,0,0,3,11,13,7,8,7,6,5
+9f1c26bdbe,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,347,16,3.0,0,1,Sin liquidación,74.0,74.0,3.7,1,0,0,2,9,9,4,7,2,1,1,0
+d660bb1ee7,Psicología,Ciencias Sociales y Humanas,3,Oficial,337,18,3.7,1,0,Pagado,66.0,66.0,3.3,15,0,0,0,11,9,14,9,8,3,7,8
+7cc28b92f8,Psicología,Ciencias Sociales y Humanas,1,Privado,247,15,2.8,0,1,Sin liquidación,45.0,60.0,2.625,11,1,0,0,8,7,5,4,6,7,4,7
+dc0beb45ab,Ingeniería Informática,Ingeniería,4,Oficial,270,15,3.3,1,0,Pagado,68.0,68.0,3.4,12,0,0,0,5,8,6,2,1,5,5,7
+3883f34ae6,Ingeniería Industrial,Ingeniería,5,Privado,250,15,2.7,1,0,Pagado,63.0,65.0,3.2,6,0,0,0,3,5,6,3,2,4,2,4
+e0bbed1726,Ingeniería Industrial,Ingeniería,3,Oficial,272,15,3.5,1,0,Pagado,73.0,78.0,3.775,6,0,0,0,4,5,4,5,10,4,3,3
+b0d5bfab37,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,198,14,,0,1,Sin liquidación,35.0,44.0,1.975,1,1,1,4,0,0,0,1,0,0,1,0
+09f38aeed7,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,16,3.0,1,0,Pagado,57.0,77.0,3.35,14,0,0,0,8,7,3,4,11,2,10,4
+fb60cb96c1,Psicología,Ciencias Sociales y Humanas,1,Oficial,273,15,3.4,1,0,Pagado,74.0,75.0,3.725,4,0,0,2,3,6,3,0,3,1,1,3
+d5b3a2e761,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,373,18,4.3,1,0,Pagado,84.0,91.0,4.375,16,0,0,0,6,6,10,10,6,7,6,10
+ae1b409a6b,Ingeniería Informática,Ingeniería,1,Privado,314,14,3.6,1,0,Pagado,71.0,56.0,3.175,12,0,0,0,9,7,5,9,6,8,7,5
+bc95fbf638,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,302,15,3.2,1,0,Pagado,71.0,67.0,3.45,11,0,0,0,5,7,6,5,2,4,3,8
+71fb0a1fc8,Ingeniería Industrial,Ingeniería,1,Oficial,257,18,3.4,1,0,Pagado,61.0,73.0,3.35,15,0,0,0,5,1,10,8,7,2,9,6
+0bdabdcd5c,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,258,17,2.1,1,0,Pagado,66.0,32.0,2.45,8,1,0,1,3,2,3,2,4,2,4,4
+81ee00b90f,Psicología,Ciencias Sociales y Humanas,4,Privado,295,16,3.4,1,0,Pagado,81.0,81.0,4.05,5,0,0,0,4,9,9,3,5,3,2,3
+2de522c2be,Ingeniería Informática,Ingeniería,4,Oficial,299,17,3.7,1,0,Pagado,74.0,71.0,3.625,13,0,0,0,5,8,9,10,4,6,5,8
+f96bbeb50d,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,18,3.9,1,0,Pagado,68.0,91.0,3.975,12,0,0,0,9,8,7,9,9,7,5,7
+08b32cc82c,Ingeniería Informática,Ingeniería,3,Oficial,247,14,3.3,1,0,Pagado,74.0,58.0,3.3,12,0,0,0,10,3,6,7,4,6,6,6
+6a90f5d85f,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,282,16,,1,0,Pagado,98.0,95.0,4.825,14,0,0,0,4,6,7,5,3,6,8,6
+fadf17d2e9,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,402,16,3.5,1,0,Pagado,87.0,80.0,4.175,7,0,0,0,3,6,4,1,5,4,4,3
+e38920cc9f,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,18,3.7,1,0,Pagado,77.0,79.0,3.9,11,0,0,0,6,6,3,3,4,10,5,6
+3e7f47c38b,Ingeniería Industrial,Ingeniería,3,Privado,318,15,4.3,1,0,Pagado,83.0,92.0,4.375,14,0,0,0,12,12,8,8,4,7,11,3
+020627f880,Psicología,Ciencias Sociales y Humanas,2,Privado,263,16,3.7,1,0,Pagado,71.0,63.0,3.35,9,0,0,0,15,3,9,7,8,6,4,5
+f41c6653e7,Ingeniería Industrial,Ingeniería,1,Privado,193,15,2.1,0,1,Pendiente,30.0,43.0,1.825,2,1,1,4,0,3,1,0,2,1,0,2
+0cfaeb89bc,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,242,16,2.5,1,0,Pagado,51.0,51.0,2.55,3,1,0,2,3,2,1,3,5,4,1,2
+1cc3080a2f,Psicología,Ciencias Sociales y Humanas,2,Oficial,347,17,4.0,1,0,Pagado,85.0,90.0,4.375,14,0,0,0,7,11,7,10,4,5,6,8
+4073bfcbd0,Psicología,Ciencias Sociales y Humanas,2,Oficial,251,16,2.9,1,0,Pagado,53.0,51.0,2.6,5,1,0,0,4,6,4,1,3,3,3,2
+13512825c3,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,321,18,3.5,1,0,Pagado,71.0,69.0,3.5,12,0,0,0,7,7,5,5,9,7,5,7
+d5fcc32ed9,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,243,18,2.0,0,1,Sin liquidación,43.0,45.0,2.2,5,1,1,4,2,5,2,3,4,1,5,0
+457a6068fc,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,322,15,3.2,1,0,Pagado,57.0,49.0,2.65,7,1,0,0,4,6,8,5,3,7,7,0
+6cbb36479b,Ingeniería Industrial,Ingeniería,2,Oficial,237,16,2.9,0,1,Pendiente,67.0,56.0,3.075,15,0,0,0,3,8,4,7,9,6,7,8
+97fa538ff3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,410,15,,1,0,Pagado,87.0,83.0,4.25,6,0,0,0,1,10,5,4,6,4,2,4
+fb5e8d4196,Psicología,Ciencias Sociales y Humanas,2,Oficial,266,16,2.9,1,0,Pagado,62.0,54.0,2.9,5,1,0,1,3,4,3,5,4,0,3,2
+150134292e,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,265,18,3.2,1,0,Pagado,40.0,64.0,2.6,7,1,0,0,4,4,6,6,4,3,1,6
+cd7baf8495,Ingeniería Industrial,Ingeniería,1,Privado,280,15,3.5,1,0,Pagado,72.0,51.0,3.075,8,0,0,0,2,3,5,6,4,8,2,6
+c4395884ee,Ingeniería Informática,Ingeniería,3,Oficial,388,16,3.8,1,0,Pagado,81.0,66.0,3.675,14,0,0,0,6,5,7,5,6,6,7,7
+4c1b86014b,Ingeniería Informática,Ingeniería,4,Privado,317,18,3.8,1,0,Pagado,92.0,68.0,4.0,15,0,0,0,5,10,3,6,8,5,8,7
+b465275294,Ingeniería Industrial,Ingeniería,2,Oficial,333,15,3.8,1,0,Pagado,87.0,92.0,4.475,10,0,0,0,6,10,8,4,6,4,2,8
+2549441c6a,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,282,14,2.8,0,1,Sin liquidación,60.0,59.0,2.975,5,1,0,2,3,4,3,2,3,0,3,2
+50ffecf3a9,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,267,14,3.8,1,0,Pendiente,89.0,79.0,4.2,8,0,0,0,6,10,5,7,2,5,3,5
+2a1cc330ae,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,262,15,2.5,0,1,Pendiente,70.0,45.0,2.875,7,1,0,1,3,1,4,1,4,2,3,4
+4e2774b296,Psicología,Ciencias Sociales y Humanas,6,Oficial,277,17,2.8,1,0,Pagado,53.0,64.0,2.925,2,1,0,1,5,3,5,3,4,2,0,2
+10a71d5bc7,Ingeniería Informática,Ingeniería,3,Oficial,335,18,3.9,1,0,Pagado,80.0,67.0,3.675,10,0,0,0,5,4,4,5,3,8,5,5
+04658a8f64,Ingeniería Industrial,Ingeniería,3,Oficial,323,14,4.5,1,0,Pagado,97.0,88.0,4.625,16,0,0,0,5,8,14,7,8,13,11,5
+0d90eeb0ca,Psicología,Ciencias Sociales y Humanas,2,Privado,300,14,3.3,1,0,Pagado,56.0,83.0,3.475,9,0,0,0,2,7,3,1,3,4,6,3
+886cf63693,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,223,16,2.2,0,1,Sin liquidación,38.0,53.0,2.275,0,1,1,4,2,2,0,0,1,0,0,0
+a22e2d6e00,Ingeniería Informática,Ingeniería,1,Oficial,307,14,3.4,1,0,Pagado,65.0,55.0,3.0,13,0,0,0,5,6,4,9,8,4,8,5
+ceed82140d,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,16,2.9,0,1,Sin liquidación,42.0,63.0,2.625,13,1,0,0,2,6,6,3,2,8,6,7
+e3566e19ad,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,15,4.6,1,0,Pagado,100.0,80.0,4.5,15,0,0,0,10,11,7,16,7,4,9,6
+54cdf05cf3,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,349,18,3.8,1,0,Pagado,87.0,82.0,4.225,13,0,0,0,5,5,9,4,7,5,5,8
+5488ad540d,Psicología,Ciencias Sociales y Humanas,3,Privado,340,14,3.9,1,0,Pagado,82.0,75.0,3.925,10,0,0,0,10,7,4,4,7,7,4,6
+03d0b6e0f7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,0,1,Anulado,47.0,53.0,2.5,7,1,0,0,6,5,6,3,3,3,4,3
+749d3e93e4,Psicología,Ciencias Sociales y Humanas,1,Oficial,309,17,3.4,1,0,Pagado,76.0,57.0,3.325,15,0,0,0,5,7,8,10,9,4,9,6
+c0eb1788bc,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,313,16,,1,0,Pendiente,85.0,92.0,4.425,6,0,0,0,3,4,3,1,6,2,4,2
+843d83da89,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,292,16,4.0,1,0,Pagado,96.0,87.0,4.575,14,0,0,0,12,8,7,8,7,3,9,5
+c341bcf663,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,287,14,2.8,0,1,Sin liquidación,53.0,15.0,1.7,1,1,0,2,0,7,7,4,8,5,0,1
+ee2605720d,Ingeniería Industrial,Ingeniería,6,Privado,224,15,3.2,1,0,Pagado,96.0,62.0,3.95,15,0,0,0,12,10,5,3,9,10,5,10
+5569ec9b9b,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,16,3.4,1,0,Pendiente,74.0,61.0,3.375,8,0,0,0,7,10,9,6,6,10,1,7
+d0d9c5eb67,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,342,14,3.8,1,0,Pagado,60.0,81.0,3.525,21,0,0,0,8,16,13,7,4,9,11,10
+8ba1601d4d,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,263,14,3.1,1,0,Pagado,49.0,46.0,2.375,16,1,0,1,4,4,3,2,3,1,11,5
+b01d6fd259,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,301,18,2.8,1,0,Pendiente,62.0,36.0,2.45,8,1,0,1,5,6,7,9,5,4,3,5
+f38a4f54b3,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,17,3.7,1,0,Pagado,93.0,66.0,3.975,9,0,0,0,7,3,1,4,3,6,4,5
+6c9aea8c25,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,292,14,2.9,1,0,Pagado,60.0,70.0,3.25,8,0,0,0,2,9,7,5,10,4,6,2
+3f0009dcf1,Ingeniería Informática,Ingeniería,3,Privado,287,14,3.1,1,0,Pagado,69.0,59.0,3.2,10,0,0,0,7,6,2,3,4,4,3,7
+80f96b4191,Ingeniería Informática,Ingeniería,2,Oficial,342,15,3.3,0,1,Sin liquidación,62.0,44.0,2.65,0,1,1,3,4,3,3,6,0,2,0,0
+3bb06e2291,Ingeniería Informática,Ingeniería,3,Oficial,346,16,3.9,1,0,Pagado,77.0,81.0,3.95,13,0,0,0,6,5,6,7,6,6,4,9
+4c6e0dadd9,Ingeniería Informática,Ingeniería,3,Oficial,272,14,3.6,1,0,Pagado,59.0,78.0,3.425,8,0,0,0,12,3,5,6,3,5,4,4
+7d2e56161d,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,16,3.3,1,0,Pagado,71.0,51.0,3.05,14,0,0,0,4,7,8,9,9,4,6,8
+5819713aaa,Ingeniería Informática,Ingeniería,1,Privado,246,14,2.0,1,0,Pagado,54.0,53.0,2.675,8,1,0,2,3,1,2,0,1,0,6,2
+8e7e4e3bee,Psicología,Ciencias Sociales y Humanas,2,Oficial,314,18,2.6,1,0,Pagado,56.0,32.0,2.2,5,1,0,1,2,4,4,4,4,3,3,2
+591f085a36,Ingeniería Industrial,Ingeniería,3,Oficial,236,18,2.1,0,1,Sin liquidación,76.0,24.0,2.5,5,1,1,3,1,2,0,4,5,1,3,2
+2b970068c9,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,202,16,2.6,1,0,Pagado,48.0,54.0,2.55,7,1,0,0,2,3,3,1,5,4,5,2
+029aa96207,Ingeniería Industrial,Ingeniería,3,Oficial,220,18,2.3,0,1,Sin liquidación,33.0,68.0,2.525,6,1,0,0,8,4,4,6,2,2,3,3
+8832596ca2,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,278,17,4.2,1,0,Pagado,90.0,86.0,4.4,23,0,0,0,8,12,11,10,9,14,9,14
+8264737ad9,Psicología,Ciencias Sociales y Humanas,1,Privado,203,16,2.0,0,1,Pendiente,38.0,37.0,1.875,0,1,1,4,1,0,0,0,0,0,0,0
+8ff17b14aa,Ingeniería Informática,Ingeniería,2,Oficial,333,15,4.2,1,0,Pagado,92.0,84.0,4.4,16,0,0,0,9,3,6,5,4,6,11,5
+b31ff3c0df,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,301,14,4.4,1,0,Pagado,74.0,85.0,3.975,12,0,0,0,3,10,7,10,6,12,7,5
+bdefaf9efb,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,301,16,4.2,1,0,Pagado,79.0,84.0,4.075,16,0,0,0,4,6,8,12,9,3,10,6
+57793b59c0,Ingeniería Informática,Ingeniería,3,Oficial,278,14,3.2,1,0,Pagado,55.0,48.0,2.575,12,1,0,0,3,4,3,7,2,3,9,3
+4325c0d887,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,258,16,2.8,0,1,Pendiente,43.0,62.0,2.625,3,1,0,0,1,3,6,3,4,5,1,2
+f19b0a45c5,Ingeniería Informática,Ingeniería,3,Oficial,356,18,3.0,1,0,Pagado,60.0,53.0,2.825,14,1,0,0,3,5,5,6,2,5,10,4
+c73100b408,Psicología,Ciencias Sociales y Humanas,4,Oficial,268,17,3.3,1,0,Pagado,40.0,57.0,2.425,10,1,0,1,4,4,1,3,3,1,4,6
+01402d8fd3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,17,,1,0,Pagado,100.0,52.0,3.8,18,0,0,0,11,13,3,4,6,5,12,6
+f85c7d053e,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,308,18,4.4,1,0,Pagado,96.0,100.0,4.9,15,0,0,0,10,16,11,12,7,6,7,8
+053a387e43,Ingeniería Informática,Ingeniería,2,Oficial,365,14,4.3,1,0,Pagado,88.0,74.0,4.05,7,0,0,1,4,2,5,2,3,1,2,5
+8b6151f18b,Ingeniería Informática,Ingeniería,1,Oficial,197,16,1.8,0,1,Pendiente,34.0,37.0,1.775,11,1,0,2,2,3,2,1,3,2,4,7
+93cf6a4e94,Psicología,Ciencias Sociales y Humanas,3,Oficial,310,16,3.2,1,0,Pagado,48.0,63.0,2.775,5,1,0,2,0,0,3,2,3,4,4,1
+3b0a46507b,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,335,18,3.6,1,0,Pagado,74.0,70.0,3.6,9,0,0,0,4,5,2,2,5,1,6,3
+b05e34f5c3,Psicología,Ciencias Sociales y Humanas,1,Privado,305,18,3.6,1,0,Pendiente,66.0,81.0,3.675,10,0,0,0,5,7,9,8,2,8,2,8
+d8e3a3a5ef,Ingeniería Industrial,Ingeniería,2,Oficial,309,15,3.0,1,0,Pagado,50.0,78.0,3.2,4,0,0,1,2,6,2,5,2,5,1,3
+7be2f628cc,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,286,17,3.8,1,0,Pagado,67.0,70.0,3.425,17,0,0,0,10,8,6,8,7,7,9,8
+97fed3da80,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,306,14,4.6,1,0,Pagado,100.0,100.0,5.0,11,0,0,0,12,7,6,8,7,4,3,8
+65c2e3780a,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,341,17,4.5,1,0,Pagado,100.0,91.0,4.775,7,0,0,0,7,11,9,1,10,8,5,2
+9a8b54446f,Psicología,Ciencias Sociales y Humanas,2,Privado,347,16,4.3,1,0,Pendiente,78.0,82.0,4.0,14,0,0,0,10,8,10,10,10,12,8,6
+e0d1cc6541,Psicología,Ciencias Sociales y Humanas,1,Privado,287,17,3.8,1,0,Pagado,80.0,95.0,4.375,9,0,0,0,2,4,5,4,5,5,3,6
+47ebc0949f,Ingeniería Informática,Ingeniería,2,Oficial,324,14,4.0,1,0,Pagado,79.0,87.0,4.15,9,0,0,0,9,8,8,11,10,3,5,4
+4f1ce92a4d,Ingeniería Industrial,Ingeniería,4,Oficial,281,14,2.9,0,1,Pendiente,63.0,55.0,2.95,3,1,0,2,4,1,2,4,7,3,1,2
+b148cb55f9,Psicología,Ciencias Sociales y Humanas,6,Oficial,234,16,4.5,1,0,Pagado,94.0,78.0,4.3,13,0,0,0,9,4,1,3,3,9,5,8
+ac03d60c45,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,296,16,3.4,1,0,Pagado,73.0,84.0,3.925,14,0,0,0,3,6,4,6,3,4,9,5
+ee42b17d08,Ingeniería Informática,Ingeniería,4,Oficial,306,16,3.4,1,0,Pendiente,54.0,76.0,3.25,7,0,0,0,8,4,11,7,10,7,3,4
+725c87ca67,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,14,3.8,1,0,Pagado,90.0,67.0,3.925,15,0,0,0,4,7,4,8,3,7,9,6
+0f7abf81f0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,321,17,4.2,1,0,Pagado,85.0,93.0,4.45,14,0,0,0,7,6,7,7,3,6,8,6
+05bf878553,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,17,4.8,1,0,Pagado,89.0,97.0,4.65,10,0,0,0,6,3,7,11,9,7,5,5
+4da99aaee1,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,269,17,2.6,0,1,Pendiente,44.0,60.0,2.6,5,1,0,0,4,11,3,0,1,3,3,2
+254734606c,Psicología,Ciencias Sociales y Humanas,3,Oficial,221,16,2.4,1,0,Pagado,49.0,24.0,1.825,4,1,0,2,2,8,4,4,2,3,2,2
+4d00e2209d,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,343,14,3.6,1,0,Pagado,75.0,72.0,3.675,16,0,0,0,10,11,6,5,9,5,9,7
+0aef353fde,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,292,16,3.6,1,0,Pagado,77.0,79.0,3.9,12,0,0,0,6,6,6,9,9,8,4,8
+2b7109e729,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,294,18,3.6,1,0,Pagado,71.0,75.0,3.65,9,0,0,0,8,2,2,4,2,5,5,4
+415529e0bd,Psicología,Ciencias Sociales y Humanas,3,Oficial,283,16,4.6,1,0,Pagado,80.0,100.0,4.5,13,0,0,0,9,10,6,7,10,11,8,5
+e9bfb97fb7,Ingeniería Informática,Ingeniería,4,Oficial,289,15,3.6,1,0,Pagado,50.0,66.0,2.9,4,1,0,0,6,4,8,9,4,8,2,2
+f468ad9c7a,Ingeniería Informática,Ingeniería,1,Oficial,293,14,3.4,1,0,Pagado,93.0,64.0,3.925,7,0,0,0,9,4,6,4,6,8,4,3
+3ce8f5e4ab,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,3.5,1,0,Pagado,69.0,51.0,3.0,16,0,0,0,3,6,4,6,9,4,5,11
+04a2fbaf36,Psicología,Ciencias Sociales y Humanas,3,Privado,320,18,4.2,1,0,Pagado,81.0,76.0,3.925,12,0,0,0,6,9,7,8,4,16,3,9
+96451074eb,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,318,18,4.2,1,0,Pagado,100.0,81.0,4.525,14,0,0,0,3,4,6,5,11,3,8,6
+7f85528d43,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,304,15,3.3,1,0,Pagado,63.0,28.0,2.275,16,1,0,1,11,7,11,8,9,6,10,6
+37b6ce6635,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.8,0,1,Sin liquidación,68.0,62.0,3.25,2,0,1,3,3,2,5,2,3,4,2,0
+0383b935ef,Ingeniería Informática,Ingeniería,1,Privado,317,16,3.7,0,1,Pendiente,97.0,64.0,4.025,0,1,1,3,2,7,6,2,0,1,0,0
+e9daffd539,Ingeniería Industrial,Ingeniería,2,Oficial,308,15,3.4,1,0,Pagado,45.0,69.0,2.85,11,1,0,0,5,6,2,4,6,4,8,3
+09699952f5,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,297,14,3.9,1,0,Pagado,97.0,68.0,4.125,15,0,0,0,4,5,6,4,6,7,6,9
+8edbeec7fb,Ingeniería Industrial,Ingeniería,3,Oficial,305,14,2.9,0,1,Pendiente,35.0,60.0,2.375,1,1,1,4,1,1,1,2,0,0,1,0
+808306b09c,Ingeniería Industrial,Ingeniería,5,Oficial,238,14,2.5,0,1,Sin liquidación,64.0,53.0,2.925,12,1,0,0,5,9,4,7,8,7,9,3
+263cdabdd9,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.5,0,1,Sin liquidación,70.0,41.0,2.775,14,1,0,0,6,5,5,4,7,8,5,9
+380b14d2f0,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,280,15,3.1,1,0,Pagado,61.0,63.0,3.1,13,0,0,0,7,4,2,6,3,3,9,4
+93d4b7b1b4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,17,3.5,1,0,Pagado,54.0,73.0,3.175,16,0,0,0,10,9,7,5,2,7,9,7
+2f97347279,Ingeniería Informática,Ingeniería,1,Oficial,322,14,3.8,1,0,Pagado,93.0,76.0,4.225,5,0,0,0,1,4,0,5,5,4,4,1
+7c602e5f81,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,340,16,4.3,1,0,Pagado,100.0,86.0,4.65,16,0,0,0,9,6,6,6,6,5,13,3
+f85fbe7bab,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,318,15,3.6,1,0,Pagado,59.0,70.0,3.225,8,0,0,0,6,8,5,6,6,3,3,5
+c31c81ce3f,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,268,16,2.9,1,0,Pagado,68.0,53.0,3.025,6,0,0,0,4,6,10,7,5,6,4,2
+b377c475ad,Ingeniería Informática,Ingeniería,2,Privado,264,15,3.2,1,0,Pagado,71.0,85.0,3.9,9,0,0,0,11,6,1,6,4,4,3,6
+4ae6fade47,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,263,15,2.6,1,0,Pagado,49.0,77.0,3.15,3,0,0,1,4,4,4,4,4,1,1,2
+562f163792,Ingeniería Informática,Ingeniería,1,Privado,272,17,2.0,0,1,Pendiente,55.0,37.0,2.3,13,1,0,1,2,4,5,4,4,1,7,6
+7ff6971ab9,Psicología,Ciencias Sociales y Humanas,3,Privado,283,15,2.8,0,1,Sin liquidación,72.0,74.0,3.65,3,0,0,2,9,1,1,2,1,4,2,1
+71e8516b38,Ingeniería Industrial,Ingeniería,3,Oficial,250,16,2.9,1,0,Pagado,71.0,70.0,3.525,12,0,0,0,3,5,2,5,2,2,6,6
+334d4a6de4,Ingeniería Informática,Ingeniería,1,Privado,199,17,3.0,1,0,Pagado,66.0,67.0,3.325,22,0,0,0,7,5,9,7,5,6,14,8
+51112a8539,Ingeniería Informática,Ingeniería,2,Privado,299,16,4.2,1,0,Pagado,100.0,73.0,4.325,16,0,0,0,10,12,10,8,8,6,6,10
+28e818bcb3,Psicología,Ciencias Sociales y Humanas,3,Oficial,312,16,4.2,1,0,Pagado,72.0,65.0,3.425,10,0,0,0,4,8,5,4,4,4,5,5
+ded888b3ad,Psicología,Ciencias Sociales y Humanas,2,Privado,304,17,3.4,1,0,Pagado,82.0,63.0,3.625,8,0,0,0,8,6,8,10,7,6,6,2
+af86dfeb5c,Ingeniería Informática,Ingeniería,1,Oficial,340,16,,1,0,Pagado,99.0,70.0,4.225,4,0,0,0,9,6,6,6,5,8,2,2
+8ea1713e51,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,292,15,3.0,0,1,Sin liquidación,63.0,53.0,2.9,6,1,0,0,4,9,8,7,3,9,4,2
+af36d019f7,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,306,18,3.0,1,0,Pagado,56.0,63.0,2.975,6,1,0,0,5,5,3,2,0,3,3,3
+539929f9b1,Psicología,Ciencias Sociales y Humanas,2,Oficial,307,18,4.0,1,0,Pagado,74.0,73.0,3.675,16,0,0,0,2,10,11,8,5,4,12,4
+7601c8cf40,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,18,3.2,1,0,Pagado,66.0,49.0,2.875,11,1,0,0,5,3,7,3,4,7,3,8
+865be86f18,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,17,2.8,0,1,Sin liquidación,61.0,44.0,2.625,2,1,0,2,4,1,6,2,4,4,1,1
+ea2472a00d,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,16,3.1,1,0,Pagado,51.0,68.0,2.975,4,1,1,3,2,2,2,0,2,2,2,2
+739bbad520,Ingeniería Industrial,Ingeniería,3,Privado,313,15,4.1,1,0,Pagado,100.0,67.0,4.175,13,0,0,0,4,2,4,8,7,3,4,9
+e5b90e38b0,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,260,16,2.8,1,0,Pendiente,53.0,57.0,2.75,11,1,0,0,3,6,9,6,4,5,3,8
+4fc9f6952b,Ingeniería Industrial,Ingeniería,2,Oficial,322,15,3.9,1,0,Pagado,61.0,62.0,3.075,12,0,0,0,6,7,3,9,0,10,7,5
+e4a64ba8df,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,208,15,2.1,1,0,Pagado,37.0,36.0,1.825,8,1,1,3,4,1,0,3,0,1,4,4
+e18bff5de6,Psicología,Ciencias Sociales y Humanas,5,Oficial,227,14,1.6,0,1,Pendiente,32.0,44.0,1.9,4,1,1,3,5,2,2,2,3,3,2,2
+9bc2bf2b60,Psicología,Ciencias Sociales y Humanas,3,Privado,270,15,3.1,1,0,Pagado,46.0,58.0,2.6,8,1,0,0,1,3,2,6,6,5,6,2
+b4f77b647b,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,370,16,4.5,1,0,Pagado,100.0,100.0,5.0,23,0,0,0,3,9,9,12,11,9,12,11
+d4f657687e,Ingeniería Industrial,Ingeniería,3,Privado,302,14,3.4,1,0,Pagado,83.0,49.0,3.3,16,0,0,0,15,6,14,8,10,8,7,9
+8bf435b2be,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,324,16,3.8,1,0,Pagado,83.0,79.0,4.05,12,0,0,0,9,11,11,7,10,4,5,7
+f637f89cd8,Psicología,Ciencias Sociales y Humanas,2,Privado,301,15,3.2,1,0,Pagado,55.0,74.0,3.225,6,0,0,0,5,4,4,4,7,6,1,5
+147e6a5457,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,295,14,3.5,1,0,Pagado,57.0,52.0,2.725,6,1,0,0,2,3,4,6,5,7,3,3
+cfa6af998c,Ingeniería Informática,Ingeniería,5,Privado,318,16,3.6,1,0,Pagado,75.0,71.0,3.65,8,0,0,0,8,8,6,9,5,6,2,6
+937ee87d6c,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,15,3.1,1,0,Pagado,50.0,59.0,2.725,12,1,0,0,0,4,3,3,1,3,7,5
+6be3b6e670,Psicología,Ciencias Sociales y Humanas,6,Oficial,391,17,3.8,1,0,Pagado,76.0,67.0,3.575,10,0,0,0,7,4,3,6,5,7,7,3
+2bda20c5a5,Psicología,Ciencias Sociales y Humanas,1,Oficial,285,14,3.0,1,0,Pagado,48.0,48.0,2.4,12,1,0,1,7,7,4,10,5,3,3,9
+b459420641,Psicología,Ciencias Sociales y Humanas,1,Oficial,311,16,3.8,1,0,Pagado,82.0,89.0,4.275,11,0,0,0,4,8,5,8,5,3,2,9
+5a9c6a284d,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,16,2.9,1,0,Pagado,52.0,77.0,3.225,13,0,0,0,6,6,4,3,9,4,5,8
+0d39ca586d,Ingeniería Industrial,Ingeniería,1,Oficial,282,14,3.7,1,0,Pagado,57.0,79.0,3.4,14,0,0,0,3,9,9,5,7,8,7,7
+18f416ba2d,Ingeniería Informática,Ingeniería,2,Privado,330,17,4.7,1,0,Pagado,100.0,88.0,4.7,18,0,0,0,4,7,7,8,7,8,11,7
+15749923e2,Psicología,Ciencias Sociales y Humanas,4,Privado,198,18,2.9,1,0,Pagado,57.0,45.0,2.55,7,1,0,0,6,4,3,5,5,3,2,5
+d34aebe4c9,Psicología,Ciencias Sociales y Humanas,2,Oficial,372,18,4.4,1,0,Pagado,100.0,79.0,4.475,10,0,0,0,7,10,2,3,5,4,6,4
+5d9e768060,Ingeniería Informática,Ingeniería,3,Oficial,324,17,3.4,1,0,Pagado,70.0,78.0,3.7,13,0,0,0,1,3,11,7,10,6,7,6
+39ccc3937c,Ingeniería Informática,Ingeniería,2,Oficial,334,15,4.7,1,0,Pagado,91.0,100.0,4.775,14,0,0,0,8,9,8,13,16,9,9,5
+4d0a6f365a,Psicología,Ciencias Sociales y Humanas,3,Oficial,328,16,3.6,1,0,Pagado,59.0,68.0,3.175,12,0,0,0,4,9,9,9,12,4,4,8
+aad69b9979,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,296,17,2.9,1,0,Pagado,66.0,43.0,2.725,13,1,0,0,3,10,3,8,11,7,3,10
+1edf0a84ba,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,246,16,3.3,1,0,Pagado,63.0,70.0,3.325,9,0,0,0,3,7,6,4,3,4,5,4
+8489674e65,Ingeniería Informática,Ingeniería,1,Oficial,338,14,3.5,0,1,Sin liquidación,58.0,69.0,3.175,9,0,0,0,3,4,8,7,19,7,4,5
+8b77a8c901,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,16,3.0,1,0,Pagado,45.0,69.0,2.85,12,1,0,0,8,7,4,6,11,6,6,6
+8ce4e1a98b,Ingeniería Informática,Ingeniería,3,Privado,282,18,3.1,1,0,Pagado,66.0,65.0,3.275,9,0,0,0,1,1,3,5,0,4,4,5
+79166f9ee8,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,318,14,3.2,1,0,Pagado,81.0,55.0,3.4,11,0,0,0,6,3,4,3,4,5,6,5
+801d21f768,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,403,14,3.9,1,0,Pagado,84.0,100.0,4.6,13,0,0,0,4,5,7,9,8,7,5,8
+99e005a4b0,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,18,2.3,1,0,Pagado,48.0,38.0,2.15,12,1,0,1,3,5,3,7,6,10,7,5
+fd36985f1d,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,231,15,2.7,0,1,Pendiente,39.0,61.0,2.5,0,1,1,3,5,1,0,4,0,0,0,0
+b65ee561d0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,298,15,3.7,1,0,Pagado,90.0,78.0,4.2,17,0,0,0,10,11,10,12,7,8,10,7
+3fccd59723,Ingeniería Informática,Ingeniería,3,Privado,180,17,2.1,1,0,Pagado,34.0,41.0,1.875,5,1,0,2,5,2,0,2,5,4,4,1
+077b187ee7,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,218,18,3.0,1,0,Pagado,52.0,50.0,2.55,13,1,0,0,7,3,6,4,11,8,7,6
+62328f81a9,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,319,16,4.2,1,0,Pagado,70.0,81.0,3.775,19,0,0,0,6,10,13,9,10,9,8,11
+2487f658e3,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,287,17,2.6,1,0,Pagado,59.0,36.0,2.375,5,1,0,2,1,2,2,5,4,4,3,2
+b6170fafcb,Ingeniería Informática,Ingeniería,3,Oficial,260,17,2.9,1,0,Pagado,65.0,38.0,2.575,12,1,0,0,5,8,5,5,5,9,5,7
+4c57ad4e23,Ingeniería Industrial,Ingeniería,1,Oficial,206,14,2.1,0,1,Pendiente,34.0,40.0,1.85,0,1,1,4,0,0,0,1,1,0,0,0
+d215a05456,Psicología,Ciencias Sociales y Humanas,3,Oficial,199,16,3.0,1,0,Pagado,81.0,51.0,3.3,10,0,0,0,2,5,9,5,1,4,3,7
+a253e34551,Ingeniería Informática,Ingeniería,3,Oficial,332,15,3.4,1,0,Pagado,87.0,82.0,4.225,14,0,0,0,5,7,6,9,4,10,6,8
+5f0645fc34,Ingeniería Informática,Ingeniería,3,Oficial,318,18,3.6,1,0,Pagado,72.0,57.0,3.225,21,0,0,0,7,11,7,8,9,7,8,13
+d061af2514,Ingeniería Industrial,Ingeniería,2,Oficial,353,18,3.3,1,0,Pagado,84.0,61.0,3.625,8,0,0,0,1,3,3,3,3,10,4,4
+9fe59471c4,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,363,15,3.3,1,0,Pendiente,68.0,73.0,3.525,2,0,1,3,2,1,3,4,1,3,1,1
+96f6b69f43,Ingeniería Industrial,Ingeniería,3,Oficial,317,14,3.6,1,0,Pagado,60.0,100.0,4.0,7,0,0,0,7,4,4,9,8,7,5,2
+1ec56ff920,Psicología,Ciencias Sociales y Humanas,1,Privado,248,15,2.4,1,0,Pagado,45.0,73.0,2.95,5,1,0,1,5,1,1,2,2,7,2,3
+ceeb801974,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,17,3.8,1,0,Pagado,70.0,80.0,3.75,20,0,0,0,17,7,8,10,17,8,7,13
+980ed05229,Psicología,Ciencias Sociales y Humanas,2,Privado,357,15,3.3,1,0,Pagado,66.0,73.0,3.475,13,0,0,0,7,4,8,5,4,5,7,6
+dc04a03ba6,Psicología,Ciencias Sociales y Humanas,1,Privado,300,14,3.3,1,0,Pagado,71.0,77.0,3.7,9,0,0,0,10,6,5,5,2,1,4,5
+170530c298,Psicología,Ciencias Sociales y Humanas,2,Oficial,232,16,3.4,1,0,Pagado,63.0,78.0,3.525,6,0,0,0,3,2,8,5,7,2,3,3
+595641af02,Ingeniería Informática,Ingeniería,2,Oficial,279,16,3.0,1,0,Pagado,40.0,58.0,2.45,14,1,0,1,3,2,7,5,8,4,6,8
+1a50e0b78a,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,254,18,3.2,1,0,Pagado,51.0,78.0,3.225,8,0,0,0,6,4,3,1,4,6,1,7
+6ddb39bd14,Psicología,Ciencias Sociales y Humanas,3,Oficial,194,18,3.3,1,0,Pagado,45.0,55.0,2.5,14,1,0,0,6,4,6,6,8,3,11,3
+fd03296784,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,316,15,3.8,1,0,Pendiente,61.0,81.0,3.55,13,0,0,0,5,8,10,4,6,7,7,6
+71fc88edd7,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,15,2.9,1,0,Pagado,70.0,62.0,3.3,17,0,0,0,6,5,2,4,1,5,9,8
+d2fac9cabf,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,355,17,3.6,1,0,Pagado,81.0,56.0,3.425,12,0,0,0,8,9,7,4,3,2,5,7
+dda7f5efde,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,277,18,3.6,1,0,Pagado,65.0,58.0,3.075,6,0,0,0,6,5,4,3,5,3,3,3
+ca3f56dde2,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,300,15,,1,0,Pagado,35.0,49.0,2.1,8,1,0,1,6,1,4,8,5,3,5,3
+bd9579a027,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,15,3.8,1,0,Pagado,76.0,89.0,4.125,16,0,0,0,2,5,8,8,3,5,9,7
+0790156758,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,311,18,2.7,1,0,Pagado,57.0,43.0,2.5,7,1,0,0,3,4,6,1,3,5,4,3
+35f74b1ccf,Psicología,Ciencias Sociales y Humanas,1,Oficial,303,14,3.3,1,0,Pagado,69.0,74.0,3.575,19,0,0,0,6,2,8,6,8,10,11,8
+b2a4425883,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,297,18,3.1,1,0,Pagado,39.0,67.0,2.65,5,1,0,0,9,5,3,6,6,7,1,4
+d2970526ac,Ingeniería Informática,Ingeniería,1,Privado,310,17,3.7,1,0,Pendiente,75.0,80.0,3.875,9,0,0,0,5,5,7,5,5,5,5,4
+56a6bb5448,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,291,15,3.9,1,0,Pagado,56.0,71.0,3.175,14,0,0,0,5,13,3,6,6,7,8,6
+e78ae74230,Psicología,Ciencias Sociales y Humanas,4,Oficial,256,17,2.4,1,0,Pagado,70.0,54.0,3.1,5,0,0,1,3,3,3,3,1,2,3,2
+8ab5d93574,Psicología,Ciencias Sociales y Humanas,5,Privado,221,16,2.7,1,0,Pagado,56.0,64.0,3.0,6,0,0,0,6,7,6,4,4,6,3,3
+db9bbe3c22,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,294,17,4.2,1,0,Pagado,87.0,96.0,4.575,13,0,0,0,8,10,7,6,9,14,7,6
+68eeda7f9a,Ingeniería Industrial,Ingeniería,3,Oficial,253,18,3.7,1,0,Pagado,77.0,68.0,3.625,25,0,0,0,7,8,12,9,6,4,11,14
+a3a23eb5d3,Ingeniería Informática,Ingeniería,3,Privado,304,17,4.4,1,0,Pagado,90.0,88.0,4.45,9,0,0,0,7,7,7,9,3,10,4,5
+815ae3f004,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,290,15,3.8,1,0,Pagado,77.0,57.0,3.35,19,0,0,0,10,5,9,9,6,12,7,12
+926363a4bb,Ingeniería Industrial,Ingeniería,6,Oficial,339,17,3.8,1,0,Pagado,85.0,56.0,3.525,11,0,0,0,3,4,9,6,9,10,5,6
+b30c6ccfa2,Ingeniería Industrial,Ingeniería,5,Oficial,310,14,3.9,1,0,Pendiente,100.0,55.0,3.875,9,0,0,0,5,7,8,15,8,4,6,3
+c78c6a2061,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,321,15,3.3,1,0,Pagado,61.0,58.0,2.975,11,1,0,0,4,4,6,4,5,9,5,6
+ba71dfa006,Psicología,Ciencias Sociales y Humanas,3,Oficial,227,14,3.7,1,0,Pagado,49.0,70.0,2.975,12,1,0,0,5,3,5,8,6,2,5,7
+e0cdb8854c,Ingeniería Informática,Ingeniería,2,Oficial,293,17,3.2,1,0,Pagado,70.0,63.0,3.325,16,0,0,0,3,3,2,7,5,7,8,8
+e54c604d88,Ingeniería Informática,Ingeniería,3,Privado,352,16,3.8,0,1,Sin liquidación,82.0,79.0,4.025,14,0,0,0,7,4,8,9,9,2,8,6
+33e7ca2359,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,294,14,2.9,0,1,Anulado,76.0,50.0,3.15,1,0,1,3,4,1,1,3,0,0,0,1
+d5e40468c2,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,266,15,4.4,0,1,Pendiente,72.0,80.0,3.8,21,0,0,0,11,8,14,8,7,8,6,15
+abdfd25a95,Psicología,Ciencias Sociales y Humanas,1,Privado,344,18,3.4,1,0,Pagado,75.0,77.0,3.8,11,0,0,0,9,4,6,4,2,4,5,6
+ed13120d20,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,260,16,3.4,1,0,Pagado,88.0,55.0,3.575,12,0,0,0,8,5,4,5,8,8,5,7
+605d68530e,Psicología,Ciencias Sociales y Humanas,1,Oficial,242,14,3.2,1,0,Pagado,60.0,53.0,2.825,11,1,0,0,4,5,7,6,4,7,4,7
+a37c8ee1e8,Ingeniería Industrial,Ingeniería,2,Oficial,221,18,4.0,1,0,Pagado,79.0,85.0,4.1,14,0,0,0,3,8,9,4,4,6,5,9
+0b6c395380,Ingeniería Informática,Ingeniería,2,Oficial,285,18,2.9,0,1,Anulado,61.0,74.0,3.375,0,1,1,3,3,3,1,1,0,1,0,0
+08831681a0,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,248,18,3.3,1,0,Pagado,68.0,69.0,3.425,8,0,0,0,7,5,4,5,7,3,6,2
+abb9e47e60,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,232,14,2.5,0,1,Anulado,45.0,33.0,1.95,3,1,1,4,2,1,2,0,1,1,1,2
+d7d2596b1d,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,452,17,4.6,1,0,Pagado,82.0,85.0,4.175,12,0,0,0,11,14,9,9,11,16,5,7
+fa8a7dd674,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,17,4.2,1,0,Pagado,90.0,90.0,4.5,16,0,0,0,7,9,8,8,9,14,8,8
+989da1c034,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,315,14,3.9,1,0,Pagado,86.0,65.0,3.775,14,0,0,0,7,9,6,12,10,6,5,9
+8e9d9fc22c,Psicología,Ciencias Sociales y Humanas,4,Oficial,218,16,3.3,1,0,Pagado,59.0,46.0,2.625,8,1,0,0,4,2,7,8,10,6,5,3
+7019d8dc53,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,263,17,4.0,1,0,Pagado,98.0,70.0,4.2,6,0,0,0,7,6,6,2,8,6,4,2
+9d4a1fb0da,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,1,0,Pagado,64.0,56.0,3.0,3,0,1,3,0,3,4,3,2,3,1,2
+d3ad10ddcd,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,238,15,3.8,1,0,Pagado,77.0,72.0,3.725,14,0,0,0,10,8,5,8,4,9,6,8
+c1a0135dc1,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,260,14,3.9,1,0,Pagado,72.0,93.0,4.125,10,0,0,0,8,9,8,4,6,5,5,5
+7810c58df3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,229,18,2.2,1,0,Pagado,31.0,46.0,1.925,8,1,0,1,2,2,3,2,3,5,5,3
+a680c58bdb,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,320,17,4.3,0,1,Sin liquidación,73.0,75.0,3.7,0,1,0,2,4,8,8,7,0,1,0,0
+3e276c9366,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,345,15,3.3,1,0,Pagado,71.0,59.0,3.25,9,0,0,0,3,1,5,2,2,7,6,3
+21456a5fce,Psicología,Ciencias Sociales y Humanas,2,Privado,326,18,3.7,1,0,Pagado,67.0,99.0,4.15,20,0,0,0,8,4,6,4,10,11,8,12
+41d57e00c4,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,245,14,2.9,0,1,Pendiente,57.0,68.0,3.125,4,0,1,3,1,5,4,5,1,1,2,2
+fb0dc24462,Psicología,Ciencias Sociales y Humanas,3,Privado,194,18,3.1,1,0,Pagado,41.0,45.0,2.15,15,1,0,1,8,2,4,1,3,3,9,6
+fdd0836287,Psicología,Ciencias Sociales y Humanas,4,Oficial,316,16,4.0,1,0,Pagado,69.0,100.0,4.225,15,0,0,0,3,9,5,6,7,9,7,8
+74672dda91,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,345,18,4.1,1,0,Pagado,82.0,94.0,4.4,7,0,0,0,3,17,11,3,4,6,4,3
+77e2ef1f31,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,257,16,3.2,1,0,Pagado,78.0,55.0,3.325,19,0,0,0,5,6,11,10,9,9,10,9
+f478dd1969,Psicología,Ciencias Sociales y Humanas,2,Privado,266,18,2.4,0,1,Anulado,44.0,53.0,2.425,1,1,1,4,2,2,4,1,1,0,1,0
+0b4f2bf3c0,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,305,16,3.6,1,0,Pagado,73.0,74.0,3.675,12,0,0,0,5,8,8,11,6,4,5,7
+37b0466a97,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,284,16,2.8,1,0,Pagado,68.0,34.0,2.55,3,1,1,3,4,3,2,1,1,3,1,2
+c44199846a,Ingeniería Industrial,Ingeniería,6,Oficial,307,16,3.0,1,0,Pagado,76.0,69.0,3.625,7,0,0,0,5,0,4,3,5,2,2,5
+c554678f9a,Psicología,Ciencias Sociales y Humanas,1,Privado,255,15,3.3,1,0,Pagado,53.0,69.0,3.05,9,0,0,0,5,8,8,1,6,9,4,5
+32b51fcfd8,Psicología,Ciencias Sociales y Humanas,1,Oficial,302,16,3.0,1,0,Pagado,79.0,68.0,3.675,6,0,0,1,1,5,4,3,1,1,3,3
+c8fe934bf8,Psicología,Ciencias Sociales y Humanas,1,Privado,336,15,4.2,0,1,Pendiente,79.0,76.0,3.875,16,0,0,0,2,7,8,3,13,7,8,8
+01ee3fb890,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,357,15,3.9,1,0,Pagado,72.0,82.0,3.85,11,0,0,0,6,3,6,5,6,6,4,7
+ff96e14dc7,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.8,1,0,Pagado,72.0,57.0,3.225,15,0,0,0,5,13,11,8,4,6,7,8
+8fa34a9ba5,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,344,17,3.2,1,0,Pagado,61.0,74.0,3.375,3,0,0,2,1,2,4,3,4,4,2,1
+c66a44fcbc,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,322,14,3.6,1,0,Pagado,73.0,62.0,3.375,10,0,0,0,10,7,8,4,9,11,4,6
+35ffac93b2,Ingeniería Informática,Ingeniería,3,Privado,211,16,2.8,1,0,Pagado,45.0,64.0,2.725,10,1,0,0,4,4,5,2,4,2,3,7
+7038d90489,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,252,18,3.2,1,0,Pagado,46.0,65.0,2.775,7,1,0,0,7,4,4,3,3,4,4,3
+08a45667c7,Ingeniería Industrial,Ingeniería,3,Privado,331,15,3.5,1,0,Pagado,70.0,69.0,3.475,4,0,0,0,6,4,4,2,1,7,1,3
+9d3d4cf3a4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,246,18,2.4,0,1,Pendiente,51.0,52.0,2.575,4,1,1,3,1,4,2,1,2,0,3,1
+d63c4ecb95,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,290,15,3.0,1,0,Pagado,50.0,74.0,3.1,4,0,0,1,5,2,11,4,2,4,2,2
+23646c9c5b,Ingeniería Industrial,Ingeniería,2,Privado,269,16,3.5,1,0,Pagado,71.0,76.0,3.675,8,0,0,0,6,2,6,3,6,6,4,4
+5286529d43,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,356,15,4.2,1,0,Pagado,100.0,82.0,4.55,17,0,0,0,7,8,4,10,8,8,7,10
+ebe6915404,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,290,14,2.7,1,0,Pagado,30.0,52.0,2.05,13,1,0,1,6,5,8,6,5,7,7,6
+caeb2e8b3e,Ingeniería Informática,Ingeniería,2,Oficial,307,18,4.1,1,0,Pagado,81.0,86.0,4.175,7,0,0,0,8,9,9,6,10,4,3,4
+0ce60d47dc,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,348,14,3.1,1,0,Pagado,55.0,70.0,3.125,6,0,0,0,7,7,3,4,8,7,1,5
+a785d623fd,Ingeniería Industrial,Ingeniería,3,Oficial,339,15,3.7,1,0,Pagado,78.0,93.0,4.275,8,0,0,0,9,8,4,5,4,6,2,6
+f8feb968ca,Ingeniería Informática,Ingeniería,3,Privado,269,14,2.9,1,0,Pagado,93.0,44.0,3.425,7,0,0,0,4,5,2,5,5,4,2,5
+7aa4e219f2,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,270,14,2.6,1,0,Pagado,47.0,47.0,2.35,3,1,1,4,3,1,1,1,0,1,0,3
+04ef01c6fb,Ingeniería Industrial,Ingeniería,3,Oficial,328,17,4.1,1,0,Pagado,71.0,97.0,4.2,12,0,0,0,9,9,3,3,1,7,4,8
+a545cbeae0,Psicología,Ciencias Sociales y Humanas,1,Oficial,308,16,,1,0,Pagado,82.0,84.0,4.15,12,0,0,0,7,4,7,8,8,11,3,9
+f6467d4112,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,367,14,3.7,1,0,Pagado,66.0,73.0,3.475,8,0,0,0,7,7,8,4,6,7,3,5
+37079c8392,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,289,14,2.8,1,0,Pagado,59.0,54.0,2.825,9,1,0,0,3,5,4,4,6,4,8,1
+4b44db3747,Ingeniería Industrial,Ingeniería,2,Oficial,269,15,2.2,1,0,Pagado,31.0,42.0,1.825,6,1,0,1,6,4,6,2,4,2,3,3
+a55645b879,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,14,3.4,1,0,Pagado,62.0,46.0,2.7,10,1,0,0,5,8,8,1,5,5,4,6
+08f8e96a00,Ingeniería Informática,Ingeniería,3,Oficial,298,14,3.8,1,0,Pagado,69.0,76.0,3.625,18,0,0,0,5,5,6,3,9,3,6,12
+fcc5305346,Ingeniería Industrial,Ingeniería,5,Oficial,353,14,4.2,1,0,Pagado,78.0,91.0,4.225,12,0,0,0,6,3,7,1,4,8,8,4
+828ad7a323,Ingeniería Informática,Ingeniería,1,Privado,334,18,3.6,1,0,Pagado,77.0,66.0,3.575,10,0,0,0,6,8,7,7,4,12,4,6
+65eb0ef369,Ingeniería Industrial,Ingeniería,4,Oficial,298,14,3.9,1,0,Pagado,71.0,73.0,3.6,10,0,0,0,9,5,6,5,4,9,6,4
+e0796fe010,Ingeniería Informática,Ingeniería,3,Oficial,376,17,3.7,1,0,Pagado,38.0,96.0,3.35,14,0,0,0,9,5,4,6,5,4,5,9
+f0dfc6b666,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,319,17,3.6,0,1,Sin liquidación,77.0,77.0,3.85,16,0,0,0,9,4,6,5,4,10,4,12
+e3f796272d,Ingeniería Informática,Ingeniería,3,Privado,292,18,3.2,1,0,Pagado,60.0,83.0,3.575,6,0,0,2,3,2,0,0,3,2,5,1
+823fcd072c,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,245,14,2.7,1,0,Pagado,69.0,40.0,2.725,15,1,0,0,3,4,9,5,6,4,10,5
+28cc9abcc0,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,266,14,4.2,1,0,Pagado,86.0,85.0,4.275,14,0,0,0,4,8,3,9,8,5,10,4
+0fdb46a182,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,292,17,3.5,1,0,Pagado,71.0,78.0,3.725,13,0,0,0,9,3,5,11,4,9,8,5
+d90073e937,Ingeniería Industrial,Ingeniería,1,Oficial,261,15,3.3,1,0,Pagado,74.0,76.0,3.75,10,0,0,0,9,8,4,6,4,5,5,5
+c9240ed521,Ingeniería Informática,Ingeniería,2,Oficial,206,18,2.8,1,0,Pagado,36.0,50.0,2.15,11,1,0,1,5,9,6,7,6,7,6,5
+bf36386c55,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,16,4.5,1,0,Pendiente,100.0,91.0,4.775,19,0,0,0,13,8,8,4,3,5,9,10
+8ad4434201,Psicología,Ciencias Sociales y Humanas,3,Privado,255,14,,0,1,Pendiente,58.0,44.0,2.55,3,1,1,3,3,2,1,1,3,1,2,1
+dcdea0e740,Psicología,Ciencias Sociales y Humanas,3,Privado,267,15,2.6,1,0,Pagado,39.0,42.0,2.025,3,1,0,2,4,8,3,4,3,3,3,0
+267546e0b6,Ingeniería Industrial,Ingeniería,2,Privado,310,17,3.6,1,0,Pagado,81.0,82.0,4.075,16,0,0,0,15,5,4,7,7,8,12,4
+5dd8b93b44,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,338,16,4.4,1,0,Pagado,78.0,81.0,3.975,14,0,0,0,9,9,6,7,15,10,7,7
+d803c88f72,Ingeniería Industrial,Ingeniería,2,Privado,319,17,3.5,1,0,Pagado,69.0,65.0,3.35,7,0,0,2,2,1,3,1,5,1,2,5
+49e78c361c,Ingeniería Industrial,Ingeniería,2,Oficial,220,16,2.7,0,1,Sin liquidación,48.0,33.0,2.025,0,1,1,4,2,4,3,6,1,5,0,0
+f49ae26f01,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,17,3.9,1,0,Pagado,51.0,84.0,3.375,25,0,0,0,9,10,4,8,6,9,10,15
+7e7a838a39,Ingeniería Informática,Ingeniería,2,Oficial,226,15,2.6,1,0,Pendiente,38.0,69.0,2.675,13,1,0,0,9,6,5,4,2,8,7,6
+d2ea3bc40a,Ingeniería Informática,Ingeniería,3,Oficial,273,17,2.8,0,1,Sin liquidación,75.0,62.0,3.425,8,0,0,0,5,4,4,3,8,2,6,2
+5d7133749a,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,2.5,0,1,Anulado,55.0,50.0,2.625,0,1,1,3,3,0,4,3,1,0,0,0
+f3017ee3c7,Ingeniería Industrial,Ingeniería,4,Privado,282,17,3.1,1,0,Pagado,78.0,66.0,3.6,15,0,0,0,8,5,4,3,9,5,8,7
+bb11030d47,Ingeniería Informática,Ingeniería,5,Privado,273,18,3.1,1,0,Pagado,50.0,56.0,2.65,13,1,0,0,7,7,3,2,5,10,7,6
+4836d2b1b3,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,235,14,2.7,1,0,Pagado,28.0,57.0,2.125,10,1,0,1,5,7,3,4,9,5,4,6
+3ffc6eb396,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,16,4.7,1,0,Pagado,86.0,85.0,4.275,12,0,0,0,8,5,7,10,3,5,5,7
+7d2fe33bf0,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,309,15,3.2,1,0,Pagado,63.0,68.0,3.275,15,0,0,0,4,5,11,4,5,7,3,12
+a91274a500,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,382,18,5.0,1,0,Pagado,100.0,100.0,5.0,17,0,0,0,4,9,6,12,5,9,10,7
+057189b620,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,238,15,2.4,0,1,Pendiente,44.0,40.0,2.1,6,1,0,1,3,8,0,1,3,6,3,3
+6510a5ad29,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,15,3.1,1,0,Pendiente,73.0,55.0,3.2,17,0,0,0,6,2,5,4,3,1,8,9
+f21848bef9,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,266,14,3.1,0,1,Pendiente,59.0,62.0,3.025,8,0,0,1,0,5,4,2,1,3,6,2
+e096e88343,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,248,14,2.3,0,1,Sin liquidación,29.0,51.0,2.0,2,1,1,4,5,3,1,2,4,0,2,0
+1b65de6992,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,293,14,4.0,1,0,Pagado,75.0,78.0,3.825,21,0,0,0,7,6,9,8,14,10,10,11
+1747730894,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,14,2.6,1,0,Pagado,38.0,57.0,2.375,2,1,1,4,3,3,1,2,2,1,1,1
+df59d0adf0,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,334,18,3.2,0,1,Sin liquidación,58.0,45.0,2.575,14,1,0,0,5,15,6,12,12,6,12,2
+d77f805074,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,281,17,3.5,1,0,Pagado,87.0,91.0,4.45,9,0,0,0,3,3,4,4,6,4,4,5
+d8f2902948,Ingeniería Informática,Ingeniería,6,Oficial,294,16,,1,0,Pagado,83.0,67.0,3.75,2,0,1,3,0,0,2,0,2,2,1,1
+0cf5494b4c,Ingeniería Industrial,Ingeniería,2,Privado,306,17,,1,0,Pagado,66.0,63.0,3.225,9,0,0,0,9,6,6,8,6,7,6,3
+ceffc6a6c4,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,17,4.3,1,0,Pagado,67.0,84.0,3.775,15,0,0,0,8,8,5,12,6,4,6,9
+dbd97d7532,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,328,16,3.0,1,0,Pagado,61.0,48.0,2.725,17,1,0,0,9,9,4,9,9,8,4,13
+7c93d81f30,Psicología,Ciencias Sociales y Humanas,3,Privado,268,18,3.6,1,0,Pagado,55.0,82.0,3.425,10,0,0,0,4,8,7,4,6,5,5,5
+bb313b3b6f,Ingeniería Industrial,Ingeniería,3,Oficial,256,15,3.4,1,0,Pagado,47.0,62.0,2.725,11,1,0,0,8,3,8,7,3,4,6,5
+816b2efbaa,Ingeniería Industrial,Ingeniería,1,Oficial,297,15,3.0,1,0,Pagado,66.0,62.0,3.2,12,0,0,0,7,5,1,12,5,5,10,2
+2769b0f018,Ingeniería Informática,Ingeniería,1,Oficial,299,16,3.5,1,0,Pagado,72.0,89.0,4.025,12,0,0,0,9,2,9,5,2,5,7,5
+2503f9234f,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,316,14,4.5,1,0,Pagado,90.0,87.0,4.425,13,0,0,0,5,9,4,6,12,10,6,7
+32627a4529,Ingeniería Informática,Ingeniería,4,Privado,280,16,3.6,1,0,Pendiente,78.0,69.0,3.675,18,0,0,0,9,12,3,11,3,2,10,8
+1d0dbf9ba2,Ingeniería Industrial,Ingeniería,4,Oficial,313,14,3.8,1,0,Pagado,85.0,85.0,4.25,14,0,0,0,6,5,4,7,7,1,6,8
+99397a864c,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,358,17,3.6,1,0,Pagado,63.0,69.0,3.3,10,0,0,0,5,5,2,3,5,4,4,6
+90f3a7d494,Psicología,Ciencias Sociales y Humanas,5,Privado,259,17,3.0,1,0,Pagado,62.0,65.0,3.175,4,0,0,0,3,5,4,0,4,6,1,3
+0d8ce4847c,Ingeniería Informática,Ingeniería,3,Privado,271,17,2.1,1,0,Pagado,16.0,40.0,1.4,3,1,1,4,2,4,2,6,0,3,3,0
+0e20061b17,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,258,17,3.5,1,0,Pagado,83.0,59.0,3.55,12,0,0,0,7,5,4,4,4,4,6,6
+80f2dc922e,Psicología,Ciencias Sociales y Humanas,5,Oficial,313,15,3.4,1,0,Pagado,77.0,82.0,3.975,3,0,0,0,3,2,7,3,5,5,0,3
+c24f66976a,Ingeniería Informática,Ingeniería,3,Oficial,308,14,2.7,1,0,Pagado,39.0,47.0,2.15,5,1,0,1,4,3,4,6,4,6,2,3
+01760575a3,Ingeniería Informática,Ingeniería,3,Oficial,339,16,3.7,1,0,Pagado,67.0,81.0,3.7,7,0,0,0,3,3,3,2,3,8,2,5
+cd9e60555a,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,284,17,3.5,0,1,Sin liquidación,72.0,87.0,3.975,15,0,0,0,5,4,5,7,4,3,7,8
+fa62dc6b77,Ingeniería Industrial,Ingeniería,2,Privado,321,14,3.6,1,0,Pagado,80.0,92.0,4.3,19,0,0,0,3,6,10,5,6,5,8,11
+2af7990547,Ingeniería Informática,Ingeniería,3,Oficial,366,14,4.1,1,0,Pagado,70.0,71.0,3.525,18,0,0,0,7,3,18,12,9,8,8,10
+3bc52ec283,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,266,16,3.1,1,0,Pagado,83.0,86.0,4.225,10,0,0,0,7,2,5,5,7,7,6,4
+9ba54abe6d,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,354,17,2.9,1,0,Pagado,53.0,29.0,2.05,8,1,0,1,6,3,2,4,5,3,1,7
+6e807dc698,Ingeniería Informática,Ingeniería,4,Privado,316,16,3.6,1,0,Pagado,71.0,69.0,3.5,11,0,0,1,4,0,5,2,1,3,2,9
+ad907b6f4d,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,259,14,3.0,0,1,Sin liquidación,49.0,82.0,3.275,7,0,0,0,1,2,4,4,4,3,3,4
+74e5e0a4e9,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,279,15,4.0,1,0,Pagado,98.0,77.0,4.375,20,0,0,0,8,11,4,7,6,9,8,12
+d25f109304,Ingeniería Informática,Ingeniería,4,Privado,305,14,3.4,1,0,Pagado,61.0,76.0,3.425,14,0,0,0,8,6,3,9,7,3,7,7
+8029394df6,Ingeniería Informática,Ingeniería,2,Oficial,262,15,3.4,0,1,Pendiente,60.0,54.0,2.85,9,1,0,0,3,3,5,2,4,4,3,6
+15b5d58444,Ingeniería Industrial,Ingeniería,2,Privado,230,17,3.0,0,1,Sin liquidación,78.0,57.0,3.375,0,1,1,3,2,1,1,3,0,0,0,0
+29e803a0fe,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,283,14,3.4,1,0,Pagado,70.0,75.0,3.625,19,0,0,0,5,6,4,4,5,2,12,7
+da1031d122,Psicología,Ciencias Sociales y Humanas,1,Privado,254,14,3.7,1,0,Pagado,71.0,75.0,3.65,15,0,0,0,4,6,10,6,7,11,6,9
+92f04cefe7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,309,17,3.3,1,0,Pagado,74.0,57.0,3.275,13,0,0,0,10,6,4,5,10,8,5,8
+9866717d3f,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,232,18,2.6,0,1,Sin liquidación,46.0,59.0,2.625,0,1,0,1,7,7,6,11,7,0,0,0
+614fbf9ff5,Ingeniería Informática,Ingeniería,2,Oficial,298,16,3.0,1,0,Pendiente,64.0,71.0,3.375,8,0,0,0,7,2,1,2,4,5,5,3
+30883a6614,Ingeniería Informática,Ingeniería,2,Oficial,223,14,2.9,1,0,Pagado,49.0,59.0,2.7,9,1,0,0,2,3,3,2,9,2,5,4
+ff18e7ab64,Ingeniería Industrial,Ingeniería,5,Privado,245,15,,1,0,Pagado,1.0,16.0,0.425,4,1,1,4,4,1,3,4,3,0,2,2
+deb85ac85b,Ingeniería Industrial,Ingeniería,3,Privado,289,18,4.0,1,0,Pagado,97.0,65.0,4.05,13,0,0,0,2,5,7,5,4,5,10,3
+322f777a4a,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,14,2.8,0,1,Pendiente,49.0,49.0,2.45,3,1,1,3,5,2,1,7,3,3,2,1
+76bb308816,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,282,15,3.3,1,0,Pagado,72.0,77.0,3.725,5,0,0,2,1,2,1,1,1,2,5,0
+3af41de01e,Ingeniería Industrial,Ingeniería,3,Privado,261,14,3.3,1,0,Pagado,71.0,78.0,3.725,9,0,0,0,2,6,5,7,4,3,5,4
+b4344f424d,Psicología,Ciencias Sociales y Humanas,3,Oficial,286,14,3.0,1,0,Pagado,65.0,50.0,2.875,10,1,0,1,2,0,5,6,1,1,7,3
+aa7cf1f4cc,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,288,16,3.8,0,1,Pendiente,53.0,60.0,2.825,9,1,0,0,2,12,4,3,6,4,6,3
+7ab0f4927a,Ingeniería Informática,Ingeniería,1,Privado,268,16,3.3,1,0,Pagado,57.0,81.0,3.45,6,0,0,2,1,1,5,0,5,1,3,3
+61339a1927,Ingeniería Informática,Ingeniería,2,Oficial,285,17,3.4,1,0,Pagado,77.0,71.0,3.7,17,0,0,0,9,4,7,5,5,5,7,10
+c25d222f07,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,311,18,3.5,1,0,Pagado,63.0,68.0,3.275,11,0,0,0,8,5,5,10,6,2,6,5
+c76f579737,Ingeniería Industrial,Ingeniería,2,Oficial,295,18,3.5,1,0,Pagado,87.0,63.0,3.75,19,0,0,0,6,10,6,12,11,8,11,8
+e3a09db2ab,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,279,14,2.4,1,0,Pagado,37.0,34.0,1.775,7,1,0,1,4,5,5,4,1,2,2,5
+fec55b7a11,Psicología,Ciencias Sociales y Humanas,3,Oficial,371,15,4.9,1,0,Pagado,100.0,100.0,5.0,9,0,0,0,7,7,10,9,7,10,5,4
+b68cc24c67,Psicología,Ciencias Sociales y Humanas,4,Oficial,261,16,3.3,1,0,Pagado,78.0,52.0,3.25,17,0,0,0,7,5,6,4,5,7,7,10
+38855cebb9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,261,14,3.1,0,1,Sin liquidación,44.0,56.0,2.5,10,1,0,0,5,6,4,9,3,5,4,6
+3a04a5e598,Psicología,Ciencias Sociales y Humanas,1,Oficial,281,18,3.4,0,1,Pendiente,44.0,70.0,2.85,10,1,0,0,6,7,2,7,7,7,5,5
+a04f4521d6,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,332,15,3.8,1,0,Pendiente,69.0,84.0,3.825,7,0,0,0,3,7,7,1,6,9,4,3
+ff3895435c,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,235,16,3.1,1,0,Pagado,76.0,59.0,3.375,8,0,0,0,3,3,3,8,9,3,4,4
+ee5e178d1e,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,214,14,2.1,0,1,Pendiente,33.0,49.0,2.05,4,1,1,3,1,2,2,3,2,4,4,0
+145937bf2b,Ingeniería Informática,Ingeniería,2,Privado,329,14,4.1,1,0,Pagado,81.0,83.0,4.1,16,0,0,0,9,4,9,5,9,8,5,11
+7fb99456b1,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,355,16,3.5,1,0,Pagado,64.0,64.0,3.2,8,0,0,0,2,6,6,3,11,7,5,3
+39d0d672b7,Ingeniería Industrial,Ingeniería,2,Privado,247,15,2.6,1,0,Pagado,65.0,54.0,2.975,10,1,0,0,5,5,4,5,7,6,4,6
+e478d69113,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,325,14,3.0,1,0,Pagado,41.0,54.0,2.375,11,1,0,1,11,5,5,6,3,7,4,7
+0743c86245,Ingeniería Industrial,Ingeniería,2,Oficial,262,18,3.8,1,0,Pendiente,75.0,71.0,3.65,10,0,0,0,4,8,9,5,9,3,8,2
+6aebfbf0d5,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,17,3.4,1,0,Pagado,60.0,77.0,3.425,14,0,0,0,13,10,6,9,4,5,8,6
+e701235377,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,18,3.7,1,0,Pagado,92.0,70.0,4.05,8,0,0,0,3,4,2,1,4,4,4,4
+c1a76a51ed,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,315,15,2.5,1,0,Pagado,38.0,31.0,1.725,4,1,1,3,2,1,1,2,1,5,1,3
+5143db4dfd,Psicología,Ciencias Sociales y Humanas,3,Privado,250,15,2.8,1,0,Pagado,50.0,38.0,2.2,9,1,0,1,1,8,4,4,1,4,4,5
+ad443ef11f,Ingeniería Informática,Ingeniería,3,Oficial,405,16,,1,0,Pagado,83.0,97.0,4.5,10,0,0,0,7,8,8,3,6,5,5,5
+ca5783afad,Ingeniería Industrial,Ingeniería,3,Oficial,296,14,3.4,1,0,Pagado,73.0,45.0,2.95,9,1,0,0,5,2,6,4,2,4,6,3
+682475090b,Ingeniería Informática,Ingeniería,2,Oficial,279,18,3.2,1,0,Pagado,63.0,72.0,3.375,12,0,0,0,1,9,6,5,4,5,5,7
+5634716dbb,Ingeniería Informática,Ingeniería,2,Oficial,180,16,2.4,1,0,Pagado,68.0,30.0,2.45,8,1,0,1,3,5,2,3,4,5,5,3
+f2e70d6efb,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,288,16,3.0,1,0,Pagado,58.0,49.0,2.675,1,1,1,3,0,6,3,0,2,0,0,1
+0c52aec8da,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,267,14,3.2,1,0,Pagado,59.0,61.0,3.0,8,0,0,0,4,1,5,3,9,4,5,3
+82752d5afa,Ingeniería Industrial,Ingeniería,3,Privado,338,15,4.4,1,0,Pagado,81.0,100.0,4.525,18,0,0,0,4,12,4,8,11,8,12,6
+5cbc5470f5,Psicología,Ciencias Sociales y Humanas,2,Oficial,315,18,3.7,1,0,Pagado,100.0,74.0,4.35,10,0,0,0,10,6,6,4,6,5,3,7
+4da53aff0e,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,237,18,2.6,0,1,Anulado,28.0,77.0,2.625,5,1,0,0,7,3,5,2,8,5,5,0
+cd3d636f21,Psicología,Ciencias Sociales y Humanas,3,Privado,296,14,3.1,1,0,Pagado,83.0,82.0,4.125,3,0,1,3,1,1,3,2,1,1,2,1
+4c7b2fbe89,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,335,16,4.0,1,0,Pagado,64.0,88.0,3.8,15,0,0,0,6,5,9,10,3,4,6,9
+c9f2bd5f6f,Psicología,Ciencias Sociales y Humanas,2,Privado,290,18,,1,0,Pagado,68.0,47.0,2.875,5,1,0,0,7,8,9,7,8,7,2,3
+b0810857b3,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,344,15,4.6,1,0,Pagado,100.0,91.0,4.775,15,0,0,0,8,7,10,12,8,4,10,5
+395c20b009,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,222,18,2.2,0,1,Sin liquidación,22.0,55.0,1.925,4,1,1,4,4,1,3,2,1,1,1,3
+efde61e103,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,328,14,,0,1,Pendiente,82.0,72.0,3.85,0,1,1,3,2,2,2,4,7,1,0,0
+c1fe676bb9,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,256,14,3.0,1,0,Pagado,55.0,70.0,3.125,9,0,0,0,4,2,5,4,8,3,2,7
+49ba4d6569,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,14,2.3,1,0,Pagado,43.0,53.0,2.4,10,1,0,1,3,8,3,4,3,2,6,4
+beeb907f92,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,290,15,3.8,1,0,Pagado,72.0,85.0,3.925,11,0,0,0,1,8,5,5,4,5,6,5
+2119a7f986,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,336,18,3.5,1,0,Pagado,68.0,71.0,3.475,11,0,0,0,2,6,8,5,5,12,8,3
+4b449595e5,Ingeniería Industrial,Ingeniería,1,Oficial,327,18,4.2,1,0,Pagado,76.0,81.0,3.925,15,0,0,0,6,4,4,5,6,4,8,7
+87abce49cd,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,289,15,2.9,1,0,Pagado,69.0,62.0,3.275,8,0,0,0,6,1,5,3,3,2,2,6
+2285756be2,Ingeniería Informática,Ingeniería,1,Oficial,301,17,2.9,1,0,Pagado,65.0,52.0,2.925,6,1,0,0,5,4,2,8,3,4,3,3
+5bfb8b283b,Ingeniería Informática,Ingeniería,2,Oficial,255,15,2.2,0,1,Sin liquidación,28.0,54.0,2.05,2,1,1,4,3,0,1,0,2,2,1,1
+6d8e83f677,Psicología,Ciencias Sociales y Humanas,2,Oficial,288,14,3.9,1,0,Pagado,83.0,69.0,3.8,13,0,0,0,5,6,7,5,10,4,7,6
+ace0c5655a,Ingeniería Informática,Ingeniería,1,Oficial,241,16,3.0,0,1,Pendiente,64.0,57.0,3.025,2,0,1,3,5,2,2,2,2,3,1,1
+6c67af53f0,Psicología,Ciencias Sociales y Humanas,4,Privado,281,17,,1,0,Pagado,78.0,86.0,4.1,8,0,0,0,5,3,7,7,3,4,3,5
+bc57b7f202,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,270,18,3.1,1,0,Pagado,68.0,70.0,3.45,5,0,0,0,3,4,4,5,10,3,3,2
+bd3c014ae5,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,323,15,4.6,1,0,Pagado,95.0,100.0,4.875,9,0,0,0,5,9,10,5,6,4,3,6
+bc19c5947e,Ingeniería Industrial,Ingeniería,1,Oficial,294,17,3.0,1,0,Pagado,46.0,42.0,2.2,4,1,1,3,3,4,8,2,5,1,2,2
+fda6917271,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,15,3.6,1,0,Pagado,67.0,57.0,3.1,6,0,0,2,2,5,2,2,0,3,4,2
+023520f393,Psicología,Ciencias Sociales y Humanas,2,Privado,335,16,4.5,1,0,Pagado,100.0,99.0,4.975,14,0,0,0,6,6,9,5,6,10,10,4
+cbf0d1c9b0,Ingeniería Industrial,Ingeniería,1,Oficial,288,14,3.6,1,0,Pagado,74.0,73.0,3.675,9,0,0,0,4,6,3,4,6,4,6,3
+2d5b2203fc,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,16,3.8,1,0,Pagado,67.0,76.0,3.575,13,0,0,0,5,8,7,7,9,5,3,10
+e651d0dacb,Ingeniería Informática,Ingeniería,2,Privado,363,18,4.2,1,0,Pagado,83.0,95.0,4.45,21,0,0,0,7,10,6,10,13,11,6,15
+81c0401225,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,246,15,3.4,1,0,Pagado,54.0,32.0,2.15,9,1,0,1,3,3,7,3,4,6,6,3
+2517ee4c7c,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,16,3.7,1,0,Pagado,86.0,61.0,3.675,14,0,0,0,9,7,6,7,9,6,9,5
+f5075b2a4d,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,277,14,2.8,1,0,Pagado,50.0,70.0,3.0,5,0,0,0,3,4,3,4,4,6,2,3
+81c68b4dc8,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,258,14,3.4,1,0,Pagado,47.0,69.0,2.9,7,1,0,2,3,2,1,2,0,4,1,6
+11c70c10b4,Ingeniería Industrial,Ingeniería,3,Oficial,314,16,4.1,1,0,Pagado,91.0,63.0,3.85,22,0,0,0,9,12,14,10,7,6,9,13
+796671aeba,Psicología,Ciencias Sociales y Humanas,3,Privado,400,18,4.3,1,0,Pagado,78.0,85.0,4.075,8,0,0,0,8,7,5,5,5,2,5,3
+53eb523ead,Ingeniería Informática,Ingeniería,1,Privado,283,16,3.4,1,0,Pagado,69.0,92.0,4.025,12,0,0,0,11,7,4,7,7,8,7,5
+42191d02d3,Psicología,Ciencias Sociales y Humanas,2,Privado,351,18,3.6,1,0,Pagado,83.0,52.0,3.375,17,0,0,0,10,5,8,5,7,7,9,8
+0114679ed1,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,322,18,4.4,1,0,Pagado,85.0,100.0,4.625,11,0,0,0,11,8,5,9,4,4,3,8
+ee027a023d,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,249,18,3.6,1,0,Pagado,68.0,72.0,3.5,9,0,0,0,4,9,3,1,8,9,4,5
+b20fdc829d,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,273,14,3.0,1,0,Pagado,46.0,78.0,3.1,4,0,1,3,1,4,6,2,3,1,2,2
+a340978e77,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,312,16,,0,1,Anulado,51.0,28.0,1.975,7,1,0,1,5,1,3,5,2,2,4,3
+6179e57677,Ingeniería Industrial,Ingeniería,2,Privado,349,16,3.8,1,0,Pagado,78.0,80.0,3.95,7,0,0,0,4,4,9,7,2,2,2,5
+50d0c53029,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,272,14,2.1,0,1,Anulado,45.0,43.0,2.2,5,1,1,4,2,0,0,4,1,0,2,3
+0c6f15ec4f,Psicología,Ciencias Sociales y Humanas,4,Oficial,333,16,3.8,1,0,Pagado,68.0,66.0,3.35,14,0,0,0,7,1,4,3,7,4,6,8
+21f6300949,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,347,14,3.7,1,0,Pagado,67.0,40.0,2.675,11,1,0,0,11,5,6,8,7,4,2,9
+05569ad0ec,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,291,15,3.9,1,0,Pagado,100.0,61.0,4.025,11,0,0,0,9,9,8,6,10,4,2,9
+8613e51c10,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,343,15,3.3,1,0,Pagado,69.0,78.0,3.675,12,0,0,0,3,6,1,9,4,7,6,6
+0c70cb0cd7,Psicología,Ciencias Sociales y Humanas,3,Privado,332,16,3.5,1,0,Pagado,59.0,69.0,3.2,8,0,0,0,4,4,2,6,5,4,2,6
+3bf5992ead,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,292,15,,1,0,Pagado,72.0,64.0,3.4,4,0,1,3,4,4,2,1,2,1,2,2
+bcba9d4506,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.6,0,1,Pendiente,49.0,65.0,2.85,0,1,1,3,5,3,4,3,2,0,0,0
+8fcb90ad31,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,14,2.8,1,0,Pagado,55.0,44.0,2.475,5,1,0,1,5,6,7,0,3,2,0,5
+a4b4411fe1,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,391,16,4.0,1,0,Pagado,91.0,78.0,4.225,12,0,0,0,9,3,8,0,4,4,8,4
+45ef846d10,Ingeniería Informática,Ingeniería,2,Privado,294,17,3.0,1,0,Pagado,51.0,80.0,3.275,6,0,0,0,2,6,5,3,0,6,3,3
+0b434424b4,Ingeniería Informática,Ingeniería,2,Oficial,275,18,3.4,0,1,Pendiente,80.0,55.0,3.375,8,0,0,0,6,6,4,4,8,3,8,0
+cc41684af4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,253,16,2.2,0,1,Pendiente,53.0,22.0,1.875,0,1,1,4,2,2,0,2,1,1,0,0
+e3f7feb868,Psicología,Ciencias Sociales y Humanas,2,Privado,251,15,2.4,1,0,Pagado,60.0,46.0,2.65,2,1,0,1,4,3,6,5,2,3,2,0
+ffff9182a7,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,287,17,2.9,1,0,Pagado,47.0,51.0,2.45,1,1,1,4,1,2,3,0,7,1,1,0
+bd9cb9ab56,Ingeniería Industrial,Ingeniería,1,Oficial,263,14,3.1,1,0,Pagado,55.0,70.0,3.125,17,0,0,0,11,7,7,12,5,8,10,7
+3c9371557b,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,272,15,3.7,1,0,Pagado,77.0,61.0,3.45,8,0,0,0,5,8,7,9,6,7,3,5
+0dcf26aa40,Ingeniería Industrial,Ingeniería,2,Privado,243,16,3.2,1,0,Pendiente,57.0,57.0,2.85,8,1,0,0,7,7,6,5,8,3,2,6
+d50120a854,Ingeniería Informática,Ingeniería,6,Oficial,244,16,2.7,0,1,Pendiente,58.0,46.0,2.6,8,1,0,0,5,4,2,6,4,3,3,5
+f4d733c9d7,Ingeniería Informática,Ingeniería,4,Privado,409,16,3.6,0,1,Pendiente,33.0,92.0,3.125,15,0,0,0,8,10,10,7,8,11,11,4
+88c0adc4db,Ingeniería Industrial,Ingeniería,2,Oficial,266,15,2.1,0,1,Sin liquidación,70.0,48.0,2.95,0,1,1,3,0,0,1,0,0,0,0,0
+7383a1b286,Ingeniería Informática,Ingeniería,2,Oficial,301,16,3.1,1,0,Pagado,54.0,69.0,3.075,16,0,0,0,4,9,6,13,6,3,10,6
+b59ce385c0,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,0,1,Pendiente,53.0,58.0,2.775,7,1,0,0,3,3,1,8,2,6,7,0
+f39b720618,Ingeniería Informática,Ingeniería,2,Oficial,317,17,3.4,1,0,Pagado,77.0,56.0,3.325,11,0,0,0,4,5,6,11,6,8,9,2
+ff359efb44,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,16,2.6,0,1,Sin liquidación,46.0,62.0,2.7,6,1,0,0,4,2,3,2,6,3,6,0
+f62a100f3e,Psicología,Ciencias Sociales y Humanas,3,Privado,299,18,3.7,1,0,Pagado,72.0,67.0,3.475,19,0,0,0,12,13,6,6,8,3,9,10
+f4297e0851,Psicología,Ciencias Sociales y Humanas,3,Privado,294,17,,1,0,Pagado,71.0,65.0,3.4,10,0,0,0,5,3,5,8,4,6,5,5
+b4f52ea99a,Ingeniería Industrial,Ingeniería,2,Oficial,305,16,3.9,1,0,Pagado,58.0,90.0,3.7,14,0,0,0,5,12,5,9,9,3,8,6
+36e5937bb4,Ingeniería Industrial,Ingeniería,2,Privado,289,17,3.1,0,1,Pendiente,78.0,72.0,3.75,1,0,1,3,1,1,3,1,2,4,1,0
+2376a0aa5d,Ingeniería Industrial,Ingeniería,3,Privado,253,14,3.5,1,0,Pagado,71.0,58.0,3.225,9,0,0,0,8,8,10,7,5,9,4,5
+4dffbf3abc,Ingeniería Informática,Ingeniería,2,Oficial,360,16,4.4,1,0,Pagado,88.0,48.0,3.4,24,0,0,0,11,7,7,15,6,5,12,12
+0774f88efb,Ingeniería Industrial,Ingeniería,1,Oficial,265,18,3.9,1,0,Pendiente,69.0,69.0,3.45,16,0,0,0,9,5,7,13,10,8,9,7
+a25cd6550e,Ingeniería Informática,Ingeniería,2,Privado,290,14,2.8,0,1,Sin liquidación,71.0,52.0,3.075,6,0,0,0,5,5,6,6,3,1,4,2
+5835b2c8f9,Ingeniería Informática,Ingeniería,2,Oficial,297,16,3.1,1,0,Pagado,32.0,72.0,2.6,18,1,0,0,4,6,7,3,5,1,7,11
+e2694eb92b,Ingeniería Industrial,Ingeniería,2,Oficial,185,15,1.7,0,1,Sin liquidación,26.0,51.0,1.925,0,1,1,4,3,7,0,2,1,0,0,0
+d44eccf587,Psicología,Ciencias Sociales y Humanas,5,Privado,320,16,3.8,1,0,Pagado,82.0,66.0,3.7,13,0,0,0,4,3,7,2,1,3,5,8
+258d0c49dc,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,18,3.3,1,0,Pagado,66.0,75.0,3.525,12,0,0,0,8,4,6,8,6,2,2,10
+5f09e5897c,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,269,14,3.2,0,1,Pendiente,60.0,59.0,2.975,11,1,0,1,3,2,0,4,2,2,6,5
+9a39520499,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,229,16,3.4,1,0,Pagado,75.0,54.0,3.225,21,0,0,0,4,7,7,11,6,5,12,9
+503edadb1c,Psicología,Ciencias Sociales y Humanas,1,Privado,352,18,3.9,1,0,Pagado,76.0,54.0,3.25,12,0,0,0,4,2,3,3,7,6,6,6
+f0d2360521,Psicología,Ciencias Sociales y Humanas,4,Oficial,338,16,3.9,1,0,Pagado,92.0,72.0,4.1,4,0,0,0,4,2,7,5,7,4,2,2
+6c01eb70e9,Ingeniería Informática,Ingeniería,4,Oficial,368,16,4.3,1,0,Pagado,81.0,100.0,4.525,9,0,0,0,10,7,6,5,9,7,2,7
+b7386b09a0,Ingeniería Informática,Ingeniería,2,Privado,328,16,3.4,1,0,Pagado,57.0,66.0,3.075,9,0,0,0,4,2,2,0,8,7,4,5
+3652a7085e,Ingeniería Informática,Ingeniería,6,Oficial,296,15,4.0,1,0,Pagado,85.0,67.0,3.8,15,0,0,0,8,6,9,9,7,9,7,8
+4193ab9810,Ingeniería Industrial,Ingeniería,3,Oficial,385,15,3.7,1,0,Pagado,68.0,71.0,3.475,11,0,0,0,5,8,12,4,8,2,3,8
+71ca3dddfc,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,15,3.4,1,0,Pagado,64.0,58.0,3.05,10,0,0,0,2,4,7,8,8,8,4,6
+728b2f53da,Psicología,Ciencias Sociales y Humanas,2,Oficial,331,16,3.8,1,0,Pagado,72.0,62.0,3.35,10,0,0,0,1,7,3,3,2,2,6,4
+e3f885d314,Psicología,Ciencias Sociales y Humanas,3,Privado,323,18,3.3,1,0,Pagado,65.0,58.0,3.075,10,0,0,0,5,8,8,5,5,6,6,4
+6aa13ea67d,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,276,14,3.4,1,0,Pagado,58.0,78.0,3.4,9,0,0,0,6,6,5,7,9,7,4,5
+4642f10d64,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,266,16,3.1,1,0,Pagado,67.0,70.0,3.425,11,0,0,0,4,1,3,12,4,5,6,5
+7e4ad6bd29,Ingeniería Informática,Ingeniería,1,Oficial,309,16,2.8,1,0,Pagado,50.0,54.0,2.6,9,1,0,0,4,5,5,4,3,6,5,4
+e9339b3f95,Ingeniería Informática,Ingeniería,3,Privado,305,14,3.0,1,0,Pagado,48.0,52.0,2.5,6,1,0,0,2,3,2,5,4,1,3,3
+7ece0a3813,Ingeniería Informática,Ingeniería,2,Privado,234,16,2.8,1,0,Pagado,61.0,69.0,3.25,11,0,0,0,0,6,11,4,7,3,7,4
+132bbae42f,Psicología,Ciencias Sociales y Humanas,2,Oficial,293,15,3.1,1,0,Pagado,68.0,51.0,2.975,14,1,0,0,12,5,4,3,7,5,10,4
+b26cf487f8,Psicología,Ciencias Sociales y Humanas,4,Privado,264,16,3.1,1,0,Pagado,54.0,66.0,3.0,7,0,0,0,3,11,3,3,6,2,1,6
+82db0cca85,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,319,15,3.1,1,0,Pagado,65.0,60.0,3.125,9,0,0,0,4,3,2,8,3,10,7,2
+cfe441203d,Administración de Empresas,Ciencias Económicas y Administrativas,6,Privado,269,18,3.1,1,0,Pagado,86.0,88.0,4.35,9,0,0,0,6,6,2,7,3,6,5,4
+76cd064896,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,362,17,4.1,1,0,Pagado,91.0,61.0,3.8,8,0,0,0,4,3,9,7,6,6,4,4
+93ee91dc71,Psicología,Ciencias Sociales y Humanas,3,Privado,375,16,3.7,1,0,Pagado,63.0,73.0,3.4,9,0,0,0,5,7,7,8,6,5,3,6
+2a0fe0103f,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,312,17,3.5,1,0,Pagado,75.0,62.0,3.425,4,0,0,0,7,4,10,5,4,7,3,1
+6c675dc9e4,Ingeniería Industrial,Ingeniería,3,Privado,352,17,3.8,1,0,Pagado,55.0,82.0,3.425,6,0,0,0,8,7,2,4,3,1,2,4
+bea932eba5,Ingeniería Informática,Ingeniería,4,Oficial,259,18,3.6,1,0,Pagado,64.0,69.0,3.325,9,0,0,0,5,6,2,7,6,11,6,3
+5a4841b6c2,Ingeniería Informática,Ingeniería,1,Privado,323,17,4.0,1,0,Pagado,80.0,96.0,4.4,22,0,0,0,7,6,12,10,8,10,12,10
+39afc9e0ac,Psicología,Ciencias Sociales y Humanas,3,Privado,290,18,3.7,1,0,Pagado,82.0,70.0,3.8,10,0,0,0,4,8,3,4,3,5,7,3
+e489fece83,Ingeniería Industrial,Ingeniería,3,Privado,266,18,3.7,1,0,Pagado,66.0,75.0,3.525,18,0,0,0,9,10,4,14,7,10,9,9
+15392c095d,Ingeniería Informática,Ingeniería,3,Oficial,218,14,2.5,1,0,Pagado,43.0,54.0,2.425,2,1,1,4,1,0,1,1,0,1,0,2
+41c71b6db3,Ingeniería Industrial,Ingeniería,2,Oficial,260,14,,1,0,Pagado,30.0,54.0,2.1,9,1,0,1,7,4,3,5,2,2,5,4
+56dfcadef9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,290,15,3.9,1,0,Pagado,94.0,61.0,3.875,13,0,0,0,5,0,3,3,3,5,10,3
+01b6892117,Psicología,Ciencias Sociales y Humanas,3,Privado,246,18,3.2,1,0,Pagado,43.0,74.0,2.925,6,1,0,0,2,12,9,5,1,6,3,3
+e8971b60b2,Ingeniería Informática,Ingeniería,2,Privado,294,14,3.8,0,1,Pendiente,64.0,100.0,4.1,11,0,0,0,9,4,9,5,6,5,8,3
+727933f1eb,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,357,17,4.5,1,0,Pagado,90.0,84.0,4.35,9,0,0,0,9,4,5,6,6,7,5,4
+ac79e58bee,Psicología,Ciencias Sociales y Humanas,2,Privado,238,18,2.8,1,0,Pagado,72.0,59.0,3.275,11,0,0,0,3,4,5,2,4,7,3,8
+0b31cb1ff0,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,195,18,2.8,1,0,Pagado,52.0,93.0,3.625,4,0,0,1,4,2,1,4,4,3,3,1
+8b9eba0e6f,Ingeniería Informática,Ingeniería,2,Oficial,304,14,4.0,1,0,Pagado,73.0,84.0,3.925,13,0,0,0,7,11,7,7,5,6,10,3
+e3107494f2,Ingeniería Informática,Ingeniería,2,Privado,307,18,3.3,0,1,Sin liquidación,61.0,84.0,3.625,4,0,0,0,6,3,2,6,3,4,1,3
+82ad4650ca,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,16,3.4,1,0,Pagado,56.0,71.0,3.175,8,0,0,0,4,6,5,4,4,7,6,2
+c9ac9b0bf3,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,317,18,2.6,0,1,Pendiente,58.0,53.0,2.775,1,1,1,3,2,5,3,1,4,0,0,1
+12bcc9f602,Ingeniería Industrial,Ingeniería,2,Oficial,318,15,3.8,1,0,Pagado,47.0,78.0,3.125,15,0,0,0,8,5,2,9,8,5,8,7
+dfc31f7b90,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,284,14,2.7,1,0,Pagado,55.0,50.0,2.625,2,1,0,2,5,3,1,4,4,3,1,1
+1724f1ecdc,Ingeniería Industrial,Ingeniería,1,Oficial,282,14,3.2,1,0,Pagado,61.0,91.0,3.8,16,0,0,0,15,7,9,8,6,9,10,6
+c41d31a7d2,Ingeniería Informática,Ingeniería,3,Oficial,284,16,3.0,1,0,Pagado,79.0,42.0,3.025,12,0,0,0,7,3,8,5,12,10,6,6
+b8f16d498a,Psicología,Ciencias Sociales y Humanas,2,Oficial,351,16,3.9,1,0,Pagado,65.0,76.0,3.525,11,0,0,0,6,4,6,5,6,5,3,8
+71c2505a7e,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,338,18,4.0,1,0,Pagado,85.0,71.0,3.9,11,0,0,0,4,4,5,9,3,11,6,5
+5c02405175,Ingeniería Informática,Ingeniería,2,Privado,356,17,4.1,1,0,Pagado,77.0,85.0,4.05,12,0,0,0,15,11,8,9,6,6,4,8
+9e3f8856c6,Ingeniería Industrial,Ingeniería,6,Oficial,319,18,3.8,1,0,Pendiente,86.0,58.0,3.6,8,0,0,0,1,11,7,5,1,7,4,4
+c941f2a9ec,Ingeniería Industrial,Ingeniería,2,Oficial,285,16,4.5,1,0,Pagado,89.0,96.0,4.625,13,0,0,0,7,8,3,6,4,6,6,7
+ecd9d0a796,Ingeniería Informática,Ingeniería,3,Oficial,317,16,3.3,1,0,Pagado,44.0,62.0,2.65,9,1,0,0,5,6,3,5,5,2,6,3
+e016bba8c9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,290,15,3.8,1,0,Pagado,72.0,58.0,3.25,20,0,0,0,11,3,12,10,16,9,11,9
+a832a7d5b4,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,322,15,3.5,1,0,Pagado,73.0,79.0,3.8,11,0,0,0,9,5,5,4,4,2,8,3
+39ff8b6a0e,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,286,16,3.3,1,0,Pagado,72.0,76.0,3.7,19,0,0,0,5,10,6,9,8,12,9,10
+411e2755a0,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,16,3.6,1,0,Pagado,73.0,57.0,3.25,13,0,0,0,4,8,5,4,11,5,6,7
+eceb15af02,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,274,14,3.1,1,0,Pagado,59.0,50.0,2.725,8,1,0,0,8,8,4,6,7,5,3,5
+20cc9b603f,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,249,16,3.2,1,0,Pagado,56.0,86.0,3.55,7,0,0,0,5,5,3,2,2,4,4,3
+d4544d48dc,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,269,14,2.6,1,0,Pagado,66.0,62.0,3.2,7,0,0,0,9,6,6,9,7,7,3,4
+638496da9c,Ingeniería Industrial,Ingeniería,3,Privado,274,18,3.7,1,0,Pagado,65.0,73.0,3.45,13,0,0,0,5,5,4,6,5,7,6,7
+7f9d944cd5,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,298,17,2.8,1,0,Pagado,64.0,47.0,2.775,6,1,0,0,4,3,2,3,4,2,3,3
+88883404c0,Ingeniería Informática,Ingeniería,6,Oficial,279,15,3.2,1,0,Pagado,55.0,81.0,3.4,6,0,0,0,6,4,10,6,4,4,2,4
+52ba513a35,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,256,17,3.0,1,0,Pagado,67.0,47.0,2.85,11,1,0,0,3,5,4,6,1,0,7,4
+31700931c4,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,18,2.9,0,1,Pendiente,69.0,68.0,3.425,16,0,0,0,8,9,12,4,4,3,4,12
+9499921859,Ingeniería Informática,Ingeniería,2,Privado,288,15,4.4,1,0,Pagado,100.0,87.0,4.675,16,0,0,0,9,8,9,8,8,6,8,8
+98a11ab3eb,Ingeniería Industrial,Ingeniería,3,Oficial,271,17,3.0,1,0,Pagado,56.0,84.0,3.5,16,0,0,0,4,7,4,7,4,7,9,7
+81547f3ff8,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,272,15,2.7,0,1,Pendiente,47.0,92.0,3.475,7,0,0,0,5,3,3,4,5,7,0,7
+77371f078a,Ingeniería Informática,Ingeniería,3,Privado,279,14,3.4,1,0,Pagado,47.0,76.0,3.075,8,0,0,0,3,3,2,2,3,5,1,7
+1d662728a9,Ingeniería Industrial,Ingeniería,3,Privado,348,17,4.1,1,0,Pagado,89.0,70.0,3.975,23,0,0,0,9,9,8,6,7,13,11,12
+215e52fc20,Ingeniería Industrial,Ingeniería,3,Privado,406,17,4.2,1,0,Pagado,95.0,66.0,4.025,17,0,0,0,5,8,11,5,15,10,7,10
+29ef20dce0,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,269,18,3.2,1,0,Pagado,67.0,67.0,3.35,4,0,0,2,3,3,3,0,3,1,3,1
+7e5805bb86,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,256,18,2.7,1,0,Pagado,52.0,36.0,2.2,10,1,0,1,10,7,3,4,4,3,10,0
+d38759209b,Psicología,Ciencias Sociales y Humanas,2,Oficial,243,16,4.2,1,0,Pagado,98.0,81.0,4.475,13,0,0,0,6,5,5,5,2,7,8,5
+354abea507,Ingeniería Industrial,Ingeniería,3,Oficial,282,16,,1,0,Pagado,59.0,81.0,3.5,10,0,0,0,10,5,6,16,7,5,3,7
+bc73acb3ee,Ingeniería Informática,Ingeniería,1,Oficial,323,18,3.2,1,0,Pagado,77.0,70.0,3.675,7,0,0,0,9,7,5,6,1,3,5,2
+0ac558a6cd,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,246,16,2.8,0,1,Sin liquidación,50.0,61.0,2.775,3,1,1,3,3,2,3,4,4,0,2,1
+1e22ab295d,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,326,18,3.7,1,0,Pagado,71.0,72.0,3.575,23,0,0,0,6,7,11,6,7,7,10,13
+c5d6a392a7,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,240,14,3.1,1,0,Pagado,70.0,78.0,3.7,8,0,0,0,4,9,3,3,1,6,4,4
+da12784139,Psicología,Ciencias Sociales y Humanas,1,Oficial,361,18,3.8,1,0,Pagado,58.0,59.0,2.925,19,1,0,0,11,3,6,10,8,9,9,10
+6eea169894,Ingeniería Informática,Ingeniería,1,Oficial,295,18,2.5,0,1,Pendiente,60.0,51.0,2.775,0,1,1,3,1,0,1,0,3,0,0,0
+7ebf88e4e7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,17,3.5,1,0,Pagado,94.0,51.0,3.625,8,0,0,0,5,2,2,8,3,5,4,4
+336fde3f93,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,311,14,3.7,1,0,Pagado,73.0,76.0,3.725,11,0,0,0,6,5,5,10,5,8,6,5
+380a52ad71,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,349,17,4.6,1,0,Pendiente,88.0,90.0,4.45,20,0,0,0,15,13,11,10,10,8,9,11
+5db0544183,Ingeniería Industrial,Ingeniería,2,Oficial,266,16,2.9,1,0,Pagado,62.0,55.0,2.925,8,1,0,0,7,3,6,3,6,9,4,4
+a59ee7ea87,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,299,16,4.0,1,0,Pagado,70.0,68.0,3.45,13,0,0,0,2,8,7,5,5,10,8,5
+90223167d2,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,387,15,3.6,1,0,Pagado,86.0,57.0,3.575,14,0,0,0,8,6,9,8,5,8,5,9
+cdb8929985,Ingeniería Industrial,Ingeniería,2,Privado,331,16,3.8,1,0,Pagado,81.0,59.0,3.5,15,0,0,0,10,7,8,4,4,7,6,9
+fdbd527e62,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,279,18,3.6,1,0,Pagado,84.0,71.0,3.875,11,0,0,0,1,1,3,10,4,4,2,9
+cf4f554349,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,278,14,3.3,1,0,Pagado,59.0,56.0,2.875,4,1,0,1,1,3,6,3,4,2,1,3
+7a6b7654af,Psicología,Ciencias Sociales y Humanas,3,Privado,273,15,3.4,1,0,Pagado,83.0,81.0,4.1,15,0,0,0,5,3,10,3,5,6,7,8
+5a3d555a2c,Ingeniería Informática,Ingeniería,3,Oficial,284,16,3.4,1,0,Pagado,77.0,72.0,3.725,8,0,0,0,8,5,4,3,5,4,3,5
+f381ef178b,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,251,15,3.4,1,0,Pagado,58.0,72.0,3.25,9,0,0,0,5,8,5,10,5,8,3,6
+b66f8e4ed5,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.5,0,1,Sin liquidación,86.0,63.0,3.725,6,0,1,3,4,2,2,2,4,0,4,2
+eed3831c50,Psicología,Ciencias Sociales y Humanas,5,Oficial,212,18,3.0,1,0,Pagado,68.0,65.0,3.325,8,0,0,0,2,4,5,6,5,10,4,4
+92c891be50,Psicología,Ciencias Sociales y Humanas,6,Oficial,240,15,2.3,1,0,Pagado,50.0,43.0,2.325,3,1,1,4,3,2,2,1,0,3,3,0
+24819f5689,Ingeniería Informática,Ingeniería,2,Oficial,328,14,4.0,1,0,Pagado,78.0,81.0,3.975,17,0,0,0,8,3,10,2,9,5,8,9
+c6f75aa72e,Psicología,Ciencias Sociales y Humanas,3,Privado,264,15,1.9,0,1,Pendiente,35.0,32.0,1.675,5,1,1,3,0,1,4,3,2,2,1,4
+380ea1acc1,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,232,14,2.2,0,1,Pendiente,52.0,22.0,1.85,4,1,0,1,8,5,4,5,3,5,2,2
+3cd066eb61,Psicología,Ciencias Sociales y Humanas,1,Oficial,275,18,3.1,0,1,Sin liquidación,40.0,99.0,3.475,13,0,0,0,2,5,3,3,3,4,8,5
+a493004a6f,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,3.9,1,0,Pagado,79.0,100.0,4.475,12,0,0,0,7,6,8,3,7,3,6,6
+b8581a86a8,Ingeniería Industrial,Ingeniería,5,Privado,292,14,2.5,1,0,Pagado,34.0,35.0,1.725,5,1,1,3,1,3,5,0,3,2,4,1
+702bed567c,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,346,17,,1,0,Pagado,90.0,97.0,4.675,16,0,0,0,11,7,10,8,11,12,7,9
+fd162805e9,Ingeniería Informática,Ingeniería,2,Privado,257,15,2.9,0,1,Pendiente,62.0,80.0,3.55,0,1,0,1,6,3,5,2,9,6,0,0
+b93288060f,Psicología,Ciencias Sociales y Humanas,1,Oficial,260,17,3.2,1,0,Pagado,64.0,76.0,3.5,11,0,0,0,9,4,6,4,9,9,5,6
+9fc2eaec92,Ingeniería Industrial,Ingeniería,2,Oficial,262,18,1.9,1,0,Pagado,46.0,51.0,2.425,1,1,1,4,0,1,1,0,0,1,1,0
+02282f0199,Ingeniería Industrial,Ingeniería,3,Oficial,254,17,3.2,1,0,Pagado,38.0,64.0,2.55,10,1,0,0,5,4,8,6,3,7,7,3
+aedfffe447,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,265,17,3.0,1,0,Pagado,74.0,92.0,4.15,11,0,0,0,3,6,8,6,5,5,3,8
+9d49f0ae0a,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,17,3.4,1,0,Pendiente,50.0,48.0,2.45,6,1,0,1,2,4,2,3,3,5,2,4
+ebc3dda9e6,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,262,18,2.2,1,0,Pagado,55.0,36.0,2.275,6,1,1,3,4,1,2,2,2,4,2,4
+4c0b89f34f,Psicología,Ciencias Sociales y Humanas,3,Oficial,270,15,2.6,1,0,Pagado,53.0,73.0,3.15,3,0,1,3,2,0,7,0,3,2,2,1
+800aa57651,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.0,0,1,Pendiente,27.0,53.0,2.0,0,1,1,4,3,1,1,1,0,0,0,0
+1c59e89e9d,Ingeniería Informática,Ingeniería,2,Oficial,370,18,3.9,1,0,Pagado,78.0,93.0,4.275,10,0,0,0,6,7,6,8,7,6,3,7
+80cf06f1e7,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,228,18,2.3,0,1,Sin liquidación,69.0,51.0,3.0,4,0,1,3,1,1,1,2,3,2,2,2
+9d49b27935,Ingeniería Informática,Ingeniería,2,Privado,336,17,4.2,1,0,Pagado,87.0,70.0,3.925,9,0,0,0,5,5,6,5,7,5,2,7
+03d3fed825,Psicología,Ciencias Sociales y Humanas,1,Oficial,236,18,2.4,1,0,Pagado,53.0,51.0,2.6,9,1,0,0,3,0,5,5,7,7,2,7
+81210e8a13,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,317,15,4.2,1,0,Pagado,72.0,77.0,3.725,16,0,0,0,5,4,3,6,10,11,8,8
+223c88f409,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,269,16,2.6,1,0,Pagado,70.0,76.0,3.65,7,0,0,0,3,3,4,3,5,2,4,3
+ca4f8352d5,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,297,16,3.6,1,0,Pagado,79.0,73.0,3.8,12,0,0,0,5,4,6,4,6,6,8,4
+4d1bdfccfe,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,353,17,4.2,1,0,Pagado,81.0,71.0,3.8,10,0,0,0,3,2,8,5,10,5,5,5
+ce854476a6,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,18,3.1,1,0,Pagado,76.0,68.0,3.6,15,0,0,0,6,8,4,5,6,6,9,6
+096d6b768a,Psicología,Ciencias Sociales y Humanas,2,Oficial,333,14,3.3,1,0,Pendiente,68.0,78.0,3.65,9,0,0,0,6,4,5,4,5,11,2,7
+152aba9b32,Ingeniería Informática,Ingeniería,3,Privado,337,14,4.5,1,0,Pagado,95.0,89.0,4.6,20,0,0,0,5,8,7,5,4,4,10,10
+f0b26c519d,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,281,14,3.0,0,1,Pendiente,72.0,71.0,3.575,9,0,0,0,3,3,3,5,3,3,8,1
+0fe638b67a,Psicología,Ciencias Sociales y Humanas,5,Oficial,264,14,1.7,1,0,Pagado,22.0,34.0,1.4,4,1,1,3,3,1,2,1,5,4,2,2
+8d58b70f8e,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,273,16,2.3,1,0,Pagado,38.0,29.0,1.675,10,1,0,1,8,4,3,3,3,2,4,6
+59004ffd20,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,261,16,3.1,1,0,Pagado,63.0,45.0,2.7,7,1,0,0,6,2,4,4,8,4,3,4
+23508963e1,Ingeniería Informática,Ingeniería,3,Privado,222,15,2.1,0,1,Sin liquidación,49.0,42.0,2.275,2,1,1,4,2,0,0,0,0,0,1,1
+244bbb6665,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.1,1,0,Pagado,54.0,56.0,2.75,15,1,0,0,8,7,4,4,6,7,8,7
+b6c71dcd84,Ingeniería Informática,Ingeniería,1,Oficial,319,14,3.9,1,0,Pagado,82.0,72.0,3.85,19,0,0,0,9,9,6,8,12,8,7,12
+a54f194f32,Ingeniería Industrial,Ingeniería,3,Oficial,300,15,3.2,1,0,Pagado,58.0,56.0,2.85,11,1,0,0,4,4,6,7,3,4,5,6
+5f2b9d51e8,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,264,15,3.0,1,0,Pagado,68.0,58.0,3.15,14,0,0,0,6,4,4,4,1,4,8,6
+f2a43b2033,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,17,3.2,1,0,Pagado,83.0,37.0,3.0,7,0,0,0,4,2,5,6,4,7,3,4
+d7f0f5cf3e,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,238,14,2.9,1,0,Pagado,46.0,63.0,2.725,8,1,0,0,4,2,7,4,5,6,5,3
+28b6c2f31f,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,17,3.2,1,0,Pagado,67.0,65.0,3.3,12,0,0,0,6,1,6,5,4,9,5,7
+6db12a5dd8,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,327,15,4.2,1,0,Pagado,86.0,77.0,4.075,11,0,0,0,4,4,3,4,3,12,6,5
+23daf99c49,Ingeniería Industrial,Ingeniería,1,Oficial,269,15,3.6,0,1,Anulado,72.0,88.0,4.0,2,0,0,2,9,4,4,2,5,0,0,2
+94c6806378,Ingeniería Informática,Ingeniería,3,Oficial,312,18,,1,0,Pagado,55.0,83.0,3.45,8,0,0,0,1,2,5,3,4,6,3,5
+bef9cc8862,Ingeniería Informática,Ingeniería,2,Privado,234,17,3.2,0,1,Sin liquidación,56.0,57.0,2.825,5,1,0,0,3,6,5,6,6,6,5,0
+d8d371eadd,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,4.4,1,0,Pagado,95.0,83.0,4.45,21,0,0,0,10,7,6,14,14,10,8,13
+34dbcd281f,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,,1,0,Pagado,88.0,88.0,4.4,18,0,0,0,10,7,9,11,8,6,14,4
+a184b693c4,Ingeniería Informática,Ingeniería,4,Privado,258,15,3.1,1,0,Pagado,63.0,60.0,3.075,7,0,0,0,3,3,4,4,6,2,5,2
+a49dac2b8f,Ingeniería Industrial,Ingeniería,3,Oficial,265,16,4.1,1,0,Pagado,87.0,98.0,4.625,19,0,0,0,8,8,6,12,10,9,9,10
+edda57a959,Ingeniería Industrial,Ingeniería,2,Oficial,310,15,3.6,1,0,Pendiente,57.0,89.0,3.65,14,0,0,0,7,4,6,9,1,6,9,5
+d6d046df4b,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,342,17,2.9,1,0,Pagado,46.0,71.0,2.925,9,1,0,0,8,3,6,5,5,1,4,5
+801b147bc0,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,305,17,3.7,0,1,Sin liquidación,65.0,66.0,3.275,1,0,0,2,7,7,4,3,2,0,1,0
+a38a249378,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,243,17,3.0,1,0,Pagado,39.0,54.0,2.325,24,1,0,1,4,10,6,13,11,4,12,12
+affa5f9019,Ingeniería Informática,Ingeniería,4,Privado,257,17,3.2,1,0,Pagado,52.0,60.0,2.8,17,1,0,0,10,3,11,8,10,6,8,9
+a3c820e977,Ingeniería Informática,Ingeniería,3,Oficial,304,15,4.4,1,0,Pagado,62.0,90.0,3.8,15,0,0,0,4,6,7,4,11,5,11,4
+7d3f58380b,Ingeniería Industrial,Ingeniería,2,Privado,277,18,3.3,1,0,Pagado,65.0,77.0,3.55,9,0,0,0,10,4,4,3,4,7,6,3
+555cfb1b8d,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,272,16,3.1,0,1,Anulado,51.0,65.0,2.9,9,1,0,0,11,6,3,5,9,4,4,5
+b278cc60d9,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,249,17,2.0,0,1,Sin liquidación,39.0,29.0,1.7,5,1,1,3,1,2,2,3,3,4,1,4
+a6a4eb6e33,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,330,15,4.4,1,0,Pagado,97.0,93.0,4.75,20,0,0,0,8,7,5,11,7,11,12,8
+29a2660bea,Psicología,Ciencias Sociales y Humanas,1,Oficial,312,18,2.7,1,0,Pagado,35.0,47.0,2.05,9,1,0,1,4,4,6,6,5,6,2,7
+8ef7bc9861,Ingeniería Industrial,Ingeniería,1,Oficial,299,16,3.3,1,0,Pagado,57.0,67.0,3.1,3,0,1,3,1,4,2,2,3,2,0,3
+53a501f4de,Ingeniería Informática,Ingeniería,4,Privado,301,16,3.5,1,0,Pagado,70.0,74.0,3.6,13,0,0,0,5,2,5,8,2,12,8,5
+68089daaf4,Ingeniería Informática,Ingeniería,2,Oficial,221,16,1.7,0,1,Pendiente,55.0,22.0,1.925,3,1,1,4,1,0,0,2,2,0,3,0
+c6afc85bf8,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,18,,1,0,Pagado,34.0,54.0,2.2,7,1,0,1,4,6,6,5,6,7,1,6
+04ecf92f8b,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,319,18,3.3,1,0,Pagado,67.0,55.0,3.05,10,0,0,0,6,1,6,8,3,6,5,5
+1cf857b77e,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,297,16,3.8,1,0,Pagado,100.0,60.0,4.0,7,0,0,0,2,6,2,5,9,5,4,3
+f09cefd6d2,Ingeniería Industrial,Ingeniería,3,Oficial,228,14,2.5,1,0,Pagado,59.0,58.0,2.925,1,1,1,3,1,1,1,1,2,0,0,1
+49318e0fab,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.3,1,0,Pagado,79.0,65.0,3.6,7,0,0,0,2,7,6,5,4,4,4,3
+0cfcbea95e,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,300,16,4.2,1,0,Pagado,74.0,72.0,3.65,14,0,0,0,4,7,9,5,4,9,5,9
+f2ee98626d,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,225,14,3.8,1,0,Pagado,96.0,85.0,4.525,9,0,0,0,8,4,5,4,7,6,3,6
+255da130f4,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,16,3.8,1,0,Pagado,62.0,73.0,3.375,16,0,0,0,7,8,5,6,3,7,6,10
+22cdb357ac,Psicología,Ciencias Sociales y Humanas,2,Privado,306,15,2.8,1,0,Pagado,48.0,66.0,2.85,11,1,0,0,4,9,7,4,10,8,6,5
+fc90b0721c,Ingeniería Industrial,Ingeniería,4,Oficial,241,16,2.8,1,0,Pagado,54.0,57.0,2.775,8,1,0,0,3,6,5,5,4,5,4,4
+f4964a70f0,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,15,2.8,0,1,Pendiente,51.0,54.0,2.625,4,1,0,2,1,0,3,1,2,4,2,2
+07aa1bcd70,Ingeniería Informática,Ingeniería,2,Oficial,330,14,4.2,1,0,Pagado,67.0,95.0,4.05,15,0,0,0,8,4,15,14,10,6,8,7
+a41ca44836,Ingeniería Industrial,Ingeniería,2,Privado,382,15,4.1,1,0,Pagado,81.0,70.0,3.775,14,0,0,0,14,6,11,9,11,7,9,5
+6efa5c2e7a,Ingeniería Informática,Ingeniería,2,Privado,310,16,4.0,1,0,Pagado,66.0,84.0,3.75,8,0,0,0,4,3,4,7,10,3,5,3
+94c622e2d1,Ingeniería Informática,Ingeniería,4,Oficial,408,15,4.4,1,0,Pagado,81.0,83.0,4.1,8,0,0,0,8,5,4,7,3,5,2,6
+9ec793fc2a,Ingeniería Industrial,Ingeniería,3,Privado,348,16,4.0,1,0,Pagado,68.0,68.0,3.4,17,0,0,0,8,5,10,6,10,6,12,5
+cefd636505,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,191,16,2.6,0,1,Sin liquidación,72.0,41.0,2.825,4,1,0,2,1,1,5,1,2,3,2,2
+bf57f8d74e,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,308,15,4.5,1,0,Pagado,88.0,80.0,4.2,20,0,0,0,6,8,8,11,6,6,15,5
+61195e762e,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,314,15,3.9,1,0,Pagado,67.0,60.0,3.175,10,0,0,0,9,4,4,4,3,10,6,4
+cfb531b62f,Ingeniería Informática,Ingeniería,3,Oficial,277,18,3.3,1,0,Pendiente,55.0,72.0,3.175,9,0,0,0,3,3,5,7,4,9,2,7
+8d10b6dbcc,Ingeniería Informática,Ingeniería,3,Oficial,204,15,3.7,1,0,Pagado,66.0,76.0,3.55,15,0,0,0,4,6,6,4,3,5,7,8
+c017497529,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,312,16,4.0,1,0,Pagado,78.0,90.0,4.2,6,0,0,0,2,3,6,5,6,2,2,4
+0bde3e37c3,Ingeniería Industrial,Ingeniería,6,Oficial,275,17,2.0,0,1,Pendiente,49.0,34.0,2.075,6,1,0,1,2,4,6,3,2,4,3,3
+bc8711644c,Ingeniería Informática,Ingeniería,2,Privado,271,17,3.1,1,0,Pagado,73.0,43.0,2.9,15,1,0,0,11,5,2,3,4,8,9,6
+e4fffc7851,Ingeniería Informática,Ingeniería,6,Oficial,285,16,3.9,1,0,Pagado,48.0,64.0,2.8,11,1,0,0,6,1,6,1,5,6,4,7
+a19b67d4e9,Ingeniería Industrial,Ingeniería,3,Oficial,266,17,4.2,1,0,Pagado,73.0,100.0,4.325,20,0,0,0,6,11,3,5,11,7,10,10
+247695d561,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,274,16,3.0,1,0,Pagado,77.0,50.0,3.175,17,0,0,0,5,6,1,6,6,3,8,9
+867b342f8d,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,269,14,4.2,1,0,Pagado,100.0,89.0,4.725,13,0,0,0,10,6,5,5,7,2,6,7
+0158919f04,Ingeniería Informática,Ingeniería,3,Oficial,334,17,2.6,0,1,Pendiente,36.0,64.0,2.5,4,1,1,3,2,2,4,1,7,2,3,1
+0db2e4ed5b,Psicología,Ciencias Sociales y Humanas,2,Privado,275,18,2.9,1,0,Pagado,53.0,51.0,2.6,10,1,0,0,6,3,4,2,3,3,7,3
+93483eb776,Psicología,Ciencias Sociales y Humanas,1,Oficial,345,15,4.2,1,0,Pagado,67.0,72.0,3.475,13,0,0,0,2,7,8,3,6,8,8,5
+2d937f27dc,Ingeniería Informática,Ingeniería,1,Privado,331,16,3.6,0,1,Sin liquidación,73.0,66.0,3.475,12,0,0,0,6,9,4,2,3,3,6,6
+9a6a565be2,Ingeniería Industrial,Ingeniería,2,Privado,292,18,2.7,1,0,Pagado,54.0,50.0,2.6,13,1,0,0,7,8,8,8,6,7,7,6
+cf1daf49a8,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,320,18,3.5,1,0,Pagado,80.0,83.0,4.075,21,0,0,0,8,8,6,5,5,8,13,8
+5276c99863,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,14,3.0,1,0,Pagado,58.0,61.0,2.975,12,1,0,0,4,4,3,6,5,5,7,5
+cad45b2547,Psicología,Ciencias Sociales y Humanas,3,Oficial,303,16,2.8,1,0,Pagado,70.0,62.0,3.3,9,0,0,0,8,3,2,5,3,3,3,6
+2a2c4d5f70,Psicología,Ciencias Sociales y Humanas,1,Oficial,327,14,4.0,0,1,Anulado,73.0,81.0,3.85,11,0,0,0,4,6,6,5,5,6,5,6
+ada1108214,Psicología,Ciencias Sociales y Humanas,2,Privado,346,15,3.8,1,0,Pagado,67.0,85.0,3.8,12,0,0,0,7,6,5,11,6,5,8,4
+7193d39128,Psicología,Ciencias Sociales y Humanas,3,Privado,323,15,3.7,1,0,Pagado,84.0,66.0,3.75,10,0,0,0,5,1,4,4,5,2,5,5
+a8fa398580,Ingeniería Informática,Ingeniería,2,Oficial,234,16,2.4,1,0,Pagado,52.0,46.0,2.45,6,1,1,3,2,1,0,1,2,1,3,3
+abc4334192,Ingeniería Industrial,Ingeniería,6,Privado,346,15,4.2,1,0,Pagado,83.0,81.0,4.1,8,0,0,0,7,3,6,7,7,4,4,4
+e4325e70bf,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,299,17,3.0,0,1,Anulado,75.0,65.0,3.5,3,0,0,0,3,2,3,5,1,8,3,0
+274dedf4cb,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,269,16,3.5,1,0,Pagado,56.0,81.0,3.425,6,0,0,0,8,3,4,9,5,6,4,2
+ec96e3b480,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,276,18,3.6,1,0,Pagado,61.0,64.0,3.125,12,0,0,0,6,8,4,4,4,5,5,7
+77465f8403,Ingeniería Industrial,Ingeniería,6,Privado,269,16,4.0,1,0,Pagado,86.0,99.0,4.625,16,0,0,0,5,7,8,8,4,7,10,6
+184cf3c859,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,15,3.4,1,0,Pagado,66.0,70.0,3.4,6,0,0,0,4,4,10,0,5,6,4,2
+be8d2348fa,Psicología,Ciencias Sociales y Humanas,1,Oficial,325,14,3.4,1,0,Pagado,73.0,69.0,3.55,5,0,0,0,3,2,3,5,2,3,3,2
+981dd1689d,Ingeniería Industrial,Ingeniería,2,Privado,244,14,3.0,0,1,Pendiente,44.0,73.0,2.925,9,1,0,0,0,9,6,3,7,6,2,7
+e3a6818d76,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,282,16,3.7,1,0,Pagado,77.0,93.0,4.25,27,0,0,0,13,10,11,4,16,8,16,11
+e7420c4515,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,229,14,2.8,1,0,Pagado,62.0,51.0,2.825,5,1,0,0,4,4,4,6,2,6,1,4
+0cce2133ec,Ingeniería Informática,Ingeniería,4,Oficial,212,18,1.9,0,1,Pendiente,47.0,33.0,2.0,0,1,1,4,1,0,2,1,0,0,0,0
+9f3951deee,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,307,15,3.3,1,0,Pendiente,67.0,90.0,3.925,10,0,0,0,6,2,5,4,7,7,6,4
+4654aafa4b,Psicología,Ciencias Sociales y Humanas,4,Oficial,266,17,3.6,1,0,Pagado,76.0,100.0,4.4,9,0,0,0,5,8,7,6,5,7,6,3
+488cdebf04,Ingeniería Informática,Ingeniería,4,Oficial,279,16,3.0,0,1,Sin liquidación,53.0,74.0,3.175,4,0,0,1,2,8,8,4,0,4,2,2
+745b8c46de,Psicología,Ciencias Sociales y Humanas,4,Privado,362,15,3.3,1,0,Pagado,62.0,63.0,3.125,10,0,0,0,6,13,9,8,8,10,4,6
+a8978970e7,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,229,15,2.8,0,1,Sin liquidación,60.0,56.0,2.9,1,1,0,1,5,10,4,5,10,0,0,1
+45aa3af5ea,Ingeniería Industrial,Ingeniería,3,Privado,332,16,2.9,1,0,Pagado,66.0,51.0,2.925,8,1,0,0,5,2,4,2,6,7,2,6
+85d5f59520,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,345,14,3.1,1,0,Pagado,69.0,59.0,3.2,10,0,0,0,8,9,2,10,6,5,3,7
+8c01d2613e,Psicología,Ciencias Sociales y Humanas,3,Oficial,287,17,3.3,1,0,Pendiente,52.0,48.0,2.5,4,1,0,2,4,4,1,6,2,2,1,3
+8927d2eabd,Ingeniería Informática,Ingeniería,2,Oficial,325,16,5.0,1,0,Pagado,85.0,93.0,4.45,13,0,0,0,7,8,11,8,4,1,7,6
+010da425fc,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,216,16,3.8,1,0,Pagado,62.0,81.0,3.575,7,0,0,0,5,3,2,3,3,5,4,3
+b31585b6d4,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,192,14,3.4,1,0,Pagado,81.0,67.0,3.7,13,0,0,0,9,9,2,5,9,7,7,6
+79ed06ce32,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,16,2.3,0,1,Pendiente,24.0,61.0,2.125,5,1,1,4,2,0,0,2,2,0,3,2
+6421411249,Psicología,Ciencias Sociales y Humanas,4,Privado,324,18,3.5,1,0,Pagado,76.0,79.0,3.875,12,0,0,0,1,4,6,3,3,4,7,5
+1c395ca18e,Ingeniería Informática,Ingeniería,3,Privado,323,14,4.5,1,0,Pagado,96.0,95.0,4.775,25,0,0,0,9,11,12,12,4,12,13,12
+3e236fbacf,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,264,15,3.9,1,0,Pagado,71.0,81.0,3.8,4,0,0,0,6,6,6,3,4,5,1,3
+0b4bfceddd,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,270,17,2.4,0,1,Pendiente,58.0,27.0,2.125,6,1,0,1,6,3,4,2,4,3,2,4
+7b11ceda89,Ingeniería Industrial,Ingeniería,2,Privado,302,18,3.2,0,1,Pendiente,72.0,73.0,3.625,0,1,0,2,4,3,11,8,1,1,0,0
+626499f177,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,262,15,2.6,1,0,Pagado,72.0,44.0,2.9,6,1,0,2,4,2,2,0,2,2,2,4
+419ffa3df9,Psicología,Ciencias Sociales y Humanas,2,Oficial,340,17,4.4,1,0,Pendiente,94.0,85.0,4.475,18,0,0,0,7,7,5,5,10,6,10,8
+51fd6e1c46,Ingeniería Informática,Ingeniería,1,Oficial,319,16,3.4,1,0,Pendiente,79.0,65.0,3.6,8,0,0,0,3,3,5,6,2,2,3,5
+d96f2469e6,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,17,3.1,1,0,Pagado,69.0,89.0,3.95,11,0,0,0,2,1,3,6,1,7,6,5
+8017a9b296,Ingeniería Industrial,Ingeniería,3,Oficial,331,18,4.0,1,0,Pagado,76.0,100.0,4.4,16,0,0,0,5,2,3,10,8,4,7,9
+2c67d9bb26,Psicología,Ciencias Sociales y Humanas,6,Oficial,403,17,4.0,1,0,Pagado,79.0,86.0,4.125,17,0,0,0,11,11,12,10,9,1,10,7
+f889c49870,Ingeniería Informática,Ingeniería,2,Oficial,311,16,2.8,1,0,Pagado,52.0,61.0,2.825,8,1,0,0,2,4,3,2,5,3,0,8
+8ee25f18fe,Ingeniería Informática,Ingeniería,1,Oficial,361,14,4.5,1,0,Pagado,99.0,77.0,4.4,13,0,0,0,9,9,4,9,7,8,7,6
+ed1f1a1013,Psicología,Ciencias Sociales y Humanas,3,Privado,299,15,3.1,1,0,Pagado,56.0,53.0,2.725,10,1,0,0,4,4,6,5,3,6,5,5
+35cd347d0d,Psicología,Ciencias Sociales y Humanas,2,Oficial,227,17,3.1,1,0,Pagado,80.0,56.0,3.4,8,0,0,0,4,5,9,5,4,7,5,3
+d5d3880e65,Psicología,Ciencias Sociales y Humanas,2,Privado,272,16,3.1,1,0,Pagado,74.0,53.0,3.175,10,0,0,0,9,9,7,5,11,4,6,4
+da2c038385,Psicología,Ciencias Sociales y Humanas,2,Oficial,335,18,4.5,1,0,Pagado,82.0,91.0,4.325,15,0,0,0,5,5,3,8,10,3,8,7
+50a81675c8,Psicología,Ciencias Sociales y Humanas,5,Privado,334,17,3.4,1,0,Pagado,47.0,76.0,3.075,6,0,0,0,6,7,8,3,6,5,0,6
+8e9af53caf,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,283,16,2.7,0,1,Pendiente,60.0,58.0,2.95,4,1,0,0,0,4,3,3,5,5,2,2
+95be3d3b11,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.4,1,0,Pagado,56.0,86.0,3.55,12,0,0,0,6,8,5,8,3,8,5,7
+43358b55f2,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,293,18,2.7,1,0,Pagado,52.0,49.0,2.525,4,1,0,2,2,4,5,2,2,3,1,3
+5dccf951c7,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,196,18,3.0,1,0,Pagado,64.0,79.0,3.575,9,0,0,0,7,1,3,2,3,3,4,5
+af0c2e35da,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,248,15,2.4,0,1,Pendiente,26.0,34.0,1.5,4,1,1,4,1,0,1,2,1,0,2,2
+5e0190f090,Ingeniería Industrial,Ingeniería,5,Privado,254,16,3.2,1,0,Pagado,65.0,66.0,3.275,9,0,0,0,5,2,5,6,4,7,7,2
+532e8ed55c,Ingeniería Industrial,Ingeniería,6,Privado,287,16,4.2,1,0,Pagado,76.0,91.0,4.175,10,0,0,0,7,5,4,4,6,6,5,5
+788550a3c5,Ingeniería Industrial,Ingeniería,2,Privado,264,16,2.9,1,0,Pagado,65.0,80.0,3.625,4,0,0,2,3,0,3,3,4,1,3,1
+5f01ff528f,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,317,15,3.9,1,0,Pagado,70.0,65.0,3.375,18,0,0,0,11,13,8,5,12,5,9,9
+80e36a232d,Ingeniería Informática,Ingeniería,2,Privado,352,15,3.1,1,0,Pagado,82.0,62.0,3.6,6,0,0,0,4,4,6,8,7,7,3,3
+82731a2bb9,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,316,17,3.9,1,0,Pagado,62.0,60.0,3.05,16,0,0,0,10,11,7,6,5,11,10,6
+bd30dbd7c7,Psicología,Ciencias Sociales y Humanas,5,Oficial,280,15,2.6,1,0,Pagado,36.0,72.0,2.7,15,1,0,0,3,5,4,5,3,1,9,6
+ddf9d11639,Psicología,Ciencias Sociales y Humanas,2,Oficial,239,15,3.5,1,0,Pagado,69.0,83.0,3.8,21,0,0,0,13,5,9,4,10,9,10,11
+25099b7a6a,Ingeniería Informática,Ingeniería,2,Privado,312,18,3.4,1,0,Pagado,72.0,50.0,3.05,11,0,0,0,10,9,9,16,7,6,6,5
+62a1c21189,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,302,15,3.2,1,0,Pagado,72.0,75.0,3.675,11,0,0,0,9,4,3,4,3,5,6,5
+f5ee2f1692,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,362,16,4.1,1,0,Pagado,88.0,91.0,4.475,12,0,0,0,8,5,10,6,9,5,5,7
+5f586cc9c1,Psicología,Ciencias Sociales y Humanas,3,Oficial,305,18,3.4,1,0,Pagado,92.0,69.0,4.025,8,0,0,0,9,4,8,5,17,9,5,3
+2b715392c3,Psicología,Ciencias Sociales y Humanas,6,Privado,358,16,,1,0,Pagado,72.0,92.0,4.1,16,0,0,0,7,7,6,7,8,1,7,9
+8e0b822d0e,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,263,15,3.3,1,0,Pagado,64.0,78.0,3.55,18,0,0,0,10,6,12,3,10,4,8,10
+833ee6ef25,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,323,18,2.7,0,1,Pendiente,74.0,46.0,3.0,7,0,0,0,4,5,3,5,5,2,3,4
+870b0bc5ea,Ingeniería Industrial,Ingeniería,2,Oficial,318,14,3.2,1,0,Pagado,58.0,71.0,3.225,4,0,0,1,3,3,4,5,5,0,0,4
+9d02c44a74,Ingeniería Industrial,Ingeniería,1,Oficial,327,15,3.1,1,0,Pagado,38.0,90.0,3.2,8,0,0,0,7,11,7,7,8,5,6,2
+b88d4f902e,Psicología,Ciencias Sociales y Humanas,5,Oficial,292,17,3.4,1,0,Pagado,69.0,75.0,3.6,12,0,0,0,8,3,7,7,13,1,6,6
+0d1e29e30e,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,386,18,5.0,1,0,Pagado,100.0,98.0,4.95,25,0,0,0,8,15,11,9,10,9,13,12
+78b28e414e,Ingeniería Informática,Ingeniería,1,Privado,284,15,2.9,1,0,Pagado,36.0,54.0,2.25,12,1,0,1,6,6,2,3,5,7,3,9
+813d6590a0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,14,2.7,1,0,Pagado,26.0,46.0,1.8,13,1,0,1,8,6,4,4,5,3,5,8
+368547778e,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,313,18,3.4,1,0,Pagado,85.0,59.0,3.6,12,0,0,0,5,3,5,8,6,3,8,4
+c5781e7088,Psicología,Ciencias Sociales y Humanas,6,Oficial,279,15,3.7,1,0,Pagado,59.0,76.0,3.375,15,0,0,0,8,6,6,6,5,9,10,5
+cb51f5a3b7,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,14,3.8,1,0,Pagado,81.0,73.0,3.85,7,0,0,0,8,1,7,6,4,6,7,0
+f14d6b6ef2,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,302,17,4.0,1,0,Pagado,94.0,98.0,4.8,14,0,0,0,12,10,10,15,13,8,5,9
+f53919d119,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,268,14,2.4,0,1,Pendiente,49.0,49.0,2.45,10,1,1,3,2,2,4,1,1,2,6,4
+85b1f65d25,Ingeniería Industrial,Ingeniería,2,Oficial,272,17,2.7,1,0,Pagado,69.0,61.0,3.25,11,0,0,0,4,8,7,4,7,7,4,7
+b73fd94285,Psicología,Ciencias Sociales y Humanas,2,Privado,276,14,2.9,1,0,Pagado,68.0,48.0,2.9,13,1,0,0,5,7,8,6,5,6,8,5
+95d2550541,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,314,15,,1,0,Pagado,80.0,100.0,4.5,13,0,0,0,10,14,8,9,9,5,8,5
+d30819bca9,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,301,16,3.6,1,0,Pagado,88.0,83.0,4.275,12,0,0,0,3,5,7,6,6,2,7,5
+5babcf10dd,Psicología,Ciencias Sociales y Humanas,6,Privado,243,14,3.3,1,0,Pagado,66.0,63.0,3.225,10,0,0,0,8,2,2,5,5,3,2,8
+5b94b136a6,Psicología,Ciencias Sociales y Humanas,2,Privado,266,16,3.5,1,0,Pagado,59.0,79.0,3.45,7,0,0,0,10,7,3,2,11,5,5,2
+5c42a627fc,Ingeniería Industrial,Ingeniería,2,Oficial,310,14,4.1,1,0,Pagado,86.0,92.0,4.45,12,0,0,0,3,3,10,8,4,4,7,5
+3969ded32c,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,254,18,3.1,1,0,Pagado,35.0,60.0,2.375,10,1,0,1,6,8,2,10,9,7,6,4
+56b510681c,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,269,18,3.5,1,0,Pagado,56.0,75.0,3.275,7,0,0,0,4,4,6,7,3,6,4,3
+dd6ad80bde,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,17,3.1,1,0,Pendiente,38.0,46.0,2.1,15,1,0,1,6,13,5,5,8,7,10,5
+e2adea4274,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,309,16,2.7,1,0,Pagado,45.0,57.0,2.55,4,1,0,0,8,7,5,4,6,5,1,3
+9306cbb4e3,Psicología,Ciencias Sociales y Humanas,1,Privado,297,17,3.1,1,0,Pagado,55.0,66.0,3.025,6,0,0,0,6,4,8,6,5,4,0,6
+a40d35f90e,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,270,17,2.9,1,0,Pagado,72.0,71.0,3.575,13,0,0,0,4,6,6,7,5,3,4,9
+29f1b92be8,Ingeniería Informática,Ingeniería,3,Privado,307,16,3.6,1,0,Pagado,53.0,75.0,3.2,10,0,0,0,2,3,9,7,7,7,4,6
+60b5b45bea,Ingeniería Industrial,Ingeniería,3,Oficial,352,18,3.4,1,0,Pagado,65.0,68.0,3.325,20,0,0,0,7,14,6,8,11,9,6,14
+f75fb31699,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,302,17,3.8,1,0,Pagado,76.0,74.0,3.75,17,0,0,0,7,8,10,6,7,8,9,8
+2fd334139c,Ingeniería Informática,Ingeniería,5,Oficial,274,18,3.0,1,0,Pagado,46.0,82.0,3.2,9,0,0,0,5,5,2,7,2,1,5,4
+b5e31bad95,Ingeniería Industrial,Ingeniería,4,Oficial,267,17,3.3,1,0,Pagado,80.0,79.0,3.975,13,0,0,0,5,2,7,4,3,5,7,6
+327a709c23,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.9,1,0,Pagado,73.0,66.0,3.475,6,0,0,0,9,10,7,9,5,1,2,4
+90af7ce8e8,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,16,5.0,1,0,Pagado,89.0,100.0,4.725,19,0,0,0,7,2,6,6,15,12,10,9
+7b8ed62bd6,Psicología,Ciencias Sociales y Humanas,5,Privado,272,14,3.8,1,0,Pagado,76.0,94.0,4.25,14,0,0,0,3,5,7,2,7,6,8,6
+c74f622810,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,294,14,3.9,1,0,Pagado,99.0,80.0,4.475,18,0,0,0,11,4,4,5,5,5,6,12
+bcf31b85b0,Ingeniería Informática,Ingeniería,6,Oficial,316,17,3.9,1,0,Pagado,73.0,99.0,4.3,13,0,0,0,9,8,11,5,4,5,4,9
+dca9d25990,Ingeniería Informática,Ingeniería,2,Oficial,332,18,2.9,1,0,Pagado,60.0,64.0,3.1,13,0,0,0,2,6,7,0,6,6,3,10
+c0a42a33a7,Ingeniería Industrial,Ingeniería,1,Oficial,275,18,3.7,1,0,Pagado,64.0,68.0,3.3,16,0,0,0,8,7,11,9,13,4,7,9
+2bdbde91f7,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,272,14,3.6,1,0,Pagado,55.0,86.0,3.525,10,0,0,0,10,5,14,4,3,8,7,3
+ccf6653253,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,236,18,1.9,1,0,Pagado,32.0,30.0,1.55,9,1,0,1,6,3,5,2,1,5,5,4
+f22022678d,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,14,4.1,1,0,Pendiente,84.0,76.0,4.0,14,0,0,0,6,9,9,3,7,7,8,6
+5a47a0395f,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,263,15,3.1,0,1,Pendiente,56.0,54.0,2.75,9,1,0,0,1,5,1,7,3,9,6,3
+320555b7a9,Ingeniería Industrial,Ingeniería,3,Oficial,330,16,4.3,1,0,Pagado,82.0,97.0,4.475,9,0,0,0,9,9,8,8,4,12,4,5
+5d5bd0919f,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,268,15,2.7,1,0,Pagado,73.0,83.0,3.9,10,0,0,0,3,3,9,5,5,5,7,3
+41e3a772c5,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,229,16,2.4,1,0,Pendiente,55.0,58.0,2.825,13,1,0,0,4,5,9,4,5,1,8,5
+ebd21e3cb0,Ingeniería Industrial,Ingeniería,2,Oficial,307,14,3.3,1,0,Pagado,77.0,65.0,3.55,8,0,0,0,1,4,4,6,2,3,3,5
+ac007e5755,Ingeniería Industrial,Ingeniería,3,Oficial,293,14,3.9,1,0,Pagado,84.0,96.0,4.5,22,0,0,0,5,9,7,10,9,11,11,11
+862fbfd23c,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,276,14,4.7,1,0,Pagado,79.0,100.0,4.475,12,0,0,0,6,6,8,8,8,9,6,6
+f15dabcc3b,Ingeniería Industrial,Ingeniería,1,Oficial,268,14,3.4,1,0,Pagado,76.0,85.0,4.025,6,0,0,0,4,2,1,3,4,4,2,4
+2974b85260,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,18,3.3,1,0,Pagado,71.0,59.0,3.25,9,0,0,0,5,4,4,7,4,2,7,2
+eb5313c5d2,Ingeniería Industrial,Ingeniería,2,Oficial,322,18,3.3,1,0,Pagado,70.0,75.0,3.625,11,0,0,0,3,7,8,6,2,5,7,4
+0babad3d89,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,238,18,3.4,1,0,Pagado,77.0,64.0,3.525,14,0,0,0,3,3,3,5,9,7,6,8
+091ef9b7ea,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.6,1,0,Pagado,86.0,55.0,3.525,16,0,0,0,7,7,8,6,11,10,7,9
+382d4d160a,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,337,18,3.4,1,0,Pagado,60.0,70.0,3.25,5,0,0,0,0,7,4,1,5,7,2,3
+dbf452a022,Ingeniería Industrial,Ingeniería,1,Privado,290,18,,1,0,Pagado,67.0,58.0,3.125,12,0,0,0,5,7,6,7,3,3,5,7
+c7b22676de,Ingeniería Industrial,Ingeniería,1,Oficial,265,18,1.9,1,0,Pagado,23.0,19.0,1.05,0,1,1,4,0,0,1,0,0,0,0,0
+00fe56d04b,Ingeniería Industrial,Ingeniería,2,Oficial,325,15,3.9,1,0,Pagado,81.0,70.0,3.775,9,0,0,0,7,4,8,5,6,4,4,5
+4267671735,Psicología,Ciencias Sociales y Humanas,3,Oficial,300,18,4.5,1,0,Pagado,91.0,87.0,4.45,20,0,0,0,7,10,15,10,16,9,14,6
+410c0b4239,Ingeniería Industrial,Ingeniería,6,Privado,245,14,3.0,1,0,Pagado,56.0,52.0,2.7,10,1,0,0,4,6,6,9,6,8,6,4
+fd2ea9fda4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,321,14,3.9,1,0,Pagado,100.0,75.0,4.375,13,0,0,0,5,7,14,10,7,10,7,6
+db25efc714,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,18,3.9,1,0,Pagado,92.0,72.0,4.1,10,0,0,0,4,4,7,6,5,10,2,8
+e39cac28f2,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,304,14,3.9,1,0,Pagado,75.0,79.0,3.85,15,0,0,0,6,7,8,7,5,3,9,6
+adfeb5c951,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,273,15,4.0,1,0,Pagado,83.0,53.0,3.4,13,0,0,0,6,10,8,7,9,4,8,5
+3ba87d85e5,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,336,16,3.4,1,0,Pagado,48.0,54.0,2.55,9,1,0,0,6,7,4,5,7,4,4,5
+3e16826d2d,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,286,18,3.5,1,0,Pagado,92.0,70.0,4.05,14,0,0,0,7,7,8,6,5,7,7,7
+eb8fe4b204,Ingeniería Industrial,Ingeniería,1,Oficial,286,15,3.6,1,0,Pagado,70.0,88.0,3.95,11,0,0,0,7,11,6,2,5,2,5,6
+d70ff6b4ff,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,347,16,3.3,1,0,Pagado,70.0,80.0,3.75,21,0,0,0,6,6,4,8,10,12,11,10
+14a56d1e7b,Ingeniería Informática,Ingeniería,3,Oficial,278,17,3.2,1,0,Pagado,69.0,48.0,2.925,7,1,0,0,3,3,8,8,6,5,3,4
+5e967b6d7e,Psicología,Ciencias Sociales y Humanas,2,Oficial,313,17,4.0,1,0,Pagado,69.0,70.0,3.475,10,0,0,0,7,4,7,3,7,7,5,5
+655cad2f3a,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,284,16,3.2,1,0,Pagado,62.0,62.0,3.1,11,0,0,0,2,8,3,3,9,2,4,7
+e62e138549,Ingeniería Industrial,Ingeniería,1,Privado,228,17,2.7,1,0,Pagado,73.0,43.0,2.9,9,1,0,0,3,3,3,3,3,4,4,5
+7ce5145d7d,Ingeniería Industrial,Ingeniería,6,Oficial,384,18,4.9,1,0,Pagado,100.0,94.0,4.85,23,0,0,0,9,9,5,7,5,9,15,8
+d164e600cc,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,389,14,3.9,1,0,Pagado,95.0,97.0,4.8,21,0,0,0,5,6,12,8,12,8,13,8
+119bc67ec7,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,299,18,3.1,1,0,Pagado,77.0,76.0,3.825,13,0,0,0,5,5,5,9,8,4,8,5
+613ccbdf33,Psicología,Ciencias Sociales y Humanas,4,Privado,280,14,2.6,1,0,Pagado,40.0,56.0,2.4,2,1,1,4,2,2,1,2,4,4,1,1
+d3ce853d70,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,314,17,3.3,0,1,Pendiente,75.0,68.0,3.575,6,0,0,0,3,6,4,8,5,4,3,3
+687de829eb,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,275,14,3.7,1,0,Pagado,78.0,61.0,3.475,12,0,0,0,3,3,3,6,7,3,2,10
+486e08667a,Ingeniería Industrial,Ingeniería,3,Privado,241,18,2.9,1,0,Pagado,63.0,48.0,2.775,9,1,0,0,4,2,4,4,4,1,6,3
+85447d7f2f,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,225,18,2.3,0,1,Sin liquidación,35.0,32.0,1.675,8,1,0,1,0,4,5,2,5,2,4,4
+d544938115,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,309,15,3.7,1,0,Pagado,66.0,84.0,3.75,9,0,0,0,3,4,3,4,2,6,5,4
+a6f3d102e9,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,277,15,2.9,1,0,Pagado,68.0,52.0,3.0,6,0,0,0,1,6,5,5,3,3,2,4
+6ba50a4ad4,Ingeniería Informática,Ingeniería,3,Privado,286,16,3.5,0,1,Sin liquidación,79.0,53.0,3.3,2,0,0,2,2,1,4,6,8,3,2,0
+f630a40ca8,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,17,3.1,1,0,Pagado,55.0,71.0,3.15,14,0,0,0,3,10,7,13,7,5,8,6
+4f37f2d595,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,317,16,3.1,1,0,Pagado,59.0,72.0,3.275,10,0,0,0,4,0,6,4,4,5,5,5
+45e48d6431,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,269,15,3.3,1,0,Pagado,66.0,66.0,3.3,6,0,0,0,4,7,1,3,2,6,4,2
+d21ee2708a,Ingeniería Informática,Ingeniería,1,Oficial,213,14,2.5,1,0,Pagado,58.0,35.0,2.325,11,1,0,1,3,7,2,4,3,6,5,6
+88b095c04d,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,222,15,1.8,1,0,Pagado,51.0,29.0,2.0,1,1,1,4,1,0,2,1,0,1,0,1
+1eed5d3141,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,310,17,2.7,1,0,Pagado,69.0,48.0,2.925,8,1,0,0,4,7,8,4,6,7,2,6
+f25d827020,Ingeniería Industrial,Ingeniería,2,Oficial,304,18,4.0,1,0,Pagado,84.0,62.0,3.65,6,0,0,0,8,6,4,2,5,2,2,4
+aaf84731a0,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,15,3.3,0,1,Sin liquidación,80.0,44.0,3.1,7,0,0,0,4,5,6,3,5,4,4,3
+8261548ee8,Psicología,Ciencias Sociales y Humanas,5,Oficial,238,16,3.2,1,0,Pagado,71.0,50.0,3.025,20,0,0,0,9,9,11,4,5,10,8,12
+34356c918d,Psicología,Ciencias Sociales y Humanas,1,Privado,320,18,2.9,1,0,Pagado,61.0,51.0,2.8,4,1,0,1,4,5,3,2,2,3,2,2
+238857bce2,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,354,15,3.7,1,0,Pagado,85.0,49.0,3.35,18,0,0,0,8,6,6,8,6,13,11,7
+9824863cf3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,259,15,3.1,1,0,Pagado,49.0,72.0,3.025,10,0,0,0,9,5,6,1,7,10,7,3
+9c4e575852,Psicología,Ciencias Sociales y Humanas,1,Privado,313,18,3.3,1,0,Pagado,69.0,85.0,3.85,15,0,0,0,7,8,6,3,7,7,9,6
+22ad75b088,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,256,17,3.4,1,0,Pagado,79.0,74.0,3.825,15,0,0,0,2,3,8,2,5,3,3,12
+9df8d3b92b,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,283,15,3.7,1,0,Pagado,71.0,50.0,3.025,9,0,0,0,5,5,6,1,8,7,6,3
+96ddb4baa2,Ingeniería Informática,Ingeniería,3,Oficial,329,14,4.1,1,0,Pagado,89.0,93.0,4.55,17,0,0,0,9,9,5,11,10,13,11,6
+2076c608b9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,235,14,2.3,0,1,Pendiente,33.0,36.0,1.725,3,1,1,4,1,2,1,1,2,2,0,3
+4a8aa71bc3,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,295,18,3.4,1,0,Pagado,81.0,64.0,3.625,3,0,1,3,1,3,3,2,1,2,2,1
+36d070e999,Ingeniería Industrial,Ingeniería,2,Oficial,297,14,4.0,1,0,Pagado,79.0,74.0,3.825,12,0,0,0,4,4,5,7,5,9,6,6
+8a094c40aa,Ingeniería Informática,Ingeniería,2,Oficial,223,14,3.1,1,0,Pagado,43.0,68.0,2.775,15,1,0,0,4,13,6,7,5,9,11,4
+ba4ff2fce8,Psicología,Ciencias Sociales y Humanas,6,Oficial,297,16,3.5,1,0,Pagado,66.0,72.0,3.45,8,0,0,0,4,5,7,4,8,7,5,3
+6beaa69e5b,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,336,15,3.5,1,0,Pagado,44.0,61.0,2.625,16,1,0,0,5,3,8,5,6,7,6,10
+df754596be,Ingeniería Informática,Ingeniería,2,Oficial,288,15,4.0,1,0,Pagado,96.0,94.0,4.75,11,0,0,0,5,2,9,5,3,11,4,7
+cf2234c3ff,Psicología,Ciencias Sociales y Humanas,3,Oficial,279,14,3.0,0,1,Pendiente,65.0,51.0,2.9,1,1,1,3,2,4,4,2,0,0,0,1
+3e2fc6ae35,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,287,15,3.2,1,0,Pagado,66.0,78.0,3.6,12,0,0,0,8,8,6,2,6,7,5,7
+f07321fe82,Ingeniería Informática,Ingeniería,1,Privado,300,17,4.1,1,0,Pagado,70.0,91.0,4.025,12,0,0,0,7,3,5,2,5,5,7,5
+721b90f5a4,Ingeniería Industrial,Ingeniería,2,Oficial,295,18,3.4,1,0,Pagado,59.0,100.0,3.975,9,0,0,0,7,4,6,4,7,2,3,6
+436c0e22e2,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,396,18,4.0,1,0,Pagado,81.0,76.0,3.925,14,0,0,0,5,4,6,11,4,4,6,8
+c541b5ec4d,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,15,3.7,1,0,Pagado,87.0,70.0,3.925,20,0,0,0,10,9,8,11,4,8,8,12
+df084fe2ad,Ingeniería Informática,Ingeniería,5,Oficial,317,16,3.2,1,0,Pagado,83.0,58.0,3.525,4,0,1,3,1,3,3,1,4,0,3,1
+a04d3b44ef,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,323,18,3.4,1,0,Pagado,57.0,61.0,2.95,19,1,0,0,6,8,2,9,6,12,10,9
+8ba130fa93,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,18,3.0,0,1,Pendiente,61.0,46.0,2.675,17,1,0,0,4,3,5,4,8,6,7,10
+b68a1b205c,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,320,18,4.0,1,0,Pagado,36.0,98.0,3.35,13,0,0,0,3,4,6,9,5,4,6,7
+46214432bb,Ingeniería Informática,Ingeniería,1,Privado,180,18,2.3,1,0,Pagado,29.0,54.0,2.075,5,1,0,1,6,4,4,6,0,11,3,2
+adcec64f8c,Ingeniería Informática,Ingeniería,5,Oficial,269,17,3.4,1,0,Pagado,59.0,78.0,3.425,12,0,0,0,4,4,1,9,5,5,6,6
+fa90868ddb,Ingeniería Informática,Ingeniería,3,Oficial,309,17,3.0,1,0,Pagado,61.0,64.0,3.125,3,0,1,3,4,3,2,4,2,1,3,0
+03df062010,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,295,16,3.3,1,0,Pagado,90.0,57.0,3.675,10,0,0,0,8,10,3,8,4,3,4,6
+17f727292c,Psicología,Ciencias Sociales y Humanas,2,Privado,283,18,3.0,1,0,Pagado,77.0,54.0,3.275,3,0,1,3,1,2,3,2,3,3,2,1
+89e0873fdb,Ingeniería Industrial,Ingeniería,6,Oficial,379,18,4.6,1,0,Pagado,90.0,98.0,4.7,26,0,0,0,10,5,11,10,10,3,10,16
+b1fcd1123d,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,18,3.7,1,0,Pagado,90.0,73.0,4.075,18,0,0,0,11,7,11,7,11,4,11,7
+946ec66b96,Ingeniería Industrial,Ingeniería,6,Oficial,247,17,3.5,1,0,Pagado,81.0,78.0,3.975,16,0,0,0,6,10,6,9,11,7,11,5
+1ca1cfdf9b,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,235,18,,1,0,Pagado,60.0,77.0,3.425,11,0,0,0,4,6,3,1,6,6,6,5
+e430cf717b,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,265,16,3.3,1,0,Pagado,73.0,67.0,3.5,11,0,0,0,2,2,3,6,4,1,5,6
+9176dc5db0,Ingeniería Industrial,Ingeniería,6,Oficial,326,15,3.1,1,0,Pendiente,35.0,60.0,2.375,12,1,0,1,3,7,6,7,5,4,4,8
+ea1fd33c32,Psicología,Ciencias Sociales y Humanas,2,Oficial,285,15,3.8,1,0,Pagado,94.0,53.0,3.675,13,0,0,0,10,15,8,7,3,13,9,4
+e8bbfbbf6b,Ingeniería Informática,Ingeniería,3,Oficial,355,17,3.5,1,0,Pagado,64.0,69.0,3.325,3,0,0,0,7,4,8,10,1,7,2,1
+374549ba3b,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,313,18,,1,0,Pagado,64.0,48.0,2.8,8,1,0,0,2,5,5,4,3,3,2,6
+b8d1e425f7,Psicología,Ciencias Sociales y Humanas,3,Privado,271,18,3.2,1,0,Pagado,46.0,51.0,2.425,8,1,0,1,4,4,4,3,3,2,5,3
+4d054847a4,Psicología,Ciencias Sociales y Humanas,4,Oficial,288,15,3.2,1,0,Pagado,66.0,91.0,3.925,8,0,0,0,3,5,5,6,6,7,6,2
+b63814bb57,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,14,3.4,1,0,Pagado,54.0,57.0,2.775,8,1,0,0,3,3,5,7,1,4,4,4
+59198423ef,Psicología,Ciencias Sociales y Humanas,3,Oficial,202,14,3.2,1,0,Pagado,66.0,75.0,3.525,15,0,0,0,7,2,6,4,4,1,7,8
+4107517912,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,238,17,2.7,1,0,Pagado,67.0,55.0,3.05,5,0,1,3,1,1,2,3,0,1,3,2
+e5dbd8c3bc,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,340,18,3.5,1,0,Pagado,53.0,95.0,3.7,10,0,0,0,4,8,8,5,7,3,6,4
+75284a7acd,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,15,3.3,1,0,Pagado,42.0,64.0,2.65,6,1,0,0,6,2,3,7,5,4,1,5
+7a7dac5d5a,Ingeniería Industrial,Ingeniería,6,Oficial,197,16,2.3,1,0,Pagado,28.0,68.0,2.4,4,1,0,2,1,2,4,1,3,9,4,0
+f6999345ed,Psicología,Ciencias Sociales y Humanas,3,Privado,283,14,3.6,1,0,Pagado,41.0,74.0,2.875,19,1,0,0,6,5,4,11,9,10,8,11
+92b8e9e65f,Ingeniería Informática,Ingeniería,6,Privado,322,18,3.3,1,0,Pagado,42.0,77.0,2.975,11,1,0,0,4,6,5,5,2,2,4,7
+0b4be80bf0,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,3.2,1,0,Pendiente,53.0,69.0,3.05,13,0,0,0,0,6,4,2,5,4,7,6
+799321c281,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,255,17,2.8,1,0,Pagado,55.0,61.0,2.9,9,1,0,0,3,3,9,4,7,5,4,5
+722728eb43,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,327,14,3.6,1,0,Pagado,77.0,88.0,4.125,12,0,0,0,6,7,5,7,7,5,8,4
+9ed70dbdff,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,15,4.1,1,0,Pagado,91.0,59.0,3.75,15,0,0,0,10,13,7,7,7,7,7,8
+c41e981a5a,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,18,2.6,0,1,Sin liquidación,58.0,59.0,2.925,6,1,0,0,2,1,1,5,3,5,3,3
+5fe069ee8e,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,286,16,2.8,0,1,Anulado,67.0,46.0,2.825,1,1,1,3,6,2,4,2,4,0,0,1
+d5c0d0f4fc,Ingeniería Informática,Ingeniería,6,Oficial,309,14,3.8,1,0,Pagado,72.0,87.0,3.975,11,0,0,0,5,5,8,4,6,6,7,4
+ea727aadc1,Ingeniería Informática,Ingeniería,3,Oficial,298,14,4.1,1,0,Pagado,74.0,97.0,4.275,7,0,0,0,9,2,8,5,5,6,3,4
+64f13dcce5,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,351,17,3.9,1,0,Pagado,55.0,65.0,3.0,16,0,0,0,7,12,2,11,9,5,6,10
+9cd92eb79c,Ingeniería Industrial,Ingeniería,1,Privado,243,17,3.1,1,0,Pagado,71.0,65.0,3.4,15,0,0,0,6,6,7,5,4,5,9,6
+dfa7a17788,Ingeniería Informática,Ingeniería,4,Privado,308,16,2.8,1,0,Pagado,62.0,78.0,3.5,4,0,0,1,5,1,1,3,3,5,0,4
+35fe04f5fb,Ingeniería Informática,Ingeniería,1,Oficial,313,18,3.3,1,0,Pagado,86.0,64.0,3.75,12,0,0,0,5,3,4,7,5,12,4,8
+e9ab66967d,Ingeniería Industrial,Ingeniería,2,Oficial,281,14,3.2,1,0,Pagado,57.0,52.0,2.725,23,1,0,0,11,3,6,6,7,7,13,10
+7d53380428,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,262,18,3.1,1,0,Pagado,76.0,35.0,2.775,11,1,0,0,3,1,2,4,8,3,4,7
+cde7ad8108,Ingeniería Industrial,Ingeniería,4,Privado,293,17,3.9,1,0,Pagado,79.0,69.0,3.7,8,0,0,0,4,1,4,5,7,4,4,4
+072397fdbf,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,278,15,2.8,0,1,Anulado,39.0,61.0,2.5,4,1,0,1,5,5,5,4,6,2,3,1
+6f0e93d7c8,Ingeniería Informática,Ingeniería,1,Oficial,295,16,3.8,1,0,Pagado,78.0,84.0,4.05,17,0,0,0,8,10,6,10,8,5,12,5
+7de81a5d61,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,285,14,4.2,1,0,Pagado,81.0,100.0,4.525,16,0,0,0,6,7,7,5,12,3,7,9
+71ddd91368,Ingeniería Informática,Ingeniería,1,Privado,290,16,3.1,0,1,Pendiente,70.0,72.0,3.55,7,0,0,0,1,7,1,7,4,1,3,4
+4d9e6f7568,Ingeniería Informática,Ingeniería,3,Oficial,319,14,3.5,1,0,Pagado,66.0,60.0,3.15,13,0,0,0,5,2,7,5,8,5,7,6
+ed8e9295e8,Psicología,Ciencias Sociales y Humanas,5,Privado,348,15,3.7,1,0,Pagado,60.0,72.0,3.3,14,0,0,0,3,9,6,12,8,8,8,6
+3d1f293586,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,15,4.0,1,0,Pagado,62.0,70.0,3.3,17,0,0,0,10,11,9,5,8,4,5,12
+466d5e0e28,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,308,15,3.6,1,0,Pagado,78.0,74.0,3.8,11,0,0,0,4,10,5,4,8,3,5,6
+76707a33d3,Ingeniería Informática,Ingeniería,2,Privado,318,18,2.9,1,0,Pagado,67.0,64.0,3.275,11,0,0,0,3,8,4,3,5,6,5,6
+5a576f70e0,Ingeniería Informática,Ingeniería,2,Oficial,299,18,2.8,1,0,Pagado,44.0,50.0,2.35,9,1,0,1,4,2,5,8,1,3,4,5
+e8a7a634c2,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,301,17,2.6,0,1,Pendiente,73.0,46.0,2.975,9,1,0,0,2,5,5,1,3,3,3,6
+7ef5875582,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,384,15,4.1,1,0,Pagado,73.0,70.0,3.575,16,0,0,0,9,4,10,7,10,12,7,9
+52b5c22968,Ingeniería Industrial,Ingeniería,3,Oficial,294,18,3.4,1,0,Pagado,62.0,87.0,3.725,10,0,0,0,5,3,2,4,4,5,7,3
+034017930c,Ingeniería Informática,Ingeniería,2,Privado,333,17,3.9,1,0,Pagado,68.0,84.0,3.8,6,0,0,0,10,4,7,5,5,7,3,3
+0b319d75fe,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,15,3.1,1,0,Pagado,70.0,53.0,3.075,10,0,0,0,5,7,6,2,3,4,4,6
+87c1b93a82,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,261,17,2.5,1,0,Pagado,58.0,47.0,2.625,10,1,0,0,7,9,6,8,7,3,5,5
+e9beda25dc,Ingeniería Industrial,Ingeniería,4,Oficial,323,15,3.9,1,0,Pagado,65.0,72.0,3.425,9,0,0,0,6,8,4,6,4,5,5,4
+d96064da1e,Psicología,Ciencias Sociales y Humanas,2,Oficial,294,16,3.2,1,0,Pagado,78.0,69.0,3.675,12,0,0,0,3,3,9,7,7,5,6,6
+7e7916cd5e,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,14,3.4,1,0,Pagado,44.0,54.0,2.45,16,1,0,1,7,12,11,8,9,3,10,6
+e3bf24cf9a,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,330,17,4.3,1,0,Pagado,89.0,79.0,4.2,12,0,0,0,6,6,12,4,9,6,6,6
+edac43e242,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,295,18,3.7,1,0,Pagado,75.0,69.0,3.6,22,0,0,0,12,5,8,11,4,9,13,9
+1f3a976198,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,284,15,3.8,1,0,Pagado,50.0,93.0,3.575,15,0,0,0,7,13,7,5,7,6,7,8
+7b3bc88ce9,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,261,17,4.1,1,0,Pendiente,71.0,100.0,4.275,15,0,0,0,5,5,7,7,5,6,10,5
+cc6806a7ca,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,280,15,3.0,1,0,Pagado,88.0,42.0,3.25,2,0,1,3,3,4,2,1,3,1,0,2
+3a30ed588f,Ingeniería Informática,Ingeniería,2,Oficial,338,18,3.7,1,0,Pagado,74.0,75.0,3.725,13,0,0,0,11,7,7,12,7,13,5,8
+bb636a435e,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.2,0,1,Pendiente,78.0,53.0,3.275,1,0,0,1,7,3,5,3,4,1,1,0
+5e6ac61206,Ingeniería Informática,Ingeniería,5,Oficial,349,17,4.0,1,0,Pagado,72.0,39.0,2.775,13,1,0,0,8,9,6,6,7,3,6,7
+8248eb4896,Ingeniería Informática,Ingeniería,6,Oficial,301,17,,1,0,Pagado,63.0,67.0,3.25,16,0,0,0,10,5,5,9,12,5,6,10
+f8a3480f22,Ingeniería Industrial,Ingeniería,2,Oficial,305,18,4.0,1,0,Pagado,90.0,100.0,4.75,9,0,0,0,9,3,4,8,9,7,4,5
+9d230b8cd0,Psicología,Ciencias Sociales y Humanas,2,Privado,320,16,2.6,1,0,Pagado,46.0,62.0,2.7,9,1,0,0,0,6,4,2,5,3,4,5
+6957786be0,Ingeniería Informática,Ingeniería,1,Oficial,276,16,3.4,0,1,Sin liquidación,69.0,64.0,3.325,0,1,1,3,3,3,2,1,0,1,0,0
+eee0241112,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,380,18,4.4,1,0,Pagado,95.0,91.0,4.65,26,0,0,0,4,12,11,10,10,7,10,16
+3576ed84b4,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,409,14,4.6,1,0,Pagado,76.0,86.0,4.05,13,0,0,0,2,6,13,2,12,10,6,7
+2382c45038,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,264,14,2.8,1,0,Pagado,57.0,32.0,2.225,9,1,0,1,6,8,8,6,7,7,2,7
+39286c0bda,Ingeniería Informática,Ingeniería,2,Privado,273,15,2.7,0,1,Sin liquidación,64.0,52.0,2.9,5,1,0,2,4,2,2,1,0,4,2,3
+a4a1ea8b75,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,14,3.9,1,0,Pagado,75.0,86.0,4.025,16,0,0,0,6,8,3,4,3,3,6,10
+ef36e83465,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,260,16,3.2,1,0,Pagado,57.0,71.0,3.2,6,0,0,0,5,1,5,6,6,3,1,5
+81cade8ec5,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,288,18,3.7,0,1,Sin liquidación,52.0,80.0,3.3,0,1,0,1,10,11,3,10,6,0,0,0
+b5e11981cc,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,15,2.7,0,1,Pendiente,40.0,56.0,2.4,8,1,0,1,7,3,2,7,8,7,3,5
+e21a5ca384,Psicología,Ciencias Sociales y Humanas,3,Oficial,234,14,3.2,1,0,Pagado,73.0,45.0,2.95,11,1,0,0,5,7,10,3,5,6,5,6
+cacbf57975,Ingeniería Informática,Ingeniería,4,Oficial,243,14,2.7,1,0,Pagado,55.0,54.0,2.725,7,1,0,0,6,2,2,3,3,4,3,4
+38e3560a45,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,351,16,3.0,1,0,Pagado,72.0,65.0,3.425,12,0,0,0,6,1,8,5,7,5,5,7
+022fc06103,Psicología,Ciencias Sociales y Humanas,3,Privado,276,17,3.3,1,0,Pagado,90.0,62.0,3.8,11,0,0,0,6,4,3,6,7,6,6,5
+5d7e2d7c5b,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.1,1,0,Pagado,64.0,55.0,2.975,4,1,0,0,7,2,3,4,5,3,4,0
+04030bafb7,Psicología,Ciencias Sociales y Humanas,4,Privado,323,14,3.8,1,0,Pagado,84.0,98.0,4.55,10,0,0,0,6,8,8,8,5,4,5,5
+7c7a140a66,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,275,18,3.2,1,0,Pagado,51.0,68.0,2.975,8,1,0,0,1,1,1,6,3,3,3,5
+85eb1c44f0,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,17,4.6,1,0,Pagado,93.0,100.0,4.825,11,0,0,0,6,6,7,6,6,5,6,5
+5beea0e81a,Psicología,Ciencias Sociales y Humanas,4,Oficial,272,18,3.0,1,0,Pagado,65.0,54.0,2.975,12,1,0,0,9,5,4,8,8,4,6,6
+f738f94288,Psicología,Ciencias Sociales y Humanas,4,Oficial,323,14,3.0,1,0,Pagado,59.0,47.0,2.65,15,1,0,0,7,5,6,7,4,5,8,7
+51ca0bca3a,Ingeniería Informática,Ingeniería,1,Oficial,285,14,3.6,1,0,Pagado,68.0,70.0,3.45,8,0,0,0,5,5,8,10,4,10,6,2
+089d49c331,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,321,18,2.4,0,1,Sin liquidación,48.0,66.0,2.85,2,1,1,3,3,4,0,5,1,0,0,2
+86d23b0158,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,234,14,3.4,1,0,Pagado,50.0,59.0,2.725,6,1,0,0,4,2,4,5,7,6,4,2
+212cc11025,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,215,15,3.7,1,0,Pagado,91.0,59.0,3.75,15,0,0,0,8,4,4,4,6,3,9,6
+f53a631ef4,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,373,17,4.6,1,0,Pagado,91.0,100.0,4.775,16,0,0,0,4,9,6,2,3,5,9,7
+c2305efbb5,Ingeniería Industrial,Ingeniería,1,Oficial,309,15,3.7,1,0,Pagado,79.0,56.0,3.375,12,0,0,0,2,7,4,6,5,2,6,6
+b23e7b316e,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,324,18,4.4,1,0,Pagado,72.0,100.0,4.3,9,0,0,0,8,2,5,5,5,7,6,3
+032a362599,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,257,16,3.5,1,0,Pagado,57.0,54.0,2.775,18,1,0,0,3,1,3,6,8,8,12,6
+4d9e19c2a8,Ingeniería Informática,Ingeniería,3,Privado,268,17,3.8,1,0,Pagado,92.0,77.0,4.225,8,0,0,1,5,1,0,2,2,5,6,2
+abb6442b16,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,302,18,2.6,1,0,Pagado,46.0,40.0,2.15,7,1,0,1,4,5,2,7,5,3,2,5
+a75182a1ff,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,15,3.1,1,0,Pagado,68.0,66.0,3.35,10,0,0,0,6,6,8,4,3,7,5,5
+c062e89e02,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,339,17,3.2,1,0,Pagado,86.0,65.0,3.775,10,0,0,0,6,3,4,4,5,5,4,6
+fc0705e876,Ingeniería Informática,Ingeniería,3,Oficial,251,15,2.5,1,0,Pagado,41.0,73.0,2.85,3,1,0,2,4,1,2,2,6,4,1,2
+c919a9dac2,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,243,17,2.8,1,0,Pagado,37.0,50.0,2.175,11,1,0,1,5,5,3,8,5,6,4,7
+602253abe1,Ingeniería Industrial,Ingeniería,5,Oficial,217,15,2.4,0,1,Sin liquidación,58.0,51.0,2.725,8,1,0,2,4,2,1,1,1,2,2,6
+e9fccb81b5,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,293,18,3.6,1,0,Pagado,94.0,53.0,3.675,14,0,0,0,5,3,5,5,5,5,7,7
+6ce1ac8ec9,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,253,17,3.1,1,0,Pagado,80.0,72.0,3.8,9,0,0,0,2,8,4,4,4,5,4,5
+f8d21b7ba7,Ingeniería Informática,Ingeniería,2,Oficial,316,18,4.3,1,0,Pagado,95.0,89.0,4.6,13,0,0,0,2,3,4,8,8,7,6,7
+cc21dde61b,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,349,16,4.4,1,0,Pagado,98.0,88.0,4.65,15,0,0,0,12,7,14,12,11,7,4,11
+7c414c0d17,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,306,17,3.5,1,0,Pagado,94.0,74.0,4.2,11,0,0,0,8,4,10,8,9,8,8,3
+d5b8443b6d,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,364,14,3.8,1,0,Pagado,67.0,69.0,3.4,5,0,0,0,3,7,9,3,6,9,4,1
+aa5ca6ba7b,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.0,1,0,Pagado,74.0,54.0,3.2,18,0,0,0,13,7,7,3,7,11,7,11
+d6b64c3886,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,14,4.0,1,0,Pagado,71.0,82.0,3.825,17,0,0,0,9,5,11,1,3,4,8,9
+2ece03c7a5,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,291,15,3.4,1,0,Pagado,50.0,52.0,2.55,4,1,1,3,3,0,1,1,5,1,1,3
+bc1b50b829,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,14,4.0,1,0,Pagado,92.0,85.0,4.425,20,0,0,0,4,7,11,7,8,8,11,9
+2e6f814b6a,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,220,16,2.8,1,0,Pagado,70.0,41.0,2.775,9,1,0,0,6,4,6,4,2,8,2,7
+98068b50be,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,17,3.4,1,0,Pagado,65.0,71.0,3.4,14,0,0,0,4,8,4,9,2,6,7,7
+f2756cf8c6,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,319,17,4.7,1,0,Pagado,90.0,98.0,4.7,18,0,0,0,8,8,7,7,15,8,9,9
+d56b64b308,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,270,16,3.1,1,0,Pagado,68.0,74.0,3.55,16,0,0,0,2,5,5,6,4,4,8,8
+98eee3e9f3,Ingeniería Informática,Ingeniería,5,Oficial,281,16,4.0,1,0,Pagado,70.0,61.0,3.275,20,0,0,0,11,5,3,5,5,5,11,9
+2873d6baef,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,307,18,4.2,1,0,Pagado,69.0,82.0,3.775,13,0,0,0,13,11,7,7,11,8,7,6
+2e6732e643,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,246,17,2.0,1,0,Pagado,32.0,50.0,2.05,7,1,1,3,3,1,4,1,2,2,3,4
+fcc9557d6f,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,237,18,2.2,1,0,Pagado,56.0,61.0,2.925,7,1,0,0,3,0,5,2,7,3,2,5
+d2d2cdbe71,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,291,14,3.0,1,0,Pagado,50.0,69.0,2.975,8,1,0,0,8,1,9,4,7,9,3,5
+4e845529b3,Ingeniería Informática,Ingeniería,4,Privado,244,14,3.6,1,0,Pagado,75.0,92.0,4.175,18,0,0,0,9,10,4,8,8,3,9,9
+8738036a28,Ingeniería Informática,Ingeniería,6,Privado,292,18,3.2,1,0,Pagado,79.0,80.0,3.975,11,0,0,0,3,6,2,1,5,11,7,4
+e82bad694c,Ingeniería Informática,Ingeniería,3,Oficial,250,17,2.9,1,0,Pagado,53.0,55.0,2.7,15,1,0,0,7,1,7,5,6,7,6,9
+1c9503c32c,Ingeniería Informática,Ingeniería,2,Oficial,271,17,2.8,1,0,Pagado,44.0,62.0,2.65,7,1,0,0,4,2,3,2,5,2,3,4
+d5c018c243,Ingeniería Industrial,Ingeniería,2,Oficial,308,18,2.9,1,0,Pagado,61.0,59.0,3.0,9,0,0,2,2,0,4,2,1,0,4,5
+54098b65c9,Ingeniería Informática,Ingeniería,5,Privado,336,17,3.9,0,1,Pendiente,81.0,97.0,4.45,10,0,0,0,10,5,12,8,6,3,8,2
+df915a1345,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,257,15,3.5,1,0,Pagado,78.0,85.0,4.075,7,0,0,0,8,7,2,7,2,1,3,4
+39c0f6347c,Ingeniería Industrial,Ingeniería,2,Oficial,304,14,3.4,1,0,Pagado,56.0,72.0,3.2,10,0,0,0,5,4,6,3,3,3,5,5
+15384c0311,Ingeniería Industrial,Ingeniería,3,Privado,286,14,3.3,1,0,Pagado,78.0,59.0,3.425,20,0,0,0,5,11,6,6,7,4,12,8
+73389f990e,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,316,15,3.3,1,0,Pagado,68.0,89.0,3.925,4,0,0,1,3,2,4,2,3,4,1,3
+0ac6ae80ec,Psicología,Ciencias Sociales y Humanas,3,Oficial,306,17,4.4,1,0,Pagado,90.0,79.0,4.225,20,0,0,0,5,5,7,6,7,8,12,8
+f99b190a96,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,268,14,3.1,0,1,Pendiente,70.0,67.0,3.425,10,0,0,0,6,5,7,6,6,3,6,4
+c9d895cc39,Ingeniería Industrial,Ingeniería,3,Privado,313,14,2.9,1,0,Pagado,59.0,60.0,2.975,4,1,1,3,2,2,2,5,6,1,2,2
+d8b15b704b,Ingeniería Informática,Ingeniería,3,Oficial,247,15,3.3,0,1,Sin liquidación,70.0,87.0,3.925,5,0,0,2,2,2,3,0,2,4,4,1
+03c86e3afc,Ingeniería Industrial,Ingeniería,3,Oficial,257,16,3.3,0,1,Sin liquidación,57.0,62.0,2.975,14,1,0,0,2,4,5,4,3,5,7,7
+1d73d79545,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,379,15,4.4,1,0,Pagado,85.0,73.0,3.95,10,0,0,0,4,10,8,4,5,7,4,6
+37c1df4bbe,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,364,14,4.7,1,0,Pagado,68.0,100.0,4.2,8,0,0,0,4,1,4,7,12,6,5,3
+e1b9b9a8bd,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,233,17,2.8,1,0,Pagado,60.0,77.0,3.425,6,0,1,3,1,3,1,4,3,0,4,2
+3d0d353093,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,1,0,Pagado,67.0,50.0,2.925,2,1,1,3,4,1,3,2,2,4,2,0
+c4db5b82a3,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,282,18,3.5,1,0,Pagado,78.0,63.0,3.525,6,0,0,1,0,4,3,1,2,3,3,3
+4d9e15747e,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,333,14,3.5,1,0,Pagado,81.0,93.0,4.35,19,0,0,0,6,6,3,8,11,6,8,11
+0f34f87c39,Ingeniería Informática,Ingeniería,3,Oficial,223,14,,1,0,Pagado,45.0,53.0,2.45,12,1,0,1,8,7,8,8,6,5,5,7
+9da358e1c1,Ingeniería Informática,Ingeniería,1,Oficial,194,17,2.3,0,1,Pendiente,49.0,40.0,2.225,9,1,0,1,9,8,4,4,8,2,6,3
+a3e9a1c427,Ingeniería Industrial,Ingeniería,1,Privado,297,14,3.5,1,0,Pagado,58.0,100.0,3.95,17,0,0,0,8,8,5,5,6,7,11,6
+66cfae1c60,Ingeniería Industrial,Ingeniería,3,Oficial,355,16,3.9,1,0,Pagado,89.0,79.0,4.2,12,0,0,0,7,6,9,7,3,10,1,11
+698ee1fdf5,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,314,17,3.1,1,0,Pagado,59.0,66.0,3.125,11,0,0,0,9,6,6,4,11,7,4,7
+14b7df03dc,Psicología,Ciencias Sociales y Humanas,1,Privado,293,17,3.3,1,0,Pagado,64.0,80.0,3.6,5,0,1,3,3,0,5,1,0,1,2,3
+eb2d195e06,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,277,16,2.0,1,0,Pagado,59.0,28.0,2.175,4,1,1,4,1,0,1,2,0,2,3,1
+650eceb567,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,378,14,3.9,1,0,Pagado,69.0,79.0,3.7,17,0,0,0,12,6,9,6,6,3,9,8
+65badddbdd,Ingeniería Informática,Ingeniería,2,Privado,217,14,2.9,1,0,Pagado,48.0,36.0,2.1,10,1,0,1,1,4,2,7,1,6,5,5
+88311b63af,Ingeniería Informática,Ingeniería,3,Oficial,343,18,3.0,1,0,Pagado,44.0,64.0,2.7,6,1,0,0,6,10,4,3,2,4,4,2
+1508ed52a8,Ingeniería Informática,Ingeniería,4,Oficial,370,16,4.3,1,0,Pagado,81.0,83.0,4.1,9,0,0,0,9,6,6,8,3,7,7,2
+4ef734661d,Psicología,Ciencias Sociales y Humanas,1,Oficial,300,14,2.9,1,0,Pagado,50.0,57.0,2.675,16,1,0,0,6,5,6,9,4,7,6,10
+f98dd3d836,Ingeniería Industrial,Ingeniería,3,Oficial,351,15,,1,0,Pagado,90.0,98.0,4.7,16,0,0,0,8,3,5,4,3,2,8,8
+b660fa48a6,Ingeniería Informática,Ingeniería,1,Oficial,203,16,2.7,1,0,Pagado,48.0,69.0,2.925,7,1,0,0,6,1,3,3,3,2,3,4
+1e86f7ba36,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,260,15,2.7,0,1,Pendiente,64.0,52.0,2.9,1,1,1,3,1,5,3,5,2,3,0,1
+38910ca15f,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,246,18,3.3,1,0,Pagado,56.0,94.0,3.75,13,0,0,0,0,5,2,7,5,8,8,5
+79f3dc53c6,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,285,16,3.1,0,1,Pendiente,85.0,42.0,3.175,10,0,0,0,3,5,4,3,3,1,5,5
+26d9f91b0c,Ingeniería Industrial,Ingeniería,2,Oficial,269,14,2.7,1,0,Pagado,50.0,56.0,2.65,4,1,0,1,4,3,2,2,6,3,2,2
+bc3bb7c85b,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,284,18,4.2,1,0,Pagado,98.0,100.0,4.95,20,0,0,0,10,9,8,10,11,10,11,9
+9060240075,Psicología,Ciencias Sociales y Humanas,3,Oficial,332,18,2.8,0,1,Pendiente,79.0,72.0,3.775,12,0,0,0,7,6,2,4,5,0,2,10
+aaa5331af5,Psicología,Ciencias Sociales y Humanas,6,Oficial,274,16,2.7,1,0,Pagado,58.0,63.0,3.025,5,0,0,0,5,5,4,4,4,4,3,2
+ab3ddedfa6,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,344,16,3.4,1,0,Pagado,84.0,67.0,3.775,14,0,0,0,7,11,3,3,7,3,9,5
+034dfdb3f9,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,276,18,2.9,1,0,Pendiente,50.0,60.0,2.75,17,1,0,0,7,5,3,7,7,9,5,12
+eb8ddac6ed,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,283,14,3.6,1,0,Pagado,96.0,60.0,3.9,9,0,0,0,3,5,6,3,2,4,5,4
+461a7545eb,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.5,1,0,Pagado,89.0,69.0,3.95,10,0,0,0,5,4,6,6,6,5,5,5
+7af8e4fd40,Ingeniería Informática,Ingeniería,3,Privado,326,17,3.3,1,0,Pagado,63.0,67.0,3.25,13,0,0,0,5,5,9,7,2,6,7,6
+fd47d5e7a3,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,206,14,3.0,1,0,Pagado,66.0,57.0,3.075,9,0,0,0,8,6,10,4,5,10,5,4
+d3037c7a9b,Ingeniería Informática,Ingeniería,3,Oficial,343,17,4.1,1,0,Pagado,93.0,80.0,4.325,16,0,0,0,7,8,3,4,3,3,5,11
+591863cf8c,Psicología,Ciencias Sociales y Humanas,5,Privado,299,14,3.6,1,0,Pagado,56.0,80.0,3.4,10,0,0,0,3,8,5,12,7,5,4,6
+c788cb665d,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,232,17,2.6,1,0,Pagado,52.0,51.0,2.575,7,1,0,0,4,2,1,7,4,1,4,3
+98e112a5a4,Psicología,Ciencias Sociales y Humanas,2,Privado,355,14,3.7,1,0,Pagado,70.0,93.0,4.075,7,0,0,2,0,6,1,1,1,0,4,3
+ed259a2027,Ingeniería Informática,Ingeniería,5,Oficial,308,17,2.9,0,1,Sin liquidación,52.0,66.0,2.95,1,1,0,2,4,7,3,8,0,0,0,1
+6260ecd8ac,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,307,14,4.0,1,0,Pagado,72.0,63.0,3.375,12,0,0,0,6,5,12,9,3,5,7,5
+3a91c192ba,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,283,18,3.6,1,0,Pagado,71.0,71.0,3.55,0,1,1,3,3,0,2,1,5,0,0,0
+522561f750,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,300,16,3.6,1,0,Pagado,66.0,81.0,3.675,6,0,0,0,3,6,5,3,1,2,4,2
+d7bdbcb614,Ingeniería Informática,Ingeniería,2,Oficial,268,17,2.4,1,0,Pagado,36.0,56.0,2.3,2,1,1,4,4,2,3,0,3,2,2,0
+bd50f4b1b5,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,295,17,2.8,0,1,Pendiente,78.0,65.0,3.575,0,1,0,0,8,11,6,12,4,7,0,0
+076eb901c8,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,296,15,3.2,1,0,Pagado,56.0,72.0,3.2,17,0,0,0,2,5,5,9,7,5,9,8
+435d9c6783,Ingeniería Informática,Ingeniería,1,Oficial,269,16,4.0,1,0,Pagado,84.0,84.0,4.2,14,0,0,0,10,9,9,8,4,9,8,6
+f8ea94bd12,Psicología,Ciencias Sociales y Humanas,3,Oficial,265,18,2.2,0,1,Sin liquidación,41.0,57.0,2.45,5,1,1,3,2,0,1,1,0,2,2,3
+04c5ca1947,Ingeniería Informática,Ingeniería,3,Oficial,253,17,3.7,1,0,Pagado,81.0,73.0,3.85,11,0,0,0,3,3,3,5,5,7,4,7
+141a43d2b5,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,416,16,5.0,1,0,Pagado,100.0,82.0,4.55,16,0,0,0,8,1,8,9,10,11,7,9
+ce331db1ad,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,233,15,3.4,1,0,Pagado,79.0,73.0,3.8,8,0,0,0,7,4,4,7,8,6,2,6
+99bc6b8603,Ingeniería Informática,Ingeniería,3,Privado,353,18,4.0,1,0,Pagado,70.0,87.0,3.925,16,0,0,0,9,7,9,8,8,4,11,5
+5a50534719,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,15,2.9,1,0,Pagado,57.0,80.0,3.425,12,0,0,0,3,4,5,7,3,4,7,5
+ee0932e384,Ingeniería Informática,Ingeniería,2,Oficial,273,14,3.6,1,0,Pagado,78.0,99.0,4.425,11,0,0,0,4,6,6,8,5,7,7,4
+0758164470,Ingeniería Informática,Ingeniería,2,Privado,326,15,3.8,1,0,Pagado,78.0,66.0,3.6,8,0,0,0,5,8,2,3,2,11,3,5
+0fb65838eb,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,310,14,3.0,1,0,Pagado,56.0,50.0,2.65,8,1,0,0,4,5,2,6,7,6,4,4
+e977adea8a,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,280,18,3.4,1,0,Pagado,49.0,82.0,3.275,9,0,0,0,5,5,8,5,7,3,6,3
+144a3a147f,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,318,14,4.1,1,0,Pagado,76.0,89.0,4.125,21,0,0,0,8,4,8,8,7,7,12,9
+949997c6ea,Ingeniería Informática,Ingeniería,4,Privado,345,18,3.4,1,0,Pagado,79.0,68.0,3.675,6,0,0,0,5,5,7,4,6,2,5,1
+76c0e2d7db,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,18,4.4,1,0,Pagado,100.0,93.0,4.825,16,0,0,0,7,12,15,8,7,12,6,10
+659d103c50,Psicología,Ciencias Sociales y Humanas,2,Oficial,255,16,4.1,1,0,Pagado,81.0,90.0,4.275,14,0,0,0,3,2,8,8,4,8,2,12
+bc7689dfd2,Psicología,Ciencias Sociales y Humanas,2,Oficial,283,18,4.1,1,0,Pendiente,77.0,81.0,3.95,15,0,0,0,12,11,9,9,12,7,7,8
+3bfb415224,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,15,3.4,1,0,Pagado,95.0,66.0,4.025,10,0,0,0,7,6,7,10,7,3,6,4
+8be4b16e4b,Ingeniería Informática,Ingeniería,1,Oficial,284,18,3.7,1,0,Pagado,67.0,69.0,3.4,9,0,0,0,1,3,1,4,6,5,6,3
+3c65c90d4c,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,225,14,2.5,0,1,Anulado,46.0,50.0,2.4,4,1,1,4,1,0,6,3,2,0,2,2
+15f82bdf13,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,328,14,4.5,1,0,Pagado,100.0,95.0,4.875,22,0,0,0,9,8,5,6,11,13,15,7
+138d0ca08f,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,256,15,2.4,1,0,Pagado,53.0,39.0,2.3,1,1,1,4,1,0,0,0,0,2,0,1
+f502c435aa,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,257,18,3.5,0,1,Pendiente,72.0,75.0,3.675,9,0,0,0,6,5,3,2,4,7,3,6
+28882fd87c,Ingeniería Industrial,Ingeniería,4,Privado,328,16,3.0,1,0,Pagado,49.0,52.0,2.525,16,1,0,0,7,13,5,5,6,7,9,7
+4c7c598192,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,252,16,3.6,1,0,Pagado,96.0,62.0,3.95,14,0,0,0,2,9,5,6,5,3,6,8
+f07bfa0ce4,Ingeniería Informática,Ingeniería,1,Oficial,343,17,3.8,1,0,Pagado,67.0,75.0,3.55,15,0,0,0,4,7,7,2,3,3,9,6
+e06ddd694b,Psicología,Ciencias Sociales y Humanas,2,Oficial,354,14,4.8,1,0,Pagado,98.0,100.0,4.95,7,0,0,0,5,4,6,10,9,7,3,4
+2a6600efa5,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,200,14,2.5,1,0,Pagado,38.0,32.0,1.75,7,1,1,3,1,1,2,0,6,3,5,2
+f75b5e7c0d,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,239,15,3.0,0,1,Pendiente,65.0,63.0,3.2,1,0,0,1,7,6,3,6,5,3,0,1
+a3fa8a4591,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,15,4.2,1,0,Pagado,86.0,100.0,4.65,26,0,0,0,10,5,6,6,9,7,17,9
+3da532a1ac,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,335,15,3.1,1,0,Pagado,61.0,54.0,2.875,6,1,0,2,5,2,1,2,0,3,1,5
+50c103a780,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,296,17,3.1,1,0,Pagado,48.0,43.0,2.275,13,1,0,1,9,2,6,1,6,8,4,9
+4b0d6adaa6,Ingeniería Informática,Ingeniería,3,Privado,313,15,4.2,1,0,Pagado,97.0,58.0,3.875,16,0,0,0,6,9,5,2,8,10,11,5
+6448acbb7c,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,380,16,4.4,1,0,Pagado,88.0,77.0,4.125,21,0,0,0,8,8,11,7,8,3,10,11
+56efc01398,Ingeniería Informática,Ingeniería,3,Oficial,320,14,3.5,1,0,Pagado,59.0,85.0,3.6,15,0,0,0,7,8,5,5,4,2,7,8
+b6732163e3,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,207,17,2.6,1,0,Pagado,67.0,45.0,2.8,2,1,1,3,0,0,0,0,0,1,0,2
+21ea7c4bd6,Ingeniería Informática,Ingeniería,2,Privado,306,15,3.0,1,0,Pagado,69.0,51.0,3.0,6,0,0,0,8,3,1,3,5,5,4,2
+0b95a6f848,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,298,17,4.5,1,0,Pagado,71.0,97.0,4.2,14,0,0,0,5,8,8,7,5,10,6,8
+9ad48b2a06,Ingeniería Informática,Ingeniería,1,Oficial,278,15,3.0,0,1,Pendiente,41.0,54.0,2.375,13,1,0,1,3,5,5,8,6,8,6,7
+e1cdcf5455,Ingeniería Industrial,Ingeniería,3,Privado,249,17,3.8,1,0,Pagado,63.0,58.0,3.025,5,0,0,0,4,12,3,8,1,7,1,4
+e77a576d32,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,273,18,2.9,1,0,Pagado,67.0,45.0,2.8,4,1,0,0,2,6,1,3,4,3,1,3
+a9da2f0535,Ingeniería Informática,Ingeniería,2,Oficial,324,18,5.0,1,0,Pagado,80.0,89.0,4.225,28,0,0,0,10,10,8,9,6,9,9,19
+ca431a16d9,Psicología,Ciencias Sociales y Humanas,2,Oficial,274,17,2.8,0,1,Anulado,76.0,54.0,3.25,7,0,0,0,3,4,6,2,5,1,3,4
+2e35266884,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,263,15,2.8,1,0,Pagado,61.0,51.0,2.8,4,1,0,2,0,1,1,2,0,4,2,2
+e49bb9dbf1,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,204,17,2.7,1,0,Pendiente,43.0,32.0,1.875,8,1,0,1,3,2,2,4,3,4,5,3
+31bde402f0,Psicología,Ciencias Sociales y Humanas,2,Privado,295,15,4.0,1,0,Pagado,75.0,73.0,3.7,20,0,0,0,15,12,8,8,9,5,7,13
+b1cd705f79,Ingeniería Informática,Ingeniería,3,Oficial,283,15,3.2,1,0,Pagado,56.0,83.0,3.475,14,0,0,0,1,3,3,4,6,3,5,9
+64542b933b,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,17,2.8,1,0,Pagado,71.0,82.0,3.825,16,0,0,0,8,6,1,1,2,4,10,6
+f4a9430ca9,Ingeniería Industrial,Ingeniería,2,Privado,247,14,3.3,1,0,Pagado,67.0,58.0,3.125,12,0,0,0,4,5,9,2,8,1,8,4
+0f9d5249b9,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,329,17,4.0,1,0,Pagado,83.0,68.0,3.775,13,0,0,0,6,7,6,2,8,7,5,8
+415f6e6403,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,288,14,4.2,1,0,Pagado,81.0,89.0,4.25,14,0,0,0,13,6,10,7,14,13,7,7
+b21e1591c3,Ingeniería Informática,Ingeniería,3,Privado,231,17,2.6,1,0,Pagado,51.0,71.0,3.05,8,0,0,0,6,5,8,1,8,8,3,5
+6f6b0d979f,Ingeniería Informática,Ingeniería,3,Privado,283,15,3.9,1,0,Pagado,75.0,74.0,3.725,11,0,0,0,7,12,6,6,6,4,7,4
+407d4a9fc1,Psicología,Ciencias Sociales y Humanas,3,Privado,313,17,2.6,0,1,Pendiente,35.0,58.0,2.325,3,1,1,4,5,3,1,3,2,1,3,0
+a059c16fd3,Ingeniería Industrial,Ingeniería,2,Privado,361,14,4.3,1,0,Pagado,99.0,90.0,4.725,19,0,0,0,4,6,7,11,6,9,8,11
+0dd9b5cfa8,Psicología,Ciencias Sociales y Humanas,1,Privado,260,15,3.3,1,0,Pagado,35.0,80.0,2.875,14,1,0,0,4,8,7,3,9,8,10,4
+ccd7dc6447,Psicología,Ciencias Sociales y Humanas,2,Privado,297,17,3.8,1,0,Pendiente,83.0,72.0,3.875,15,0,0,0,2,3,4,5,9,3,8,7
+1760897509,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,281,17,3.2,1,0,Pagado,68.0,66.0,3.35,9,0,0,0,4,4,4,4,5,4,5,4
+038b9592c0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,333,16,3.7,1,0,Pagado,82.0,63.0,3.625,6,0,0,0,3,4,2,5,5,4,4,2
+ee4625c587,Ingeniería Informática,Ingeniería,1,Oficial,349,14,3.9,1,0,Pagado,52.0,67.0,2.975,11,1,0,0,7,7,11,10,11,11,5,6
+ef62453210,Ingeniería Informática,Ingeniería,2,Privado,364,16,4.0,1,0,Pagado,100.0,81.0,4.525,16,0,0,0,4,7,4,3,9,3,10,6
+781f9b8a4a,Psicología,Ciencias Sociales y Humanas,3,Privado,299,17,4.0,1,0,Pagado,87.0,74.0,4.025,8,0,0,0,4,6,5,8,4,6,5,3
+41ee532512,Ingeniería Informática,Ingeniería,2,Privado,334,18,4.2,1,0,Pagado,71.0,56.0,3.175,20,0,0,0,13,10,7,10,9,10,7,13
+a663531373,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,317,16,3.4,1,0,Pagado,87.0,66.0,3.825,11,0,0,0,8,4,3,9,7,7,5,6
+ef00c2c52a,Psicología,Ciencias Sociales y Humanas,4,Privado,268,14,2.7,1,0,Pagado,50.0,62.0,2.8,11,1,0,0,2,1,4,3,3,1,6,5
+db7e3ba4c0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,272,14,3.3,1,0,Pagado,65.0,64.0,3.225,16,0,0,0,9,8,4,8,9,6,6,10
+5ef3dfe334,Ingeniería Informática,Ingeniería,1,Oficial,286,18,2.8,0,1,Pendiente,58.0,52.0,2.75,12,1,0,0,4,3,6,2,4,4,5,7
+8aa7aa075d,Psicología,Ciencias Sociales y Humanas,2,Privado,306,14,2.9,1,0,Pagado,48.0,61.0,2.725,10,1,0,0,2,2,6,4,6,5,6,4
+3b512d477d,Ingeniería Informática,Ingeniería,5,Oficial,336,16,3.6,1,0,Pagado,72.0,53.0,3.125,15,0,0,0,4,7,5,4,8,7,7,8
+f01d9da42c,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,282,18,3.0,1,0,Pagado,47.0,65.0,2.8,2,1,0,2,3,3,3,5,2,4,1,1
+38633d4158,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,354,18,3.2,1,0,Pagado,78.0,77.0,3.875,8,0,0,0,5,7,9,3,7,7,5,3
+d13e007947,Psicología,Ciencias Sociales y Humanas,1,Privado,269,14,3.6,1,0,Pagado,61.0,85.0,3.65,12,0,0,0,10,12,7,8,6,8,8,4
+df5d8d92b4,Ingeniería Industrial,Ingeniería,1,Oficial,257,16,3.0,1,0,Pagado,47.0,70.0,2.925,14,1,0,0,8,10,4,11,4,7,8,6
+7049eb965f,Ingeniería Industrial,Ingeniería,1,Oficial,368,15,4.7,1,0,Pagado,100.0,90.0,4.75,26,0,0,0,8,9,3,8,5,5,17,9
+f32ce3f8d8,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,427,15,4.7,1,0,Pagado,93.0,78.0,4.275,17,0,0,0,10,6,6,10,15,7,9,8
+b65bd63839,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,258,15,2.6,0,1,Pendiente,47.0,43.0,2.25,9,1,0,1,8,4,3,3,4,2,3,6
+f921b639e6,Ingeniería Industrial,Ingeniería,2,Oficial,253,17,3.2,1,0,Pagado,61.0,54.0,2.875,14,1,0,0,3,5,2,8,6,6,10,4
+18af6d05c2,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,254,15,2.9,1,0,Pagado,55.0,62.0,2.925,6,1,0,0,2,4,2,6,13,7,5,1
+b3c63bee75,Ingeniería Informática,Ingeniería,1,Oficial,298,18,,1,0,Pagado,74.0,41.0,2.875,7,1,0,0,4,7,5,5,7,3,4,3
+93ba75b993,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,330,18,3.7,1,0,Pagado,58.0,59.0,2.925,17,1,0,0,7,5,3,2,7,4,7,10
+e853a32a11,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,18,3.6,1,0,Pagado,51.0,71.0,3.05,7,0,0,0,1,7,5,7,9,4,5,2
+bb74746ab0,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,253,17,3.4,1,0,Pagado,75.0,86.0,4.025,12,0,0,0,3,2,1,5,4,3,4,8
+fbfa00c0c2,Ingeniería Informática,Ingeniería,5,Privado,260,17,3.1,1,0,Pagado,58.0,46.0,2.6,4,1,0,0,3,6,1,7,3,3,0,4
+db2c73f419,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,335,18,3.0,0,1,Pendiente,67.0,77.0,3.6,9,0,0,0,9,6,5,4,6,10,6,3
+59f29dc42b,Psicología,Ciencias Sociales y Humanas,1,Oficial,212,18,2.5,1,0,Pagado,52.0,46.0,2.45,1,1,1,4,3,1,2,2,1,4,0,1
+b1e1cc3eee,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,318,14,,1,0,Pagado,87.0,89.0,4.4,19,0,0,0,9,9,15,8,7,9,11,8
+8cde77abe8,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,17,2.9,1,0,Pagado,65.0,64.0,3.225,5,0,0,2,1,5,2,2,3,2,5,0
+6ef8e39059,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,293,17,3.8,1,0,Pagado,80.0,56.0,3.4,12,0,0,0,6,7,6,4,5,3,7,5
+ebcdbcd3a5,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,318,17,3.5,1,0,Pagado,69.0,58.0,3.175,10,0,0,0,5,5,6,5,5,4,5,5
+4f861d6ca0,Psicología,Ciencias Sociales y Humanas,3,Oficial,315,16,3.8,1,0,Pagado,56.0,53.0,2.725,10,1,0,0,5,5,3,10,2,2,5,5
+7cfec54408,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,278,14,3.7,1,0,Pagado,86.0,59.0,3.625,6,0,0,0,10,8,6,4,4,7,4,2
+f6092f3f16,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.9,1,0,Pagado,64.0,88.0,3.8,26,0,0,0,9,12,10,9,6,9,14,12
+d7856549ae,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,364,18,4.1,1,0,Pagado,66.0,91.0,3.925,17,0,0,0,4,12,7,5,6,5,7,10
+c3d7f522ed,Psicología,Ciencias Sociales y Humanas,3,Oficial,355,16,3.8,1,0,Pagado,65.0,76.0,3.525,13,0,0,0,4,11,8,2,9,1,6,7
+d079eefc23,Ingeniería Industrial,Ingeniería,3,Oficial,308,14,4.1,1,0,Pagado,77.0,67.0,3.6,14,0,0,0,4,6,9,8,5,10,7,7
+e586973e91,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.0,1,0,Pagado,27.0,98.0,3.125,8,0,0,1,5,1,10,6,1,2,6,2
+8db3dad4e5,Ingeniería Industrial,Ingeniería,2,Privado,377,16,4.5,1,0,Pagado,88.0,89.0,4.425,17,0,0,0,11,12,6,4,6,7,10,7
+ef8d657810,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,329,15,4.1,1,0,Pagado,78.0,74.0,3.8,11,0,0,0,3,8,10,9,0,6,8,3
+d91354197e,Ingeniería Informática,Ingeniería,1,Oficial,344,14,4.2,1,0,Pagado,70.0,67.0,3.425,14,0,0,0,3,8,8,5,6,6,7,7
+dcc014be7e,Psicología,Ciencias Sociales y Humanas,3,Privado,341,16,3.9,1,0,Pagado,80.0,90.0,4.25,14,0,0,0,7,7,8,10,10,3,8,6
+ce99da3f21,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,311,14,3.5,1,0,Pagado,85.0,67.0,3.8,13,0,0,0,11,11,3,2,4,4,5,8
+19bfac54f6,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,261,15,2.5,1,0,Pagado,44.0,54.0,2.45,6,1,0,1,3,3,5,3,6,5,5,1
+f8b054f096,Ingeniería Industrial,Ingeniería,2,Oficial,279,15,2.4,0,1,Anulado,38.0,48.0,2.15,4,1,1,3,6,4,5,6,2,1,2,2
+c27ddd4264,Ingeniería Industrial,Ingeniería,1,Oficial,193,17,2.8,1,0,Pagado,72.0,48.0,3.0,3,0,0,0,3,5,3,2,3,6,2,1
+195118bfd4,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,18,4.0,1,0,Pagado,92.0,60.0,3.8,14,0,0,0,9,12,7,6,10,4,9,5
+da4fa7bfe4,Ingeniería Industrial,Ingeniería,1,Privado,319,15,3.5,1,0,Pagado,84.0,84.0,4.2,1,0,0,1,7,5,5,9,4,5,0,1
+57059a943f,Ingeniería Informática,Ingeniería,2,Oficial,295,16,4.3,1,0,Pagado,100.0,81.0,4.525,15,0,0,0,6,1,8,6,6,9,9,6
+f9d017073b,Psicología,Ciencias Sociales y Humanas,2,Oficial,264,14,4.4,1,0,Pagado,100.0,100.0,5.0,15,0,0,0,12,5,7,4,8,14,7,8
+029b6bbdcb,Psicología,Ciencias Sociales y Humanas,3,Oficial,326,15,3.2,1,0,Pagado,47.0,77.0,3.1,4,0,0,2,6,7,4,2,3,0,2,2
+9a3f461e8d,Psicología,Ciencias Sociales y Humanas,3,Oficial,289,16,2.8,1,0,Pagado,62.0,46.0,2.7,4,1,0,2,5,4,2,2,7,2,3,1
+a143163c30,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,4.4,1,0,Pagado,97.0,100.0,4.925,16,0,0,0,17,7,6,8,4,9,7,9
+a19404f43b,Ingeniería Informática,Ingeniería,2,Oficial,295,15,3.2,1,0,Pagado,48.0,44.0,2.3,7,1,0,1,6,2,5,13,4,5,1,6
+a3b07bb565,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,317,17,2.8,0,1,Pendiente,45.0,77.0,3.05,5,0,0,0,5,2,4,3,2,4,2,3
+2efd516360,Ingeniería Industrial,Ingeniería,2,Privado,247,16,3.4,1,0,Pagado,66.0,73.0,3.475,6,0,0,0,12,7,5,6,4,5,4,2
+8f749773a9,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.5,1,0,Pagado,54.0,67.0,3.025,15,0,0,0,5,3,3,7,6,4,6,9
+9bbcbf8599,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,273,17,3.0,1,0,Pagado,75.0,70.0,3.625,9,0,0,0,9,3,2,5,1,2,5,4
+5afc6f3751,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,337,18,3.7,1,0,Pagado,69.0,76.0,3.625,15,0,0,0,6,11,4,5,6,6,8,7
+670ba2320c,Ingeniería Informática,Ingeniería,1,Oficial,308,14,3.3,1,0,Pagado,62.0,75.0,3.425,11,0,0,0,1,7,7,4,5,9,6,5
+3ffde93eef,Ingeniería Informática,Ingeniería,2,Privado,303,16,3.0,0,1,Pendiente,86.0,59.0,3.625,16,0,0,0,3,7,4,5,5,6,9,7
+06ee158127,Ingeniería Informática,Ingeniería,5,Oficial,319,18,3.8,1,0,Pagado,48.0,46.0,2.35,10,1,0,1,5,6,3,7,7,6,1,9
+2a63d4e8cd,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,316,17,3.6,1,0,Pagado,59.0,83.0,3.55,16,0,0,0,11,8,5,3,6,7,11,5
+a45c274f75,Ingeniería Informática,Ingeniería,4,Privado,217,15,1.9,0,1,Sin liquidación,15.0,75.0,2.25,0,1,1,4,1,0,3,3,0,1,0,0
+8358e939e0,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,221,15,3.2,1,0,Pagado,60.0,64.0,3.1,11,0,0,0,3,7,8,3,6,8,5,6
+141f147b95,Ingeniería Industrial,Ingeniería,3,Oficial,290,18,,1,0,Pagado,72.0,50.0,3.05,11,0,0,0,4,4,2,3,5,2,7,4
+eca10b2bde,Ingeniería Industrial,Ingeniería,2,Oficial,266,14,3.8,1,0,Pagado,80.0,70.0,3.75,14,0,0,0,8,9,11,6,6,7,6,8
+1098e109ae,Psicología,Ciencias Sociales y Humanas,3,Privado,345,14,3.4,1,0,Pagado,54.0,69.0,3.075,12,0,0,0,9,8,8,6,4,9,7,5
+be1e68264b,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,326,17,3.6,1,0,Pendiente,74.0,65.0,3.475,6,0,0,1,2,7,4,2,5,1,4,2
+5d68a20449,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,14,3.0,1,0,Pagado,69.0,78.0,3.675,6,0,0,0,6,7,3,6,2,4,2,4
+c0b1554c59,Psicología,Ciencias Sociales y Humanas,1,Oficial,276,15,3.2,1,0,Pagado,70.0,61.0,3.275,4,0,0,0,8,1,3,7,4,5,3,1
+b78388cca2,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,365,15,3.9,1,0,Pagado,90.0,99.0,4.725,13,0,0,0,12,6,9,8,7,4,4,9
+5657f385bf,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,226,18,2.6,0,1,Sin liquidación,87.0,56.0,3.575,11,0,0,0,3,5,6,7,4,4,3,8
+376dd228b1,Psicología,Ciencias Sociales y Humanas,5,Privado,351,18,3.8,1,0,Pagado,66.0,91.0,3.925,17,0,0,0,9,5,8,5,6,9,11,6
+143ee80031,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,16,3.2,1,0,Pagado,38.0,65.0,2.575,3,1,0,2,3,7,3,2,2,3,2,1
+2c02188524,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,304,18,4.0,1,0,Pagado,87.0,59.0,3.65,11,0,0,0,6,7,5,9,5,8,5,6
+f222dd0810,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,328,16,3.5,1,0,Pagado,58.0,71.0,3.225,4,0,0,0,4,5,4,6,2,7,1,3
+d957926516,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,217,15,3.0,1,0,Pagado,54.0,52.0,2.65,11,1,0,0,10,9,6,6,16,13,6,5
+f8cf8360e3,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,298,14,3.9,1,0,Pagado,75.0,66.0,3.525,13,0,0,0,10,4,5,10,14,13,7,6
+1c0174455d,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,16,3.9,1,0,Pagado,82.0,96.0,4.45,20,0,0,0,5,6,6,9,8,8,12,8
+f94c41db6e,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,254,17,3.6,1,0,Pagado,78.0,60.0,3.45,10,0,0,0,10,7,5,7,3,10,4,6
+2741283101,Psicología,Ciencias Sociales y Humanas,3,Oficial,241,14,2.2,0,1,Pendiente,58.0,37.0,2.375,1,1,1,4,0,2,3,2,0,0,0,1
+650b26c844,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,330,17,3.1,1,0,Pagado,67.0,64.0,3.275,7,0,0,0,5,4,5,10,8,6,3,4
+5b83fd640e,Ingeniería Industrial,Ingeniería,3,Oficial,282,14,2.4,0,1,Pendiente,36.0,43.0,1.975,0,1,1,4,1,1,2,1,0,0,0,0
+d495c13442,Ingeniería Industrial,Ingeniería,3,Privado,349,15,4.5,1,0,Pagado,100.0,100.0,5.0,20,0,0,0,13,8,12,6,11,10,7,13
+338f54a3d5,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,311,14,3.2,1,0,Pagado,66.0,95.0,4.025,16,0,0,0,4,10,3,8,2,7,7,9
+7a3b423e85,Ingeniería Informática,Ingeniería,1,Privado,264,14,3.8,1,0,Pagado,75.0,60.0,3.375,13,0,0,0,6,7,5,7,9,4,8,5
+7c5feae94b,Ingeniería Informática,Ingeniería,1,Oficial,235,17,3.6,1,0,Pagado,68.0,60.0,3.2,6,0,0,0,9,8,3,6,6,6,3,3
+2042243d14,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,274,14,3.7,0,1,Sin liquidación,64.0,52.0,2.9,1,1,0,1,6,4,5,6,7,5,0,1
+63497815a3,Ingeniería Industrial,Ingeniería,3,Privado,290,17,3.4,1,0,Pagado,76.0,67.0,3.575,15,0,0,0,6,6,10,7,7,11,9,6
+53ab5dc5b6,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,403,15,3.9,1,0,Pagado,47.0,62.0,2.725,15,1,0,0,5,8,8,9,5,5,5,10
+ad5f04bc0e,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,268,14,4.0,1,0,Pagado,63.0,98.0,4.025,16,0,0,0,10,6,8,9,6,9,9,7
+319debe166,Ingeniería Industrial,Ingeniería,3,Oficial,274,17,3.2,1,0,Pagado,77.0,51.0,3.2,10,0,0,0,5,2,4,11,5,6,9,1
+723ab49a76,Ingeniería Informática,Ingeniería,2,Oficial,206,16,3.0,1,0,Pagado,53.0,77.0,3.25,16,0,0,0,12,4,5,6,9,7,7,9
+85cf12930f,Ingeniería Industrial,Ingeniería,4,Oficial,212,17,2.0,1,0,Pagado,69.0,41.0,2.75,4,1,0,2,3,4,2,2,3,3,2,2
+a63151a877,Psicología,Ciencias Sociales y Humanas,3,Oficial,296,16,4.2,1,0,Pagado,80.0,77.0,3.925,19,0,0,0,6,10,10,12,8,8,4,15
+a502409a7b,Ingeniería Informática,Ingeniería,1,Oficial,256,18,2.7,1,0,Pagado,64.0,64.0,3.2,11,0,0,0,4,6,4,4,7,5,4,7
+7bab71b007,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,352,15,4.4,1,0,Pagado,99.0,75.0,4.35,16,0,0,0,9,9,5,10,8,10,9,7
+8de062ef82,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,220,18,2.9,0,1,Pendiente,39.0,82.0,3.025,13,0,0,0,5,6,5,5,3,5,5,8
+0bb12f0dc6,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,16,3.9,1,0,Pagado,82.0,70.0,3.8,10,0,0,0,8,8,8,4,5,6,5,5
+1bfc551b82,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,355,15,3.0,1,0,Pagado,60.0,61.0,3.025,8,0,0,0,7,5,7,1,5,2,2,6
+656cc87737,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,324,15,3.9,1,0,Pagado,77.0,68.0,3.625,13,0,0,0,4,6,11,8,4,7,6,7
+aa73a018ef,Psicología,Ciencias Sociales y Humanas,1,Privado,263,18,4.1,1,0,Pagado,88.0,68.0,3.9,6,0,0,0,4,3,3,4,1,5,4,2
+77504e05c1,Ingeniería Informática,Ingeniería,4,Oficial,300,17,3.5,1,0,Pagado,72.0,74.0,3.65,18,0,0,0,7,7,11,10,7,13,7,11
+e81397f6c7,Psicología,Ciencias Sociales y Humanas,3,Privado,227,17,2.6,0,1,Pendiente,31.0,62.0,2.325,5,1,1,4,4,2,1,2,5,1,2,3
+3af7562dd1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,346,15,3.7,1,0,Pagado,97.0,60.0,3.925,9,0,0,0,5,3,4,6,9,6,6,3
+695c2a8ca1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,291,18,,0,1,Sin liquidación,50.0,44.0,2.35,8,1,0,2,1,1,4,3,2,3,5,3
+ee8046c6b3,Ingeniería Informática,Ingeniería,2,Oficial,330,16,3.3,1,0,Pagado,64.0,65.0,3.225,13,0,0,0,4,2,3,4,5,8,6,7
+7c211eb995,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,355,14,3.8,1,0,Pagado,54.0,84.0,3.45,9,0,0,0,6,6,4,3,4,5,6,3
+581aa5a3e2,Ingeniería Informática,Ingeniería,2,Oficial,220,16,2.9,0,1,Pendiente,44.0,68.0,2.8,1,1,0,1,4,2,1,5,4,6,0,1
+2169e8c532,Ingeniería Industrial,Ingeniería,2,Oficial,294,14,3.0,0,1,Sin liquidación,76.0,77.0,3.825,4,0,0,0,5,3,2,3,5,8,4,0
+ef78321058,Ingeniería Informática,Ingeniería,2,Oficial,291,18,3.0,1,0,Pagado,78.0,62.0,3.5,9,0,0,0,2,8,8,6,1,3,4,5
+7e884d38e0,Ingeniería Industrial,Ingeniería,2,Oficial,362,18,3.5,1,0,Pagado,66.0,65.0,3.275,11,0,0,0,7,5,6,7,8,5,8,3
+81a7845ae7,Psicología,Ciencias Sociales y Humanas,2,Oficial,379,18,4.3,1,0,Pagado,89.0,84.0,4.325,20,0,0,0,1,1,8,9,1,7,13,7
+eb763a0632,Psicología,Ciencias Sociales y Humanas,1,Privado,291,18,,1,0,Pagado,40.0,33.0,1.825,5,1,1,3,2,2,5,3,1,3,5,0
+69434ce2a1,Psicología,Ciencias Sociales y Humanas,4,Oficial,244,17,3.5,1,0,Pagado,75.0,87.0,4.05,15,0,0,0,10,9,10,8,9,9,6,9
+877f926ead,Psicología,Ciencias Sociales y Humanas,3,Oficial,322,17,3.2,1,0,Pagado,50.0,61.0,2.775,13,1,0,0,7,6,7,6,10,10,7,6
+4f2aa0c2de,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,245,14,3.1,1,0,Pagado,58.0,64.0,3.05,6,0,0,0,7,6,4,2,4,3,3,3
+e0f90f7a36,Psicología,Ciencias Sociales y Humanas,2,Privado,245,17,2.2,0,1,Sin liquidación,64.0,42.0,2.65,0,1,1,3,0,0,0,1,1,0,0,0

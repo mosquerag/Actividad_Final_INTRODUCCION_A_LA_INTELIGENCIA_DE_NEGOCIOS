@@ -1,0 +1,15 @@
+﻿fuente,problema,regla,etapa,filas_afectadas
+admisiones,Nombres con mayúsculas y formatos inconsistentes,Normalizar nombres con strip() y title(),Limpieza,1480
+admisiones,Fechas en diferentes formatos,Convertir fechas a formato estándar,Transformación,1480
+admisiones,Registros repetidos por documento,Conservar un registro por documento único,Limpieza,30
+sis_matriculas,Nombres de programas con abreviaturas y variantes,Aplicar catálogo de equivalencias de programas,Transformación,2282
+sis_matriculas,Periodos con numeración romana,Estandarizar periodo a AAAA-N,Limpieza,2282
+sis_matriculas,Filas duplicadas,Eliminar duplicados exactos,Limpieza,17
+sis_matriculas,Identificación de estudiantes pertenecientes a la cohorte,Seleccionar periodo 2025-1 y tipo de ingreso Nuevo,Transformación,1200
+erp_pagos_2025_2,Documentos y estados de pago con formatos inconsistentes,"Normalizar documentos, estados y valores monetarios",Limpieza,1132
+moodle_actividad,Accesos y calificaciones almacenados como texto,Convertir accesos y notas a tipos numéricos,Limpieza,19200
+moodle_actividad,Correo compartido o no confiable como llave única,Validar la relación con el código institucional del estudiante,Integración,19200
+bienestar_registros,Homónimos: mismo nombre en estudiantes distintos,Cruzar por nombre + programa y validar que sea único,Integración,1
+bienestar_registros,Nombre y observación pueden contener datos personales o sensibles,Eliminar nombre y observación; conservar llave y tipo de registro,Anonimización,276
+Moodle + SIS,Indicadores tempranos de riesgo académico,Calcular regla de alerta con cuatro señales y umbral de tres,Transformación,1200
+sis_matriculas,Promedios fuera de la escala 0-5,Marcar como no válidos y excluir del promedio (sin convertir),Validación,13

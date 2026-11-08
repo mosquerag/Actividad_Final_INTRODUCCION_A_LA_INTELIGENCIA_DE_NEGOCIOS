@@ -1,0 +1,1274 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Observatorio de Permanencia: arquitectura de inteligencia de negocios, indicadores académicos y alertas tempranas.">
+<title>Observatorio de Permanencia | BI</title>
+
+<!-- Tipografías -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Estilos -->
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+
+<body>
+
+<!-- =====================================
+     MENÚ LATERAL
+===================================== -->
+<aside class="sidebar">
+
+    <a class="brand" href="#inicio">
+        <span class="brand-mark">U</span>
+        <span>
+            OBSERVATORIO
+            <small>PERMANENCIA · 2025-1</small>
+        </span>
+    </a>
+
+    <nav id="nav" aria-label="Navegación principal">
+        <a href="#inicio" class="active"><i>⌂</i> Resumen</a>
+        <a href="#etl"><i>01</i> ETL y calidad</a>
+        <a href="#modelo"><i>02</i> Modelo de datos</a>
+        <a href="#arquitectura"><i>03</i> Arquitectura BI</a>
+        <a href="#tablero"><i>04</i> Tablero interactivo</a>
+        <a href="#alerta"><i>05</i> Alerta temprana</a>
+        <a href="#prospectiva"><i>06</i> Prospectiva</a>
+        <a href="#referencias"><i>↗</i> Referencias</a>
+    </nav>
+
+    <div class="sidebar-foot">
+        <span class="dot"></span>
+        Proyecto académico · Datos agregados
+        <br>
+        <small>Actividad 2 · Inteligencia de Negocios</small>
+    </div>
+
+</aside>
+
+
+<!-- =====================================
+     CONTENIDO PRINCIPAL
+===================================== -->
+<main>
+
+    <header class="topbar">
+        <div>
+            <span class="eyebrow">UNIVERSIDAD ANDINA DEL NORTE · COHORTE 2025-1</span>
+            <div class="top-title">Observatorio de Permanencia</div>
+        </div>
+        <span class="pill">BI · DEMOSTRADOR</span>
+    </header>
+
+
+    <!-- =====================================
+         1. INICIO
+    ===================================== -->
+    <section id="inicio" class="page">
+
+        <div class="hero">
+
+            <div>
+                <span class="eyebrow">DE LOS DATOS A LA ACCIÓN</span>
+
+                <h1>
+                    Comprender la permanencia.
+                    <br>
+                    <em>Anticipar la deserción.</em>
+                </h1>
+
+                <p class="hero-copy">
+                    Una visión integrada de admisiones, matrícula,
+                    actividad académica y acompañamiento estudiantil
+                    para convertir los datos institucionales en
+                    decisiones oportunas.
+                </p>
+
+                <div class="hero-actions">
+                    <a class="btn primary" href="#tablero">Explorar tablero →</a>
+                    <a class="text-link" href="#arquitectura">Ver arquitectura</a>
+                </div>
+            </div>
+
+            <div class="hero-visual">
+                <div class="orbit o1"></div>
+                <div class="orbit o2"></div>
+
+                <div class="hero-number">
+                    <strong>85,42%</strong>
+                    <span>RETENCIÓN 2025-2</span>
+                    <small>1.025 de 1.200 estudiantes</small>
+                </div>
+
+                <div class="floating f1">+ Datos integrados</div>
+                <div class="floating f2">◎ Alertas tempranas</div>
+            </div>
+
+        </div>
+
+
+        <div class="notice">
+            <b>Alcance y transparencia</b>
+            <span>
+                Institución y registros sintéticos creados para la actividad.
+                El tablero usa estadísticas agregadas; la tabla descargable es
+                anónima y no contiene nombres, documentos ni correos.
+            </span>
+        </div>
+
+
+        <div class="section-head">
+            <div>
+                <span class="eyebrow">PANORAMA EJECUTIVO</span>
+                <h2>La cohorte en cifras</h2>
+            </div>
+            <span class="muted">Cohorte de ingreso 2025-1 · Seguimiento a 2025-2</span>
+        </div>
+
+        <!-- Las tarjetas se generan desde data.js -->
+        <div class="metric-grid" id="homeMetrics"></div>
+
+
+        <div class="section-head">
+            <div>
+                <span class="eyebrow">RECORRIDO</span>
+                <h2>Componentes del observatorio</h2>
+            </div>
+        </div>
+
+        <div class="feature-grid">
+
+            <a href="#etl">
+                <b>01 / ETL</b>
+                <h3>Calidad y trazabilidad</h3>
+                <p>Limpieza repetible, integración y reglas de transformación.</p>
+            </a>
+
+            <a href="#modelo">
+                <b>02 / MODELO</b>
+                <h3>Modelo dimensional</h3>
+                <p>Granularidad, hechos, dimensiones y medidas.</p>
+            </a>
+
+            <a href="#arquitectura">
+                <b>03 / ARQUITECTURA</b>
+                <h3>Flujo de datos</h3>
+                <p>Data Lake, Data Warehouse, capa semántica y consumo.</p>
+            </a>
+
+            <a href="#tablero">
+                <b>04 / TABLERO</b>
+                <h3>Indicadores interactivos</h3>
+                <p>Filtros por programa, facultad y estrato.</p>
+            </a>
+
+            <a href="#alerta">
+                <b>05 / ALERTA</b>
+                <h3>Intervención temprana</h3>
+                <p>Comparación de reglas y matriz de confusión.</p>
+            </a>
+
+            <a href="#prospectiva">
+                <b>06 / FUTURO</b>
+                <h3>Próxima evolución</h3>
+                <p>Tecnologías, riesgos y estrategias de mitigación.</p>
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================
+         2. ETL Y CALIDAD
+    ===================================== -->
+    <section id="etl" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 01 · EC2</span>
+            <h1>ETL repetible y calidad de datos</h1>
+            <p>
+                El proceso ETL integra las fuentes institucionales,
+                estandariza formatos, elimina inconsistencias y
+                prepara una base analítica para el seguimiento
+                de la permanencia estudiantil.
+            </p>
+        </div>
+
+
+        <div class="metric-grid compact">
+
+            <article class="metric">
+                <span>Registros de cohorte</span>
+                <strong>1.200</strong>
+                <small>Estudiantes únicos</small>
+            </article>
+
+            <article class="metric">
+                <span>Fuentes integradas</span>
+                <strong>5</strong>
+                <small>Admisiones, SIS, ERP, Moodle y Bienestar</small>
+            </article>
+
+            <article class="metric">
+                <span>Llave de integración</span>
+                <strong>Código</strong>
+                <small>Identificador sustituto</small>
+            </article>
+
+            <article class="metric">
+                <span>Resultado</span>
+                <strong>CSV</strong>
+                <small>Base analítica limpia y anónima</small>
+            </article>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <div>
+                    <span class="eyebrow">TRAZABILIDAD</span>
+                    <h2>Reglas de transformación</h2>
+                </div>
+                <span class="tag">Proceso ETL</span>
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Fuente</th>
+                            <th>Problema</th>
+                            <th>Regla aplicada</th>
+                            <th>Etapa</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>Admisiones</td>
+                            <td>Nombres con formatos diferentes</td>
+                            <td>Normalización de texto</td>
+                            <td>Limpieza</td>
+                        </tr>
+
+                        <tr>
+                            <td>Admisiones</td>
+                            <td>Fechas en distintos formatos</td>
+                            <td>Conversión a formato fecha</td>
+                            <td>Transformación</td>
+                        </tr>
+
+                        <tr>
+                            <td>Admisiones</td>
+                            <td>Documentos duplicados</td>
+                            <td>Deduplicación por identificador</td>
+                            <td>Limpieza</td>
+                        </tr>
+
+                        <tr>
+                            <td>SIS</td>
+                            <td>Documentos con separadores</td>
+                            <td>Estandarización de identificadores</td>
+                            <td>Limpieza</td>
+                        </tr>
+
+                        <tr>
+                            <td>SIS</td>
+                            <td>Variantes de nombres de programas</td>
+                            <td>Homologación con catálogo oficial</td>
+                            <td>Transformación</td>
+                        </tr>
+
+                        <tr>
+                            <td>SIS</td>
+                            <td>Periodos y promedios inconsistentes</td>
+                            <td>Normalización de periodo y decimales</td>
+                            <td>Limpieza</td>
+                        </tr>
+
+                        <tr>
+                            <td>Moodle</td>
+                            <td>Correos compartidos o desactualizados</td>
+                            <td>Integración mediante código validado</td>
+                            <td>Integración</td>
+                        </tr>
+
+                        <tr>
+                            <td>Bienestar</td>
+                            <td>Homónimos y datos sensibles</td>
+                            <td>Validación de identidad y minimización</td>
+                            <td>Privacidad</td>
+                        </tr>
+
+                        <!-- NUEVAS FILAS -->
+                        <tr>
+                            <td>SIS</td>
+                            <td>13 promedios entre 24 y 43 (fuera de escala 0–5)</td>
+                            <td>Excluir del promedio sin convertir y listarlos aparte</td>
+                            <td>Validación</td>
+                        </tr>
+
+                        <tr>
+                            <td>Bienestar</td>
+                            <td>Nombre y observación con datos sensibles</td>
+                            <td>Eliminar ambos y conservar solo identificador y tipo de registro</td>
+                            <td>Anonimización</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+
+        <div class="callout">
+            <b>Protección de datos:</b>
+            Los datos sensibles de Bienestar se restringen
+            y se minimizan antes de su uso analítico.
+            La página pública no contiene información
+            individual identificable.
+        </div>
+
+
+        <div class="downloads">
+
+            <a class="btn primary" href="resultados/cohorte_limpia_publica.csv" download>
+                Descargar cohorte limpia (anonimizada) ↓
+            </a>
+
+            <a class="btn secondary" href="etl_observatorio.py" download>
+                Script Python ↓
+            </a>
+
+            <a class="btn secondary" href="README.txt" download>
+                Guía de ejecución ↓
+            </a>
+
+        </div>
+
+        <p class="small muted">
+            La descarga pública no incluye nombre, documento, correo ni
+            observaciones de Bienestar; el código de estudiante se reemplazó
+            por un identificador anónimo. La reproducción completa del ETL
+            requiere los cinco CSV originales (carpeta de fuentes del curso).
+        </p>
+
+    </section>
+
+
+    <!-- =====================================
+         3. MODELO DIMENSIONAL
+    ===================================== -->
+    <section id="modelo" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 02 · EC2</span>
+            <h1>Modelo dimensional</h1>
+            <p>
+                El modelo separa los eventos medibles de los
+                atributos descriptivos para facilitar el análisis
+                de la permanencia y evitar duplicaciones
+                en los indicadores.
+            </p>
+        </div>
+
+
+        <div class="callout">
+            <b>Granularidad principal:</b>
+            Una fila por estudiante de la cohorte 2025-1,
+            con su resultado de matrícula en 2025-2.
+            La actividad Moodle se conserva en una segunda
+            tabla con una fila por estudiante y semana.
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <div>
+                    <span class="eyebrow">ESQUEMA LÓGICO</span>
+                    <h2>Modelo estrella simplificado</h2>
+                </div>
+                <span class="tag">Vista conceptual</span>
+            </div>
+
+            <div class="schema">
+
+                <div class="dim-stack">
+
+                    <div class="schema-box dim">
+                        <b>Dim_Programa</b>
+                        <small>Programa · Facultad</small>
+                    </div>
+
+                    <div class="schema-box dim">
+                        <b>Dim_Estrato</b>
+                        <small>Estrato socioeconómico</small>
+                    </div>
+
+                    <div class="schema-box dim">
+                        <b>Dim_TipoColegio</b>
+                        <small>Oficial · Privado</small>
+                    </div>
+
+                </div>
+
+                <div class="fact-stack">
+
+                    <div class="schema-box fact">
+                        <b>Hechos_Cohorte</b>
+                        <small>Estudiante · Matrícula · Deserción · Alertas · Promedio</small>
+                    </div>
+
+                    <div class="schema-box bridge">
+                        <b>Dim_Estudiante</b>
+                        <small>Código sustituto · Datos minimizados</small>
+                    </div>
+
+                    <div class="schema-box fact">
+                        <b>Hechos_Actividad</b>
+                        <small>Estudiante · Semana · Accesos · Nota parcial</small>
+                    </div>
+
+                </div>
+
+                <div class="dim-stack">
+
+                    <div class="schema-box dim">
+                        <b>Dim_EstadoPago</b>
+                        <small>Pagado · Pendiente · Anulado</small>
+                    </div>
+
+                    <div class="schema-box dim">
+                        <b>Dim_Semana</b>
+                        <small>Semana 1–16</small>
+                    </div>
+
+                    <div class="schema-box dim">
+                        <b>Dim_Fecha</b>
+                        <small>Fecha · Periodo · Año</small>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- CAPTURA DE LA VISTA DE MODELO (guardar como assets/modelo_powerbi.png) -->
+        <figure class="card">
+            <img src="assets/modelo_powerbi.png" style="max-width:100%"
+                 alt="Vista de modelo en Power BI con tabla de hechos y dimensiones relacionadas"
+                 onerror="this.style.display='none'">
+            <figcaption class="small muted">
+                Vista de modelo en Power BI: relaciones uno a muchos desde
+                Dim_Programa, Dim_Estrato, Dim_TipoColegio y Dim_EstadoPago
+                hacia Hechos_Cohorte. Permite filtrar por programa, facultad y estrato.
+            </figcaption>
+        </figure>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <h2>Medidas y agregación</h2>
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Medida</th>
+                            <th>Tipo</th>
+                            <th>Agregación</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>Matriculado, desertor y alertado</td>
+                            <td>Aditiva</td>
+                            <td>SUM</td>
+                        </tr>
+
+                        <tr>
+                            <td>Accesos Moodle y créditos</td>
+                            <td>Aditiva</td>
+                            <td>SUM</td>
+                        </tr>
+
+                        <tr>
+                            <td>Promedio académico y Saber 11</td>
+                            <td>No aditiva</td>
+                            <td>AVG</td>
+                        </tr>
+
+                        <tr>
+                            <td>Retención y deserción</td>
+                            <td>Ratio (no aditiva)</td>
+                            <td>Razón de sumas</td>
+                        </tr>
+
+                        <tr>
+                            <td>Precisión y cobertura</td>
+                            <td>Ratio (no aditiva)</td>
+                            <td>Razón de sumas</td>
+                        </tr>
+
+                        <tr>
+                            <td>Absorción</td>
+                            <td>Ratio (no aditiva)</td>
+                            <td>Razón de sumas (cohorte / admitidos únicos)</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+        <p class="small muted">
+            La facultad se deriva del catálogo de programas.
+            Las dimensiones de semana y actividad Moodle
+            se relacionan con el estudiante y la semana
+            correspondiente.
+        </p>
+
+    </section>
+
+
+    <!-- =====================================
+         4. ARQUITECTURA BI
+    ===================================== -->
+    <section id="arquitectura" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 03 · EC2</span>
+            <h1>Arquitectura del observatorio</h1>
+            <p>
+                Una arquitectura híbrida integra cargas periódicas
+                y eventos de actividad académica, conserva
+                trazabilidad y entrega información gobernada
+                a los usuarios institucionales.
+            </p>
+        </div>
+
+
+        <div class="architecture">
+
+            <div class="arch-col">
+
+                <h3>Fuentes</h3>
+
+                <div class="arch-node">
+                    SIS académico
+                    <small>Interna · diaria</small>
+                </div>
+
+                <div class="arch-node">
+                    Admisiones
+                    <small>Interna · por convocatoria</small>
+                </div>
+
+                <div class="arch-node">
+                    ERP financiero
+                    <small>Interna · diaria</small>
+                </div>
+
+                <div class="arch-node">
+                    Moodle
+                    <small>Interna · eventos</small>
+                </div>
+
+                <div class="arch-node external">
+                    Bienestar
+                    <small>Interna · restringida · semanal</small>
+                </div>
+
+                <div class="arch-node external">
+                    Fuentes externas (ICFES Saber 11, MEN/SPADIES)
+                    <small>Externa · anual</small>
+                </div>
+
+            </div>
+
+            <div class="arch-arrow">→</div>
+
+            <div class="arch-col">
+
+                <h3>Integración</h3>
+
+                <div class="arch-node batch">
+                    ETL por lotes
+                    <small>Python · diario (Bienestar semanal)</small>
+                </div>
+
+                <div class="arch-node stream">
+                    Streaming Moodle
+                    <small>Continuo · consolidación diaria</small>
+                </div>
+
+                <div class="arch-node privacy">
+                    Anonimización de Bienestar
+                    <small>Antes de la zona bronce</small>
+                </div>
+
+            </div>
+
+            <div class="arch-arrow">→</div>
+
+            <div class="arch-col">
+
+                <h3>Almacenamiento</h3>
+
+                <div class="arch-node lake">
+                    Data Lake
+                    <small>Bronce · Plata · Oro</small>
+                </div>
+
+                <div class="arch-node dw">
+                    DW / Lakehouse
+                    <small>Modelo estrella</small>
+                </div>
+
+            </div>
+
+            <div class="arch-arrow">→</div>
+
+            <div class="arch-col">
+
+                <h3>Consumo</h3>
+
+                <div class="arch-node">
+                    Capa semántica
+                    <small>Medidas certificadas</small>
+                </div>
+
+                <div class="arch-node">
+                    Tablero BI
+                    <small>Autoservicio</small>
+                </div>
+
+                <div class="arch-node">
+                    Canal de alertas
+                    <small>Correo / Teams</small>
+                </div>
+
+                <div class="arch-node users">
+                    Usuarios por rol
+                    <small>Directivos · Consejeros · Analistas</small>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <h2>Frecuencia de cada flujo</h2>
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Flujo</th>
+                            <th>Modo</th>
+                            <th>Frecuencia</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>SIS → Lake (bronce)</td><td>Lotes</td><td>Diaria</td></tr>
+                        <tr><td>Admisiones → Lake</td><td>Lotes</td><td>Por convocatoria</td></tr>
+                        <tr><td>ERP → Lake</td><td>Lotes</td><td>Diaria</td></tr>
+                        <tr><td>Moodle → Lake</td><td>Streaming</td><td>Continua (consolidado diario)</td></tr>
+                        <tr><td>Bienestar → anonimización → Lake</td><td>Lotes</td><td>Semanal</td></tr>
+                        <tr><td>Fuentes externas → Lake</td><td>Lotes</td><td>Anual</td></tr>
+                        <tr><td>Plata/Oro → DW → capa semántica</td><td>Lotes</td><td>Diaria</td></tr>
+                        <tr><td>Reglas de alerta → canal</td><td>Casi tiempo real</td><td>Diaria o por evento</td></tr>
+                        <tr><td>Capa semántica → tablero</td><td>Actualización</td><td>Diaria</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <h2>Justificación tecnológica</h2>
+            </div>
+
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Componente</th>
+                            <th>Tecnología sugerida</th>
+                            <th>Justificación</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <td>ETL por lotes</td>
+                            <td>Python + pandas / Airflow</td>
+                            <td>Proceso repetible, automatizable y auditable.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Streaming</td>
+                            <td>Kafka / Azure Event Hubs</td>
+                            <td>Ingesta de eventos Moodle con baja latencia.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Data Lake</td>
+                            <td>S3 / ADLS + Parquet</td>
+                            <td>Almacenamiento por zonas y formatos eficientes.</td>
+                        </tr>
+
+                        <tr>
+                            <td>DW / Lakehouse</td>
+                            <td>PostgreSQL / Delta Lake</td>
+                            <td>Consultas analíticas y modelo dimensional.</td>
+                        </tr>
+
+                        <tr>
+                            <td>BI</td>
+                            <td>Power BI</td>
+                            <td>Indicadores consistentes y filtros de autoservicio.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Alertas</td>
+                            <td>Correo / Teams</td>
+                            <td>Entrega priorizada a los equipos de acompañamiento.</td>
+                        </tr>
+
+                        <tr>
+                            <td>Fuentes externas</td>
+                            <td>API / carga por archivo</td>
+                            <td>Enriquece el perfil del estudiante con datos oficiales.</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+
+        <div class="callout">
+            <b>Seguridad por diseño:</b>
+            Los datos sensibles de Bienestar se minimizan
+            y se seudonimizan antes de llegar a la capa analítica
+            (antes de la zona bronce). El acceso a datos identificables
+            debe permanecer restringido por rol y fuera del tablero público.
+        </div>
+
+    </section>
+
+
+    <!-- =====================================
+         5. TABLERO INTERACTIVO
+    ===================================== -->
+    <section id="tablero" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 04 · EC3</span>
+            <h1>Tablero interactivo de permanencia</h1>
+            <p>
+                Selecciona programa, facultad o estrato.
+                Los indicadores y las tablas se recalculan
+                con los grupos agregados de la cohorte.
+                Los filtros se pueden combinar.
+            </p>
+        </div>
+
+
+        <div class="filterbar">
+
+            <label>
+                Programa
+                <select id="programFilter">
+                    <option value="">Todos</option>
+                </select>
+            </label>
+
+            <label>
+                Facultad
+                <select id="facultyFilter">
+                    <option value="">Todas</option>
+                </select>
+            </label>
+
+            <label>
+                Estrato
+                <select id="stratumFilter">
+                    <option value="">Todos</option>
+                </select>
+            </label>
+
+            <button id="resetFilters" class="btn secondary">Limpiar filtros ↺</button>
+
+        </div>
+
+
+        <!-- Indicadores calculados con JavaScript -->
+        <div class="metric-grid" id="dashboardMetrics"></div>
+
+
+        <div class="charts-grid">
+
+            <div class="card">
+
+                <div class="card-title">
+                    <div>
+                        <span class="eyebrow">COMPARATIVO</span>
+                        <h2>Deserción por programa</h2>
+                    </div>
+                    <span class="tag">Meta ≤ 12%</span>
+                </div>
+
+                <div id="dropoutChart" class="bar-chart" aria-live="polite"></div>
+
+            </div>
+
+            <div class="card">
+
+                <div class="card-title">
+                    <div>
+                        <span class="eyebrow">LECTURA DE METAS</span>
+                        <h2>Semáforo de gestión</h2>
+                    </div>
+                </div>
+
+                <div id="trafficLights" class="traffic"></div>
+
+                <p class="small muted">
+                    Metas propuestas para el ejercicio: absorción ≥ 80 %,
+                    retención ≥ 88 %, deserción ≤ 12 %, promedio ≥ 3,5,
+                    alertados ≤ 120, precisión ≥ 40 % y cobertura ≥ 35 %.
+                    La meta de 120 alertados aplica a la cohorte completa,
+                    no a subconjuntos filtrados. El promedio excluye 13 registros
+                    fuera de la escala 0–5 y 25 sin promedio.
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <div>
+                    <span class="eyebrow">DETALLE</span>
+                    <h2>Resultados por programa y estrato</h2>
+                </div>
+                <span class="tag">Datos agregados</span>
+            </div>
+
+            <div class="table-wrap">
+                <table id="detailTable">
+                    <thead>
+                        <tr>
+                            <th>Programa</th>
+                            <th>Estrato</th>
+                            <th>Cohorte</th>
+                            <th>Retención</th>
+                            <th>Deserción</th>
+                            <th>Promedio</th>
+                            <th>Alertas actuales</th>
+                            <th>Alertas nuevas</th>
+                        </tr>
+                    </thead>
+
+                    <tbody></tbody>
+                </table>
+            </div>
+
+        </div>
+
+        <p class="small muted">
+            Los filtros se aplican sobre agregados por programa,
+            facultad y estrato. Las razones se recalculan como
+            cociente de sumas y no como promedio simple
+            de porcentajes.
+        </p>
+
+    </section>
+
+
+    <!-- =====================================
+         6. ALERTA TEMPRANA
+    ===================================== -->
+    <section id="alerta" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 05 · EC3</span>
+            <h1>Alerta temprana: de volumen a prioridad</h1>
+            <p>
+                Se compara la regla inicial con una propuesta
+                basada en actividad Moodle y notas parciales
+                de las semanas 1 a 8.
+            </p>
+        </div>
+
+
+        <div class="compare-grid">
+
+            <div class="card">
+
+                <span class="eyebrow">REGLA ACTUAL</span>
+
+                <div class="big-stat">371</div>
+
+                <h3>Estudiantes alertados</h3>
+
+                <p>
+                    Promedio de notas de semanas 4 y 8 menor
+                    a 3,0 sobre 5, o cero accesos sumados
+                    en semanas 7 y 8.
+                </p>
+
+                <div class="mini-metrics">
+                    <span>Precisión <b>32,61%</b></span>
+                    <span>Cobertura <b>69,14%</b></span>
+                </div>
+
+                <p class="small muted">Regla actual: VP 121 · FP 250 · FN 54 · VN 775.</p>
+
+            </div>
+
+
+            <div class="card highlight">
+
+                <span class="eyebrow">REGLA PROPUESTA</span>
+
+                <div class="big-stat">117</div>
+
+                <h3>Estudiantes alertados</h3>
+
+                <p>
+                    Al menos tres de cuatro señales de riesgo
+                    identificadas durante las semanas 1 a 8.
+                </p>
+
+                <div class="mini-metrics">
+                    <span>Precisión <b>56,41%</b></span>
+                    <span>Cobertura <b>37,71%</b></span>
+                </div>
+
+                <span class="tag success">
+                    Cumple capacidad ≤ 120 y cobertura ≥ 35%
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <div>
+                    <span class="eyebrow">REGLA NUEVA</span>
+                    <h2>Cuatro señales; se requieren al menos tres</h2>
+                </div>
+            </div>
+
+            <ol class="signal-list">
+
+                <li>
+                    <b>≤ 22</b>
+                    <span>Accesos totales acumulados en semanas 1–8.</span>
+                </li>
+
+                <li>
+                    <b>≤ 6</b>
+                    <span>Accesos acumulados en semanas 6–8.</span>
+                </li>
+
+                <li>
+                    <b>Menor a 50/100</b>
+                    <span>Promedio de las notas parciales de semanas 4 y 8.</span>
+                </li>
+
+                <li>
+                    <b>≥ 4 semanas</b>
+                    <span>Cuatro o más semanas de las ocho con dos accesos o menos.</span>
+                </li>
+
+            </ol>
+
+        </div>
+
+
+        <div class="card">
+
+            <div class="card-title">
+                <div>
+                    <span class="eyebrow">EVALUACIÓN</span>
+                    <h2>Matriz de confusión · regla nueva</h2>
+                </div>
+                <span class="tag">Cohorte: 1.200</span>
+            </div>
+
+            <div class="confusion">
+
+                <div></div>
+                <div class="conf-head">Desertó</div>
+                <div class="conf-head">Continuó</div>
+
+                <div class="conf-row">Alertó</div>
+
+                <div class="cell tp">
+                    <b>66</b>
+                    <small>Verdadero positivo</small>
+                </div>
+
+                <div class="cell fp">
+                    <b>51</b>
+                    <small>Falso positivo</small>
+                </div>
+
+                <div class="conf-row">No alertó</div>
+
+                <div class="cell fn">
+                    <b>109</b>
+                    <small>Falso negativo</small>
+                </div>
+
+                <div class="cell tn">
+                    <b>974</b>
+                    <small>Verdadero negativo</small>
+                </div>
+
+            </div>
+
+            <p class="small muted">
+                Precisión = 66 / (66 + 51) = 56,41%.
+                Cobertura = 66 / (66 + 109) = 37,71%.
+                La regla cumple los umbrales de esta cohorte
+                sintética. Debe validarse con otra cohorte
+                antes de su implementación productiva.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================
+         7. PROSPECTIVA
+    ===================================== -->
+    <section id="prospectiva" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">RETO 06 · EC3</span>
+            <h1>Prospectiva tecnológica</h1>
+            <p>
+                Tres capacidades para evolucionar desde el
+                reporte descriptivo hacia una gestión anticipada,
+                gobernada y medible de la permanencia.
+            </p>
+        </div>
+
+
+        <div class="future-grid">
+
+            <article class="card">
+
+                <span class="number">01</span>
+                <h2>Streaming de Moodle</h2>
+                <span class="tag">Kafka / Event Hubs + Spark</span>
+
+                <dl>
+                    <dt>Problema que resuelve</dt>
+                    <dd>La alerta por lotes puede llegar tarde para intervenir durante el periodo.</dd>
+
+                    <dt>Indicador que mejoraría</dt>
+                    <dd>Cobertura oportuna de alertas y tiempo entre señal e intervención.</dd>
+
+                    <dt>Riesgo</dt>
+                    <dd>Costos operativos y falsas alarmas por interrupciones de la plataforma.</dd>
+
+                    <dt>Mitigación</dt>
+                    <dd>Piloto en un programa, monitoreo de calidad y ventanas móviles de siete días.</dd>
+                </dl>
+
+            </article>
+
+
+            <article class="card">
+
+                <span class="number">02</span>
+                <h2>Modelo predictivo de riesgo</h2>
+                <span class="tag">Regresión logística / Gradient Boosting</span>
+
+                <dl>
+                    <dt>Problema que resuelve</dt>
+                    <dd>Una regla fija no ordena los casos por probabilidad ni combina señales flexibles.</dd>
+
+                    <dt>Indicador que mejoraría</dt>
+                    <dd>Precisión y cobertura de alertas a capacidad constante.</dd>
+
+                    <dt>Riesgo</dt>
+                    <dd>Sesgo por estrato, sobreajuste y falta de explicabilidad.</dd>
+
+                    <dt>Mitigación</dt>
+                    <dd>Validación temporal, explicación de variables y auditoría por grupos.</dd>
+                </dl>
+
+            </article>
+
+
+            <article class="card">
+
+                <span class="number">03</span>
+                <h2>Lakehouse y gobierno de datos</h2>
+                <span class="tag">Delta Lake + catálogo</span>
+
+                <dl>
+                    <dt>Problema que resuelve</dt>
+                    <dd>Fuentes heterogéneas, llaves inconsistentes y presencia de datos sensibles.</dd>
+
+                    <dt>Indicador que mejoraría</dt>
+                    <dd>Exactitud, completitud y oportunidad de los indicadores de permanencia.</dd>
+
+                    <dt>Riesgo</dt>
+                    <dd>Costo de adopción y exposición de información de Bienestar.</dd>
+
+                    <dt>Mitigación</dt>
+                    <dd>Catálogo, linaje, zonas bronce/plata/oro, enmascaramiento y acceso por rol.</dd>
+                </dl>
+
+            </article>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================
+         8. REFERENCIAS
+    ===================================== -->
+    <section id="referencias" class="page" hidden>
+
+        <div class="page-heading">
+            <span class="eyebrow">FUENTES Y TRAZABILIDAD</span>
+            <h1>Referencias</h1>
+            <p>Referencias técnicas en formato APA 7.</p>
+        </div>
+
+
+        <div class="card reference-list">
+
+            <!-- REEMPLAZAR por las referencias reales del material del curso (EC2 y EC3) -->
+            <p>
+                <b>Kimball, R., y Caserta, J. (2004)..</b>
+                <i>Kimball, R., y Caserta, J. (2004). The Data Warehouse ETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data [El kit de herramientas ETL para almacenes de datos: Técnicas prácticas para extraer, limpiar, conformar y entregar datos]. Wiley. www.nibmehub.com</i>
+                www.nibmehub.com.
+            </p>
+
+            <p>
+                <b>Zikopoulos, P., Eaton, C., deRoos, D., y Deutsch, T.</b>
+                <i>(2012). Understanding Big Data: Analytics for Enterprise Class Hadoop and Streaming Data [Comprender el Big Data: Analítica para Hadoop y datos en streaming de clase empresarial]. McGraw-Hill. www.personal.utdallas.edu</i>
+            </p>
+
+            <p>
+                <b>Few, S. (2013).</b>
+                <i>Information dashboard design: Displaying data for at-a-glance monitoring</i>
+                (2nd ed.). Analytics Press.
+            </p>
+
+            
+            <p>
+                <b>Han, J., Pei, J., y Kamber, M. (2012)</b>
+                <i>Data mining: Concepts and techniques [Minería de datos: conceptos y técnicas]. Morgan Kaufmann.</i>
+            </p>
+
+            <p>
+                <b>López Romero, M. I. (2023)</b>
+                <i>Diseño de una arquitectura de inteligencia de negocios para apoyar la toma de decisiones en el sector público de Colombia: caso de estudio Antioquia (Trabajo de grado de maestría). Universidad EAN. www.repository.universidadean.edu.co</i>
+            </p>
+
+
+            <p>
+                <b>Inmon, W. H. (2005).</b>
+                <i>Building the data warehouse</i>
+                (4th ed.). Wiley.
+            </p>
+
+            <p>
+                <b>Kimball, R., &amp; Ross, M. (2013).</b>
+                <i>The data warehouse toolkit: The definitive guide to dimensional modeling</i>
+                (3rd ed.). Wiley.
+            </p>
+
+            <p>
+                <b> Zikopoulos, P., Eaton, C., deRoos, D., y Deutsch, T. (2012) </b>
+                Understanding Big Data: Analytics for Enterprise Class Hadoop and Streaming Data [Comprender el Big Data: analítica para-Hadoop y datos en streaming de clase empresarial]. McGraw-Hill. www.personal.utdallas.edu
+            </p>
+            <p>
+                <b>Han, J., Pei, J., y Kamber, M. (2012). Data mining: </b>
+                Concepts and techniques [Minería de datos: conceptos y técnicas]. Morgan Kaufmann.
+            </p>
+           
+
+        </div>
+
+
+        <div class="callout">
+            <b>Nota metodológica:</b>
+            La institución y los datos son ficticios o sintéticos.
+            Los umbrales del semáforo son metas propuestas para esta actividad.
+            La absorción se calcula como 1.200 estudiantes de la cohorte
+            entre 1.450 admitidos únicos (82,76 %).
+        </div>
+
+    </section>
+
+
+    <!-- =====================================
+         PIE DE PÁGINA
+    ===================================== -->
+    <footer>
+        <span>OBSERVATORIO DE PERMANENCIA · ACTIVIDAD 2</span>
+        <span>
+            Autora: Sairy Ximena Mosquera García
+            · Universidad Andina del Norte (ficticia)
+        </span>
+    </footer>
+
+</main>
+
+
+<!-- =====================================
+     ARCHIVOS JAVASCRIPT
+===================================== -->
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+
+</body>
+
+</html>
