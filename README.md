@@ -4,7 +4,7 @@
 **Entrega:** A2_Grupo# (reemplazar # por el número del grupo)
 **Integrantes:** Nombre 1 · Nombre 2 · Nombre 3 · Nombre 4
 **Página pública:** https://mosquerag.github.io/Actividad_Final_INTRODUCCION_A_LA_INTELIGENCIA_DE_NEGOCIOS/
-**Repositorio:** https://github.com/mosquerag/Actividad_Final_INTRODUCCION_A_LA_INTELIGENCIA_DE_NEGOCIOS
+**Repositorio:** [https://github.com/mosquerag/Actividad_Final_INTRODUCCION_A_LA_INTELIGENCIA_DE_NEGOCIOS](https://github.com/mosquerag/Actividad_Final_INTRODUCCION_A_LA_INTELIGENCIA_DE_NEGOCIOS)
 
 Observatorio web de permanencia estudiantil para la cohorte 2025-1 de la Universidad Andina del Norte (institución y datos sintéticos). Integra cinco fuentes mediante un ETL reproducible, un modelo dimensional, una arquitectura BI objetivo, un tablero interactivo con filtros y una regla de alerta temprana mejorada.
 
